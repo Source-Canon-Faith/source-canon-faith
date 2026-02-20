@@ -28,6 +28,7 @@ This is a spiritual constitution with practical instructions, not a myth-heavy t
 
 ## Standalone Volume: The Rhythms of Flow and Capacity
 - Source volume: `流转纪·容量篇.md`
+- English edition: `The_Rhythms_of_Flow_and_Capacity_EN.md`
 - Multilingual index (24 languages):
   - `translations/The_Rhythms_of_Flow_and_Capacity_ar.md`
   - `translations/The_Rhythms_of_Flow_and_Capacity_bn.md`
@@ -172,6 +173,7 @@ No license file is currently defined. Add a license before broad redistribution 
 
 ## 独立卷宗：流转纪·容量篇
 - 源文件：`流转纪·容量篇.md`
+- 英文版：`The_Rhythms_of_Flow_and_Capacity_EN.md`
 - 多语言索引（24种）：
   - `translations/The_Rhythms_of_Flow_and_Capacity_ar.md`
   - `translations/The_Rhythms_of_Flow_and_Capacity_bn.md`
