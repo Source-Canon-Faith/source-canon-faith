@@ -1,0 +1,289 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // --- Language metadata ---
+  var LANG_NAMES = {
+    en: 'English', zh: '简体中文',
+    ar: 'العربية', bn: 'বাংলা', cs: 'Čeština', de: 'Deutsch',
+    el: 'Ελληνικά', es: 'Español', fr: 'Français', he: 'עברית',
+    hi: 'हिन्दी', hu: 'Magyar', id: 'Bahasa Indonesia', it: 'Italiano',
+    ja: '日本語', ko: '한국어', la: 'Latina', nl: 'Nederlands',
+    pl: 'Polski', pt: 'Português', ru: 'Русский', sv: 'Svenska',
+    tr: 'Türkçe', uk: 'Українська',
+    'zh-Hans': '简体中文 (翻译版)', 'zh-Hant': '繁體中文'
+  };
+
+  // EN and ZH are native content; the rest are "translation" languages
+  var NATIVE_LANGS = ['en', 'zh'];
+
+  // --- DOM refs ---
+  var btn = document.getElementById('lang-switcher-btn');
+  var dropdown = document.getElementById('lang-dropdown');
+  var currentNameEl = document.getElementById('lang-current-name');
+  if (!btn || !dropdown || !currentNameEl) return;
+
+  var items = dropdown.querySelectorAll('li[data-lang]');
+
+  // --- Helpers ---
+  var STORAGE_KEY = 'sourcecanon-lang';
+
+  function getSavedLang() {
+    try { return localStorage.getItem(STORAGE_KEY); } catch (e) { return null; }
+  }
+
+  function saveLang(lang) {
+    try { localStorage.setItem(STORAGE_KEY, lang); } catch (e) { /* ignore */ }
+  }
+
+  // --- Page classification ---
+  function classifyCurrentPage() {
+    var path = window.location.pathname.replace(/\/$/, '').replace(/\/index\.html$/, '');
+    // Home
+    if (path === '' || path === '/index.html') {
+      return { type: 'home' };
+    }
+    // EN pages: /docs/en or /docs/en/book-i etc.
+    var enMatch = path.match(/^\/docs\/en(?:\/(.*))?$/);
+    if (enMatch) {
+      return { type: 'en', slug: enMatch[1] || 'index' };
+    }
+    // ZH pages: /docs/zh or /docs/zh/book-i etc.
+    var zhMatch = path.match(/^\/docs\/zh(?:\/(.*))?$/);
+    if (zhMatch) {
+      return { type: 'zh', slug: zhMatch[1] || 'index' };
+    }
+    // Translation pages: /docs/translations/canon-XX or /docs/translations/rhythms-XX
+    var transCanon = path.match(/^\/docs\/translations\/canon-([a-zA-Z-]+?)(?:\.html)?$/);
+    if (transCanon) {
+      return { type: 'translation', content: 'canon', langCode: transCanon[1] };
+    }
+    var transRhythms = path.match(/^\/docs\/translations\/rhythms-([a-zA-Z-]+?)(?:\.html)?$/);
+    if (transRhythms) {
+      return { type: 'translation', content: 'rhythms', langCode: transRhythms[1] };
+    }
+    // Translations index
+    if (path === '/docs/translations') {
+      return { type: 'translations-index' };
+    }
+    // Rhythms
+    var rhythmsMatch = path.match(/^\/docs\/rhythms(?:\.html)?$/);
+    if (rhythmsMatch) {
+      return { type: 'rhythms' };
+    }
+    return { type: 'other' };
+  }
+
+  // --- Target URL computation ---
+  function computeTargetUrl(targetLang) {
+    var page = classifyCurrentPage();
+
+    // Home: stay on home
+    if (page.type === 'home') return null;
+
+    // Rhythms page: bilingual, stay for EN/ZH; go to translation for others
+    if (page.type === 'rhythms') {
+      if (targetLang === 'en' || targetLang === 'zh') return null;
+      return '/docs/translations/rhythms-' + targetLang + '.html';
+    }
+
+    // EN content pages
+    if (page.type === 'en') {
+      if (targetLang === 'en') return null;
+      if (targetLang === 'zh') {
+        // Same slug in ZH
+        var slug = page.slug.replace(/\.html$/, '');
+        return slug === 'index' ? '/docs/zh/' : '/docs/zh/' + slug + '.html';
+      }
+      // Other language -> translation page
+      return '/docs/translations/canon-' + targetLang + '.html';
+    }
+
+    // ZH content pages
+    if (page.type === 'zh') {
+      if (targetLang === 'zh') return null;
+      if (targetLang === 'en') {
+        var slug = page.slug.replace(/\.html$/, '');
+        return slug === 'index' ? '/docs/en/' : '/docs/en/' + slug + '.html';
+      }
+      return '/docs/translations/canon-' + targetLang + '.html';
+    }
+
+    // Translation pages
+    if (page.type === 'translation') {
+      if (targetLang === 'en') {
+        return page.content === 'canon' ? '/docs/en/' : '/docs/rhythms.html';
+      }
+      if (targetLang === 'zh') {
+        return page.content === 'canon' ? '/docs/zh/' : '/docs/rhythms.html';
+      }
+      // Switch between translation languages
+      return '/docs/translations/' + page.content + '-' + targetLang + '.html';
+    }
+
+    // Translations index
+    if (page.type === 'translations-index') {
+      if (targetLang === 'en') return '/docs/en/';
+      if (targetLang === 'zh') return '/docs/zh/';
+      return null;
+    }
+
+    return null;
+  }
+
+  // --- Nav visibility ---
+  function updateNavVisibility(lang) {
+    // Find sidebar nav sections by their link text content
+    var sideNav = document.querySelector('.site-nav, .nav-list');
+    if (!sideNav) return;
+
+    // In just-the-docs, top-level nav items are direct children of .nav-list
+    var navItems = document.querySelectorAll('.nav-list > .nav-list-item');
+    navItems.forEach(function (item) {
+      var link = item.querySelector('.nav-list-link');
+      if (!link) return;
+      var text = link.textContent.trim();
+
+      if (text === 'Canon (EN)') {
+        item.style.display = (lang === 'en') ? '' : 'none';
+      } else if (text === '正典 (中文)') {
+        item.style.display = (lang === 'zh') ? '' : 'none';
+      } else if (text === 'Translations') {
+        // Hide translations nav for EN/ZH (they have their own nav);
+        // also hide for other langs (translation pages have no sub-nav)
+        item.style.display = 'none';
+      }
+      // "Home" and "Rhythms of Flow and Capacity" always visible
+    });
+  }
+
+  // --- Checkmark for current selection ---
+  function updateCheckmarks(lang) {
+    items.forEach(function (item) {
+      var check = item.querySelector('.lang-check');
+      if (item.getAttribute('data-lang') === lang) {
+        if (!check) {
+          check = document.createElement('span');
+          check.className = 'lang-check';
+          check.setAttribute('aria-hidden', 'true');
+          check.textContent = ' \u2713';
+          item.appendChild(check);
+        }
+        item.setAttribute('aria-selected', 'true');
+      } else {
+        if (check) check.remove();
+        item.removeAttribute('aria-selected');
+      }
+    });
+  }
+
+  // --- Dropdown open/close ---
+  var isOpen = false;
+  function openDropdown() {
+    isOpen = true;
+    dropdown.classList.add('lang-dropdown-open');
+    btn.setAttribute('aria-expanded', 'true');
+    // Scroll current selection into view
+    var selected = dropdown.querySelector('[aria-selected="true"]');
+    if (selected) selected.scrollIntoView({ block: 'nearest' });
+  }
+  function closeDropdown() {
+    isOpen = false;
+    dropdown.classList.remove('lang-dropdown-open');
+    btn.setAttribute('aria-expanded', 'false');
+  }
+
+  btn.addEventListener('click', function (e) {
+    e.stopPropagation();
+    if (isOpen) closeDropdown(); else openDropdown();
+  });
+
+  document.addEventListener('click', function () {
+    if (isOpen) closeDropdown();
+  });
+
+  dropdown.addEventListener('click', function (e) {
+    e.stopPropagation();
+  });
+
+  // --- Keyboard navigation ---
+  btn.addEventListener('keydown', function (e) {
+    if (e.key === 'ArrowDown' || e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      openDropdown();
+      var first = dropdown.querySelector('li[data-lang]');
+      if (first) first.focus();
+    }
+    if (e.key === 'Escape') closeDropdown();
+  });
+
+  dropdown.addEventListener('keydown', function (e) {
+    var focused = document.activeElement;
+    var langItems = Array.prototype.slice.call(items);
+    var idx = langItems.indexOf(focused);
+
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      var next = idx + 1 < langItems.length ? langItems[idx + 1] : langItems[0];
+      next.focus();
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      var prev = idx - 1 >= 0 ? langItems[idx - 1] : langItems[langItems.length - 1];
+      prev.focus();
+    } else if (e.key === 'Enter' || e.key === ' ') {
+      e.preventDefault();
+      if (focused && focused.getAttribute('data-lang')) {
+        selectLang(focused.getAttribute('data-lang'));
+      }
+    } else if (e.key === 'Escape') {
+      closeDropdown();
+      btn.focus();
+    }
+  });
+
+  // Make items focusable
+  items.forEach(function (item) {
+    item.setAttribute('tabindex', '-1');
+  });
+
+  // --- Language selection ---
+  function selectLang(lang) {
+    saveLang(lang);
+    currentNameEl.textContent = LANG_NAMES[lang] || lang;
+    updateCheckmarks(lang);
+    updateNavVisibility(lang);
+    closeDropdown();
+
+    var targetUrl = computeTargetUrl(lang);
+    if (targetUrl) {
+      window.location.href = targetUrl;
+    }
+  }
+
+  // Click handler on items
+  items.forEach(function (item) {
+    item.addEventListener('click', function () {
+      selectLang(item.getAttribute('data-lang'));
+    });
+  });
+
+  // --- Initialization ---
+  function detectLangFromPage() {
+    var page = classifyCurrentPage();
+    if (page.type === 'en') return 'en';
+    if (page.type === 'zh') return 'zh';
+    if (page.type === 'translation') return page.langCode;
+    return null;
+  }
+
+  // Priority: page URL > localStorage > default 'en'
+  var pageLang = detectLangFromPage();
+  var savedLang = getSavedLang();
+  var activeLang = pageLang || savedLang || 'en';
+
+  // If page implies a language, update storage
+  if (pageLang) saveLang(pageLang);
+
+  currentNameEl.textContent = LANG_NAMES[activeLang] || activeLang;
+  updateCheckmarks(activeLang);
+  updateNavVisibility(activeLang);
+});
+</script>

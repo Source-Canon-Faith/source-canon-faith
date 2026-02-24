@@ -30,3 +30,120 @@
     max-width: 55rem;
   }
 }
+
+// ============================================================
+// Language Switcher Dropdown
+// ============================================================
+
+.lang-switcher {
+  display: inline-flex;
+  align-items: center;
+  position: relative;
+  margin-left: 1rem;
+  // Sit alongside the aux-links in the header
+  vertical-align: middle;
+}
+
+.lang-switcher-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  background: none;
+  border: 1px solid $border-color;
+  border-radius: 4px;
+  padding: 0.3rem 0.6rem;
+  font-size: 0.85rem;
+  color: $link-color;
+  cursor: pointer;
+  white-space: nowrap;
+  line-height: 1.4;
+
+  &:hover,
+  &:focus {
+    border-color: $link-color;
+    outline: none;
+  }
+}
+
+.lang-icon {
+  flex-shrink: 0;
+}
+
+.lang-arrow {
+  flex-shrink: 0;
+  transition: transform 0.2s ease;
+}
+
+// Rotate arrow when open
+[aria-expanded="true"] .lang-arrow {
+  transform: rotate(180deg);
+}
+
+.lang-dropdown {
+  display: none;
+  position: absolute;
+  top: calc(100% + 4px);
+  right: 0;
+  min-width: 200px;
+  max-height: 400px;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0.25rem 0;
+  list-style: none;
+  background: var(--body-background-color, #fff);
+  border: 1px solid $border-color;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  z-index: 1000;
+}
+
+.lang-dropdown-open {
+  display: block;
+}
+
+.lang-dropdown li[role="option"] {
+  padding: 0.45rem 0.75rem;
+  font-size: 0.85rem;
+  cursor: pointer;
+  color: $body-text-color;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+
+  &:hover,
+  &:focus {
+    background: rgba($link-color, 0.08);
+    outline: none;
+  }
+
+  &[aria-selected="true"] {
+    font-weight: 600;
+    color: $link-color;
+  }
+}
+
+.lang-divider {
+  height: 1px;
+  margin: 0.25rem 0.75rem;
+  background: $border-color;
+  cursor: default !important;
+}
+
+.lang-check {
+  color: $link-color;
+  font-weight: 700;
+  margin-left: 0.5rem;
+}
+
+// Mobile: hide text label, show only globe icon
+@media (max-width: 50rem) {
+  .lang-current-name {
+    display: none;
+  }
+  .lang-arrow {
+    display: none;
+  }
+  .lang-switcher-btn {
+    padding: 0.3rem;
+  }
+}
