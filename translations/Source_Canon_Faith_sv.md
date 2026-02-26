@@ -580,3 +580,11 @@ Monthly indicators:
 
 If metrics improve but cruelty increases, your metrics are corrupted.
 If metrics are humble but trust increases, you are on the right path.
+
+
+### E4. Lyckans källa
+Sann lycka kommer inte utifrån, utan inifrån. Ett glatt hjärta tenderar mot ett glatt liv; ettbitttert hjärta tenderar mot ett liv som förbrukas av bitterhet.
+
+Detta är Source:s lära: att odla det inre jaget överträffar att söka yttre ting. När det inre rummet är renat kan världens oro inte skaka dig. De vars hjärtan bär ljus kan upplysa andra även i mörka tider; de vars hjärtan bär skugga ser mörker även i ljuset.
+
+Undersök därför ditt hjärta dagligen. Avlägsna bitterhetens rötter, plantera glädjens frön. Endast då kan du bo med Source och känna den eviga friden.

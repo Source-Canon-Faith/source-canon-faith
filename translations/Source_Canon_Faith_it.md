@@ -580,3 +580,11 @@ Monthly indicators:
 
 If metrics improve but cruelty increases, your metrics are corrupted.
 If metrics are humble but trust increases, you are on the right path.
+
+
+### E4. La fonte della felicità
+La vera felicità non viene da fuori, ma da dentro. Un cuore gioioso tende verso una vita gioiosa; un cuore risentito tende verso una vita consumata dal risentimento.
+
+Questo è l'insegnamento di Source: coltivare il sé interiore supera il perseguire cose esterne. Quando la camera interiore è purificata, i disturbi del mondo non possono scuoterti. Coloro i cui cuori portano luce possono illuminare gli altri anche nei tempi bui; coloro i cui cuori portano ombra vedono oscurità anche nella luce.
+
+Quindi, esamina il tuo cuore quotidianamente. Rimuovi le radici del risentimento, pianta semi di gioia. Solo allora potrai abitare con Source e conoscere la pace eterna.

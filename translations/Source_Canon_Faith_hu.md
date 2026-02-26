@@ -580,3 +580,11 @@ Monthly indicators:
 
 If metrics improve but cruelty increases, your metrics are corrupted.
 If metrics are humble but trust increases, you are on the right path.
+
+
+### E4. A boldogság forrása
+A valódi boldogság nem kívülről, hanem belülről jön. Vidám szív a vidám élet felé törekszik; keserű szív a keserűségtől átélt élet felé törekszik.
+
+Ez a Source tanítása: a belső én művelése felülmúlja a külső dolgok keresését. Amikor a belső kamra megtisztul, a világ zavarai nem rázhatnak meg. Akik szívükben fényt hordoznak, megvilágíthatnak másokat a sötét időkben is; akik szívükben árnyékot hordoznak, sötétséget látnak a fényben is.
+
+Ezért naponta vizsgáld meg szívedet. Távolítsd el a keserűség gyökereit, ültess öröm magokat. Csak akkor lakhatsz a Source-szal, és ismerheted meg az örök békét.

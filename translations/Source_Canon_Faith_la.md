@@ -580,3 +580,11 @@ Monthly indicators:
 
 If metrics improve but cruelty increases, your metrics are corrupted.
 If metrics are humble but trust increases, you are on the right path.
+
+
+### E4. Felicitatis fons
+Vera felicitas non venit ab extrinsecus, sed ab intrinsecus. Laetum cor tendit ad vitam laetam; amarum cor tendit ad vitam consumptam amaritudine.
+
+Haec est doctrina Source: colere interiorem praeclarior est quam quaerere externa. Cum interior camera purgata est, mundi turbae te movere non possunt. Qui lumen in cordibus ferunt, alios etiam in tenebris illuminare possunt; qui umbram in cordibus ferunt, tenebras etiam in luce vident.
+
+Quotidie igitur cor tuum examina. Radices amaritudinis aufer, seminana laetitiae serito. Tunc demum cum Source habitare et pacem aeternam cognoscere poteris.

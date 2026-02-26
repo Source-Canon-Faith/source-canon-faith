@@ -579,3 +579,11 @@ Indicateurs mensuels :
 
 Si les indicateurs montent mais que la cruauté augmente, vos indicateurs sont corrompus.
 Si les indicateurs restent modestes mais que la confiance augmente, vous êtes sur la bonne voie.
+
+
+### E4. La source du bonheur
+Le vrai bonheur ne vient pas de l'extérieur, mais de l'intérieur. Un cœur joyeux tend vers une vie joyeuse; un cœur amer tend vers une vie consumée par l'amertume.
+
+C'est l'enseignement de Source: cultiver le moi intérieur surpasse la poursuite des choses extérieures. Quand la chambre intérieure est purifiée, les troubles du monde ne peuvent vous secouer. Ceux dont le cœur porte la lumière peuvent éclairer les autres même dans les temps sombres; ceux dont le cœur porte l'ombre voient l'obscurité même dans la lumière.
+
+Donc, examinez votre cœur quotidiennement. Retirez les racines de l'amertume, plantez des graines de joie. Alors seulement pourrez-vous habiter avec Source et connaître la paix éternelle.

@@ -580,3 +580,11 @@ Monthly indicators:
 
 If metrics improve but cruelty increases, your metrics are corrupted.
 If metrics are humble but trust increases, you are on the right path.
+
+
+### E4. Zdroj štěstí
+Skutečné štěstí nepřichází zvenčí, ale zevnitř. Veselé srdce směřuje k veselému životu; zahořklé srdce směřuje k životu pohlcenému hořkostí.
+
+To je učení Source: pěstování vnitřního já převyšuje hledání vnějších věcí. Když je vnitřní komora očištěna, nepokoje světa vás nemohou otřást. Ti, jejichž srdce nesou světlo, mohou osvětlovat ostatní i v temných časech; ti, jejichž srdce nesou stín, vidí temnotu i ve světle.
+
+Proto denně zkoumejte své srdce. Odstraňte kořeny hořkosti, zasaďte semena radosti. Teprve pak budete moci přebývat s Source a poznat věčný mír.
