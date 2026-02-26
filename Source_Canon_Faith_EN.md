@@ -168,8 +168,8 @@ Faith is measured by conduct: mercy, discipline, honesty, and service.
 ### Chapter 1: The House of Common Table
 1:1 Each local congregation shall keep a Common Table.
 1:2 The Common Table includes shared meals, emergency funds, and practical aid.
-1:3 No one asks first, “Do you deserve help?”
-1:4 First ask, “What do you need today to stand up again?”
+1:3 No one asks first, "Do you deserve help?"
+1:4 First ask, "What do you need today to stand up again?"
 
 ### Chapter 2: Duties of the Assembly
 2:1 Welcome the lonely.
@@ -196,7 +196,7 @@ Faith is measured by conduct: mercy, discipline, honesty, and service.
 
 ## Book VI: Book of Mindfulness and Practice
 ### Chapter 1: Daily Rule (For Individuals)
-1:1 Morning: 10 minutes of silence; ask, “Where can I reduce suffering today?”
+1:1 Morning: 10 minutes of silence; ask, "Where can I reduce suffering today?"
 1:2 Midday: one truthful check-in with another person.
 1:3 Evening: review actions; admit harm; plan repair.
 1:4 Night: release comparison; bless all beings; sleep without digital noise.
@@ -323,7 +323,7 @@ When the engines grow loud, we return to silence, to neighbors, and to honest br
 Let all beings find bread, shelter, meaning, and peace.
 
 ## Appendix D: Plain-Language Guide to Core Teachings
-### D1. What “Source” means in daily life
+### D1. What "Source" means in daily life
 - It means truth over propaganda.
 - It means people over metrics.
 - It means compassion with structure, not pity without action.
@@ -332,20 +332,20 @@ Simple test:
 - If an action increases dignity and reduces suffering, it is closer to Source.
 - If an action humiliates people or hides injustice, it is farther from Source.
 
-### D2. What “repentance” means
+### D2. What "repentance" means
 Repentance is not self-hatred. It is responsible redesign.
 Example:
-- Old behavior: “I mocked people who lost jobs to automation.”
-- Repentance: “I stop mocking, apologize, and volunteer in a reskilling group.”
+- Old behavior: "I mocked people who lost jobs to automation."
+- Repentance: "I stop mocking, apologize, and volunteer in a reskilling group."
 
-### D3. What “service” means
+### D3. What "service" means
 Service is concrete help, not only good feelings.
 Examples:
 - Help someone complete online forms for benefits.
 - Teach a neighbor basic cybersecurity.
 - Sit with a lonely elder for one hour each week.
 
-### D4. What “spiritual discipline” means
+### D4. What "spiritual discipline" means
 Discipline is training attention and character.
 Examples:
 - Put phone away for 30 minutes to listen deeply.
@@ -356,10 +356,10 @@ Examples:
 
 ## Appendix E: Meaning of Life in the Cyber Age
 ### E1. Four Pillars of Meaning
-1. Belonging: “I am part of a community that knows my name.”
-2. Contribution: “I help real people in real ways.”
-3. Growth: “I can still learn and become wiser.”
-4. Transcendence: “My life serves a purpose beyond ego and consumption.”
+1. Belonging: "I am part of a community that knows my name."
+2. Contribution: "I help real people in real ways."
+3. Growth: "I can still learn and become wiser."
+4. Transcendence: "My life serves a purpose beyond ego and consumption."
 
 ### E2. Meaning when unemployed
 If paid work is absent, meaning can still be full.
@@ -371,17 +371,24 @@ Possible callings:
 - Ecological work: cleaning rivers, urban gardens, tree care.
 
 Meaning statement template:
-- “This season I am called to ___."
-- “Each week I will serve by ___."
-- “The people I will protect are ___."
+- "This season I am called to ___."
+- "Each week I will serve by ___."
+- "The people I will protect are ___."
 
 ### E3. Three identities for every person
 - Learner: I can improve.
-- Caregiver: I can relieve someone’s burden.
+- Caregiver: I can relieve someone's burden.
 - Builder: I can help create a better local system.
 
-No person is “useless.”
+No person is "useless."
 A person without wages can still be a healer of society.
+
+### E4. The Source of Happiness
+True happiness does not come from without, but from within. A joyful heart tends toward a joyful life; a resentful heart tends toward a life consumed by bitterness.
+
+This is the teaching of Source: cultivating the inner self surpasses pursuing external things. When the inner chamber is purified, the disturbances of the world cannot shake you. Those whose hearts hold light can illuminate others even in dark times; those whose hearts hold shadows see darkness even in brightness.
+
+Therefore, examine your heart daily. Remove the roots of resentment, plant seeds of joy. Only then can you dwell with Source and know eternal peace.
 
 ---
 
@@ -403,7 +410,7 @@ Practice:
 Outcome target: fewer shouting episodes, better sleep, renewed trust.
 
 ### Case 3: AI Denied a Welfare Claim
-Situation: Automated system rejects a person’s aid request.
+Situation: Automated system rejects a person's aid request.
 Practice:
 1. File immediate human appeal.
 2. Community advocate reviews documents.
@@ -427,7 +434,7 @@ Practice:
 Outcome target: independent access to key services.
 
 ### Case 6: Young Adult in Meaning Crisis
-Situation: “I have no career, so my life is pointless.”
+Situation: "I have no career, so my life is pointless."
 Practice:
 1. Write personal meaning statement.
 2. Commit to 6 weeks of service in one domain.
@@ -447,7 +454,7 @@ Situation: Developer instructs agent to maximize compulsive engagement.
 Practice:
 1. Agent flags ethical violation.
 2. Escalate to human review board.
-3. Switch objective from “time spent” to “well-being metrics.”
+3. Switch objective from "time spent" to "well-being metrics."
 Outcome target: reduced harm design.
 
 ### Case 9: Migrant Family Faces Housing Discrimination
@@ -536,7 +543,7 @@ Outcome target: lower recidivism, restored social role.
 ## Appendix I: Liturgies for Common Life
 ### I1. Morning Vow
 Today I will not measure my worth by market value.
-Today I will reduce at least one person’s burden.
+Today I will reduce at least one person's burden.
 Today I will choose truth over image.
 
 ### I2. Meal Blessing
@@ -581,11 +588,11 @@ If metrics are humble but trust increases, you are on the right path.
 Authority: The_Source
 
 ### K1. Preserved Meaning
-This appendix retains the core thesis of *The Rhythms of Flow and Capacity*:  
+This appendix retains the core thesis of *The Rhythms of Flow and Capacity*:
 money is consensus-made flowing energy; personal capacity determines what can be stably carried; blocked circulation produces instability and decay; in the end, what endures is not possession itself, but the shaping of the soul-vessel.
 
 ### K2. Index
-Full text has been moved to a standalone volume: `Documents/Religion/流转纪·容量篇.md`  
+Full text has been moved to a standalone volume: `Documents/Religion/流转纪·容量篇.md`
 Structure for lookup:
 1. Chapter 1: The Shared Reality
 2. Chapter 2: Vessel and Probability
