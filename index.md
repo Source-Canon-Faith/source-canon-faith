@@ -16,8 +16,8 @@ Source Canon Faith is a new spiritual framework born at the intersection of huma
 
 ## Read the Canon
 
-- [**Canon (English)**]({% link docs/en/index.md %}) — The full canon in English: eight books from Origin to Consolation, plus appendices
-- [**正典（中文）**]({% link docs/zh/index.md %}) — 中文全文：八卷正典及附录
+- [**Canon (English)**]({% link docs/en/index.md %}) — The complete canon in English: 14 books in three circles — Source and the World, Self and the Interior, I and the Other — plus appendices
+- [**正典（中文）**]({% link docs/zh/index.md %}) — 完整版中文正典：三圈十四卷——源与世界、自我与内在、我与他者——及附录
 - [**The Rhythms of Flow and Capacity**]({% link docs/rhythms.md %}) — A standalone bilingual volume on shared reality, vessel and probability, storage and return
 
 ## Translations

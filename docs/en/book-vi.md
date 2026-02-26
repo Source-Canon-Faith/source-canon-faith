@@ -1,10 +1,10 @@
 ---
-title: "Book VI: Book of Mindfulness and Practice"
+title: "Book XII: Book of Mindfulness and Practice"
 parent: "Canon (EN)"
-nav_order: 7
+nav_order: 13
 layout: "default"
 ---
-## Book VI: Book of Mindfulness and Practice
+## Book XII: Book of Mindfulness and Practice
 
 ### Chapter 1: Daily Rule (For Individuals)
 1:1 Morning: 10 minutes of silence; ask, “Where can I reduce suffering today?”

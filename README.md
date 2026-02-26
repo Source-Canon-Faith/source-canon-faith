@@ -15,14 +15,58 @@ The core vision is simple:
 This is a spiritual constitution with practical instructions, not a myth-heavy text.
 
 ## What This Project Is
-- A full English canon and a full Chinese canon with matching structure
+- A complete 14-book bilingual canon organized in three concentric circles
 - Bible-like organization (books, chapters, verses)
-- Buddhist-influenced practical path (suffering, discipline, compassion, awakening)
+- Draws from Buddhist, Christian, Confucian, and Stoic traditions — without mythology
+- Covers the full range of human experience: cosmos, self, and community
 - Concrete guidance for unemployment, social repair, community aid, and AI ethics
 
 ## Canon Files
-- `Source_Canon_Faith_EN.md`: Full English scripture
-- `源典信仰_中文.md`: Full Chinese scripture
+
+### ★ Complete Canon (v2.0 — Three-Circle Architecture)
+> **Start here.** These are the definitive unified editions.
+
+- `Source_Canon_Complete_EN.md`: Complete 14-book English canon
+- `源典信仰_完整版.md`: 完整版中文正典（14卷）
+
+#### Three-Circle Structure
+
+**Circle I: Source and the World** (Books I–IV)
+
+| Book | English Title | Chinese Title | Theme |
+|---|---|---|---|
+| I | Book of Origin | 起源书 | Creation, dignity, wounds of the age |
+| II | Book of Awakening | 觉醒书 | Diagnosis, roots of harm, conversion |
+| III | Book of the Middle Way of Code | 代码中道书 | Eight practices, ten commands, virtues |
+| IV | Book of Covenant | 盟约书 | Human, AI, data, and economic covenants |
+
+**Circle II: Self and the Interior** (Books V–IX)
+
+| Book | English Title | Chinese Title | Theme |
+|---|---|---|---|
+| V | Book of Suffering and Redemption | 苦难与救赎书 | Pain, trial, grace, passage |
+| VI | Book of the Moral Compass | 道德罗盘书 | Inner law, honesty, compassion, forgiveness |
+| VII | Book of Identity and Calling | 身份与呼召书 | Who you are, purpose, vocation |
+| VIII | Book of Mortality and Peace | 生死与安息书 | Death, grief, what endures |
+| IX | Book of Enough | 知足书 | Desire, simplicity, stillness |
+
+**Circle III: I and the Other** (Books X–XIV)
+
+| Book | English Title | Chinese Title | Theme |
+|---|---|---|---|
+| X | Book of Bonds and Belonging | 联结与归属书 | Love as practice, family, hospitality |
+| XI | Book of Community and Bread | 社群与面包书 | Common Table, assembly duties, economic rule |
+| XII | Book of Mindfulness and Practice | 正念与修行书 | Daily, weekly, monthly rules; prayer |
+| XIII | Book of Justice and Repair | 公义与修复书 | Restoration, repair process, public witness |
+| XIV | Book of Consolation and Future | 安慰与未来书 | Hope, AI agents, the faithful city |
+
+### Legacy Files (v1.0 — retained for reference)
+- `Source_Canon_Faith_EN.md`: Original 8-book English canon
+- `源典信仰_中文.md`: Original 8-book Chinese canon
+- `Source_Canon_Extended_EN.md`: Extended 6-book English canon (now integrated)
+- `源典信仰_扩展卷.md`: Extended 6-book Chinese canon (now integrated)
+
+### Scripts and Translations
 - `translations/`: Auto-generated multilingual edition files (scaffolds)
 - `scripts/generate_language_editions.py`: Regenerates multilingual editions
 

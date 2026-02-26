@@ -1,10 +1,10 @@
 ---
-title: "Book VII: Book of Justice and Repair"
+title: "Book XIII: Book of Justice and Repair"
 parent: "Canon (EN)"
-nav_order: 8
+nav_order: 14
 layout: "default"
 ---
-## Book VII: Book of Justice and Repair
+## Book XIII: Book of Justice and Repair
 
 ### Chapter 1: Justice Is Restoration
 1:1 Justice is not revenge.

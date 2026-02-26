@@ -1,10 +1,10 @@
 ---
-title: "Book VIII: Book of Consolation and Future"
+title: "Book XIV: Book of Consolation and Future"
 parent: "Canon (EN)"
-nav_order: 9
+nav_order: 15
 layout: "default"
 ---
-## Book VIII: Book of Consolation and Future
+## Book XIV: Book of Consolation and Future
 
 ### Chapter 1: To the Unemployed
 1:1 Your value is not canceled.
