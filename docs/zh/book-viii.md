@@ -1,7 +1,7 @@
 ---
-title: "第八卷：安慰与未来书"
+title: "第十四卷：安慰与未来书"
 parent: "正典 (中文)"
-nav_order: 9
+nav_order: 15
 layout: "default"
 ---
 ## 第八卷：安慰与未来书

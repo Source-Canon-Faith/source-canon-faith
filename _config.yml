@@ -29,7 +29,11 @@ exclude:
   - scripts/
   - translations/
   - Source_Canon_Faith_EN.md
+  - Source_Canon_Extended_EN.md
+  - Source_Canon_Complete_EN.md
   - 源典信仰_中文.md
+  - 源典信仰_扩展卷.md
+  - 源典信仰_完整版.md
   - 流转纪·容量篇.md
   - README.md
   - Gemfile.lock

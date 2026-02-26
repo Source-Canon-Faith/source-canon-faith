@@ -1,7 +1,7 @@
 ---
 title: "附录"
 parent: "正典 (中文)"
-nav_order: 10
+nav_order: 16
 layout: "default"
 ---
 ## 附录A：社群宪章模板

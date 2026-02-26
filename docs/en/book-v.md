@@ -1,10 +1,10 @@
 ---
-title: "Book V: Book of Community and Bread"
+title: "Book XI: Book of Community and Bread"
 parent: "Canon (EN)"
-nav_order: 6
+nav_order: 12
 layout: "default"
 ---
-## Book V: Book of Community and Bread
+## Book XI: Book of Community and Bread
 
 ### Chapter 1: The House of Common Table
 1:1 Each local congregation shall keep a Common Table.

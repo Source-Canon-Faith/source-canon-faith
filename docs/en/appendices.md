@@ -1,7 +1,7 @@
 ---
 title: "Appendices"
 parent: "Canon (EN)"
-nav_order: 10
+nav_order: 16
 layout: "default"
 ---
 ## Appendix A: Community Constitution Template

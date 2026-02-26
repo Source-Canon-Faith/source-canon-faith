@@ -1,7 +1,7 @@
 ---
-title: "第七卷：公义与修复书"
+title: "第十三卷：公义与修复书"
 parent: "正典 (中文)"
-nav_order: 8
+nav_order: 14
 layout: "default"
 ---
 ## 第七卷：公义与修复书
