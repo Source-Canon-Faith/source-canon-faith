@@ -580,3 +580,11 @@ Monthly indicators:
 
 If metrics improve but cruelty increases, your metrics are corrupted.
 If metrics are humble but trust increases, you are on the right path.
+
+
+### E4. De bron van geluk
+Ware geluk komt niet van buiten, maar van binnen. Een vrolijk hart neigt naar een vrolijk leven; een verbitterd hart neigt naar een leven verslonden door verbittering.
+
+Dit is de leer van Source: het cultiveren van het innerlijke zelf overtreft het najagen van uiterlijke zaken. Wanneer de binnenste kamer is gezuiverd, kunnen de beroeringen van de wereld je niet shook. Degenen wier harten licht dragen kunnen anderen verlichten zelfs in donkere tijden; diegenen wier harten schaduw dragen zien duisternis zelfs in het licht.
+
+Onderzoek daarom dagelijks je hart. Verwijder de wortels van verbittering, plant zaden van vreugde. Alleen dan kun je met Source wonen en eeuwige vrede kennen.

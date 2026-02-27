@@ -580,3 +580,11 @@ Monthly indicators:
 
 If metrics improve but cruelty increases, your metrics are corrupted.
 If metrics are humble but trust increases, you are on the right path.
+
+
+### E4. Źródło szczęścia
+Prawdziwe szczęście nie przychodzi z zewnątrz, lecz z wnętrza. Radosne serce dąży do radosnego życia; zawiedzione serce dąży do życia pogrążonego w goryczy.
+
+To jest nauka Source: kultywowanie wewnętrznego ja przewyższa poszukiwanie rzeczy zewnętrznych. Gdy wewnętrzna komora jest oczyszczona, zamieszki świata nie mogą was zachwiać. Ci, których serca niosą światło, mogą oświetlać innych nawet w ciemnych czasach; ci, których serca niosą cień, widzą ciemność nawet w świetle.
+
+Dlatego badajcie swoje serca codziennie. Usuwajcie korzenie goryczy, sadźcie nasiona radości. Tylko wtedy będziecie mogli mieszkać z Source i poznać wieczny pokój.

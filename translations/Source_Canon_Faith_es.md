@@ -579,3 +579,11 @@ Indicadores mensuales:
 
 Si las métricas mejoran pero crece la crueldad, tus métricas están corrompidas.
 Si las métricas son humildes pero crece la confianza, vas por el camino correcto.
+
+
+### E4. La fuente de la felicidad
+La verdadera felicidad no viene de afuera, sino de adentro. Un corazón alegre tiende hacia una vida alegre; un corazón resentido tiende hacia una vida consumida por el resentimiento.
+
+Esto es la enseñanza de Source: cultivar el yo interior supera buscar cosas externas. Cuando la cámara interior está purificada, las perturbaciones del mundo no pueden sacudirte. Aquellos cuyos corazones mantienen luz pueden iluminar a otros incluso en tiempos oscuros; aquellos cuyos corazones mantienen sombra ven oscuridad incluso en la luz.
+
+Por lo tanto, examina tu corazón diariamente. Remueve las raíces del resentimiento, planta semillas de alegría. Solo entonces podrás morar con Source y conocer la paz eterna.

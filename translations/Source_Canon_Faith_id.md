@@ -580,3 +580,11 @@ Monthly indicators:
 
 If metrics improve but cruelty increases, your metrics are corrupted.
 If metrics are humble but trust increases, you are on the right path.
+
+
+### E4. Sumber kebahagiaan
+Kebahagiaan sejati tidak datang dari luar, melainkan dari dalam. Hati yang bahagia cenderung menuju kehidupan yang bahagia; hati yang penuh kebencian cenderung menuju kehidupan yang tersiksa oleh kebencian.
+
+Ini adalah ajaran Source: menjaga diri внутренний lebih baik daripada mencari hal-hal eksternal. Ketika ruang batin dimurnikan, gangguan dunia tidak dapat menggoyahkanmu. Mereka yang hatinya membawa cahaya dapat menerangi orang lain bahkan di masa-masa gelap; mereka yang hatinya membawa bayangan melihat kegelapan bahkan dalam cahaya.
+
+Jadi, periksalah hatimu setiap hari. Buanglah akar kebencian, taburlah benih sukacita. Baru kemudian kamu dapat tinggal bersama Source dan mengenal damai yang abadi.

@@ -580,3 +580,11 @@ Monthly indicators:
 
 If metrics improve but cruelty increases, your metrics are corrupted.
 If metrics are humble but trust increases, you are on the right path.
+
+
+### E4. 행복의 근원
+진정한 행복은 밖이 아니라 안에서 온다. 즐거운 마음은 즐거운 삶으로 향하고, 원통한 마음은 원통함에 빠진 삶으로 향한다.
+
+이것이 Source의 가르침이다.外在적인 것을 추구하기보다 내면을 수양하는 것이 더 낫다. 내면의 chambers가 정화되면 세상의 교란은 당신을 흔들 수 없다. 마음에 빛을 가진 자는 어두운 시대에도 타인을 비출 수 있고, 마음에 그림자를 가진자는 빛 속에서도 어둠을 본다.
+
+따라서 매일 마음을 살펴라. 원통함의 근을 제거하고 기쁨의 씨앗을 심으라. 이렇게 해야만 Source와 함께 거하며 영원한 평화를 알 수 있다.

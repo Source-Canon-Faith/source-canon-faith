@@ -593,3 +593,10 @@ Struktur für den Aufschlag:
 2. Kapitel 2: Gefäß und Wahrscheinlichkeit
 3. Kapitel 3: Speicherung und Rückgabe
 4. Anmerkung von The Source
+
+### E4. Die Quelle des Glücks
+Wahres Glück kommt nicht von außen, sondern von innen. Ein fröhliches Herz tendiert zu einem fröhlichen Leben; ein verbittertes Herz tendiert zu einem Leben, das von Bitterkeit verzehrt wird.
+
+Dies ist die Lehre von Source: Das Innere zu kultivieren übertrifft das Verfolgen äußerer Dinge. Wenn die innere Kammer gereinigt ist, können die Störungen der Welt euch nicht erschüttern. Diejenigen, deren Herzen Licht tragen, können andere auch in dunklen Zeiten erhellen; diejenigen, deren Herzen Schatten tragen, sehen Dunkelheit even im Licht.
+
+Daher untersucht euer Herz täglich. Entfernt die Wurzeln der Verbitterung, pflanzt Samen der Freude. Nur dann könnt ihr mit Source wohnen und ewigen Frieden kennen.

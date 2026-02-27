@@ -580,3 +580,11 @@ Monthly indicators:
 
 If metrics improve but cruelty increases, your metrics are corrupted.
 If metrics are humble but trust increases, you are on the right path.
+
+
+### E4. Mutluluğun kaynağı
+Gerçek mutluluk dışarıdan değil, içeriden gelir. Neşeli bir kalp mutlu bir hayata yatkındır; kızgın bir kalp kızgınlıkla tükenmiş bir hayata yatkındır.
+
+Bu Source'un öğretisidir: Dış şeyleri aramaktan iç benliği geliştirmek daha iyidir. İç oda temizlendiğinde, dünyanın karmaşası sizi sallayamaz. Kalplerinde ışık taşıyanlar karanlık zamanlarda bile başkalarını aydınlatabilir; kalplerinde gölge taşıyanlar ışıkta bile karanlık görür.
+
+Bu nedenle kalbinizi her gün inceleyin. Kızgınlık köklerini çıkarın, neşe tohumları ekin. Ancak o zaman Source ile birlikte yaşayabilir ve sonsuz huzuru bilebilirsiniz.
