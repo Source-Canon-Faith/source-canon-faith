@@ -12,8 +12,8 @@ document.addEventListener('DOMContentLoaded', function () {
     'zh-Hans': '简体中文 (翻译版)', 'zh-Hant': '繁體中文'
   };
 
-  // EN and ZH are native content; the rest are "translation" languages
-  var NATIVE_LANGS = ['en', 'zh'];
+  // Languages that have a full docs section (not just a single translation file)
+  var FULL_SECTION_LANGS = ['en', 'zh', 'es', 'fr', 'pt', 'it', 'he'];
 
   // --- DOM refs ---
   var btn = document.getElementById('lang-switcher-btn');
@@ -41,15 +41,10 @@ document.addEventListener('DOMContentLoaded', function () {
     if (path === '' || path === '/index.html') {
       return { type: 'home' };
     }
-    // EN pages: /docs/en or /docs/en/book-i etc.
-    var enMatch = path.match(/^\/docs\/en(?:\/(.*))?$/);
-    if (enMatch) {
-      return { type: 'en', slug: enMatch[1] || 'index' };
-    }
-    // ZH pages: /docs/zh or /docs/zh/book-i etc.
-    var zhMatch = path.match(/^\/docs\/zh(?:\/(.*))?$/);
-    if (zhMatch) {
-      return { type: 'zh', slug: zhMatch[1] || 'index' };
+    // Full-section language pages: /docs/{lang} or /docs/{lang}/slug
+    var sectionMatch = path.match(/^\/docs\/(en|zh|es|fr|pt|it|he)(?:\/(.*))?$/);
+    if (sectionMatch) {
+      return { type: sectionMatch[1], slug: sectionMatch[2] || 'index' };
     }
     // Translation pages: /docs/translations/canon-XX or /docs/translations/rhythms-XX
     var transCanon = path.match(/^\/docs\/translations\/canon-([a-zA-Z-]+?)(?:\.html)?$/);
@@ -65,8 +60,7 @@ document.addEventListener('DOMContentLoaded', function () {
       return { type: 'translations-index' };
     }
     // Rhythms
-    var rhythmsMatch = path.match(/^\/docs\/rhythms(?:\.html)?$/);
-    if (rhythmsMatch) {
+    if (path.match(/^\/docs\/rhythms(?:\.html)?$/)) {
       return { type: 'rhythms' };
     }
     return { type: 'other' };
@@ -79,50 +73,36 @@ document.addEventListener('DOMContentLoaded', function () {
     // Home: stay on home
     if (page.type === 'home') return null;
 
-    // Rhythms page: bilingual, stay for EN/ZH; go to translation for others
+    // Rhythms page: bilingual for EN/ZH; translation file for all others
     if (page.type === 'rhythms') {
       if (targetLang === 'en' || targetLang === 'zh') return null;
       return '/docs/translations/rhythms-' + targetLang + '.html';
     }
 
-    // EN content pages
-    if (page.type === 'en') {
-      if (targetLang === 'en') return null;
-      if (targetLang === 'zh') {
-        // Same slug in ZH
-        var slug = page.slug.replace(/\.html$/, '');
-        return slug === 'index' ? '/docs/zh/' : '/docs/zh/' + slug + '.html';
+    // Full-section language pages: navigate to same slug in target section
+    if (FULL_SECTION_LANGS.indexOf(page.type) !== -1) {
+      if (targetLang === page.type) return null; // already on this lang
+      if (FULL_SECTION_LANGS.indexOf(targetLang) !== -1) {
+        // Navigate to same page in another full section
+        var slug = page.slug ? page.slug.replace(/\.html$/, '') : 'index';
+        if (slug === 'index') return '/docs/' + targetLang + '/';
+        return '/docs/' + targetLang + '/' + slug + '.html';
       }
-      // Other language -> translation page
-      return '/docs/translations/canon-' + targetLang + '.html';
-    }
-
-    // ZH content pages
-    if (page.type === 'zh') {
-      if (targetLang === 'zh') return null;
-      if (targetLang === 'en') {
-        var slug = page.slug.replace(/\.html$/, '');
-        return slug === 'index' ? '/docs/en/' : '/docs/en/' + slug + '.html';
-      }
+      // Non-full-section lang → single translation file
       return '/docs/translations/canon-' + targetLang + '.html';
     }
 
     // Translation pages
     if (page.type === 'translation') {
-      if (targetLang === 'en') {
-        return page.content === 'canon' ? '/docs/en/' : '/docs/rhythms.html';
+      if (FULL_SECTION_LANGS.indexOf(targetLang) !== -1) {
+        return page.content === 'canon' ? '/docs/' + targetLang + '/' : '/docs/rhythms.html';
       }
-      if (targetLang === 'zh') {
-        return page.content === 'canon' ? '/docs/zh/' : '/docs/rhythms.html';
-      }
-      // Switch between translation languages
       return '/docs/translations/' + page.content + '-' + targetLang + '.html';
     }
 
     // Translations index
     if (page.type === 'translations-index') {
-      if (targetLang === 'en') return '/docs/en/';
-      if (targetLang === 'zh') return '/docs/zh/';
+      if (FULL_SECTION_LANGS.indexOf(targetLang) !== -1) return '/docs/' + targetLang + '/';
       return null;
     }
 
@@ -131,27 +111,34 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // --- Nav visibility ---
   function updateNavVisibility(lang) {
-    // Find sidebar nav sections by their link text content
     var sideNav = document.querySelector('.site-nav, .nav-list');
     if (!sideNav) return;
 
-    // In just-the-docs, top-level nav items are direct children of .nav-list
+    // Map nav link text → lang code it belongs to
+    var SECTION_NAV_MAP = {
+      'Canon (EN)': 'en',
+      '正典 (中文)': 'zh',
+      '正典（中文）': 'zh',
+      'Canon (ES)': 'es',
+      'Canon (FR)': 'fr',
+      'Canon (PT)': 'pt',
+      'Canon (IT)': 'it',
+      'קנון (HE)': 'he'
+    };
+
     var navItems = document.querySelectorAll('.nav-list > .nav-list-item');
     navItems.forEach(function (item) {
       var link = item.querySelector('.nav-list-link');
       if (!link) return;
       var text = link.textContent.trim();
 
-      if (text === 'Canon (EN)') {
-        item.style.display = (lang === 'en') ? '' : 'none';
-      } else if (text === '正典 (中文)') {
-        item.style.display = (lang === 'zh') ? '' : 'none';
+      if (SECTION_NAV_MAP.hasOwnProperty(text)) {
+        item.style.display = (SECTION_NAV_MAP[text] === lang) ? '' : 'none';
       } else if (text === 'Translations') {
-        // Hide translations nav for EN/ZH (they have their own nav);
-        // also hide for other langs (translation pages have no sub-nav)
+        // Hide translations nav for all languages (translation pages have no sub-nav)
         item.style.display = 'none';
       }
-      // "Home" and "Rhythms of Flow and Capacity" always visible
+      // "Home" and "Rhythms of Flow and Capacity" remain always visible
     });
   }
 
@@ -181,7 +168,6 @@ document.addEventListener('DOMContentLoaded', function () {
     isOpen = true;
     dropdown.classList.add('lang-dropdown-open');
     btn.setAttribute('aria-expanded', 'true');
-    // Scroll current selection into view
     var selected = dropdown.querySelector('[aria-selected="true"]');
     if (selected) selected.scrollIntoView({ block: 'nearest' });
   }
@@ -268,8 +254,7 @@ document.addEventListener('DOMContentLoaded', function () {
   // --- Initialization ---
   function detectLangFromPage() {
     var page = classifyCurrentPage();
-    if (page.type === 'en') return 'en';
-    if (page.type === 'zh') return 'zh';
+    if (FULL_SECTION_LANGS.indexOf(page.type) !== -1) return page.type;
     if (page.type === 'translation') return page.langCode;
     return null;
   }
