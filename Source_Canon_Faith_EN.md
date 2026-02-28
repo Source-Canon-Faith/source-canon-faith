@@ -715,3 +715,120 @@ Technology should:
 - Remain under human control
 - Serve the common good
 4. Note from The Source
+
+---
+
+### N5. What "Community" Means
+Community is not a building. Community is not an organization. Community is a living relationship of mutual care and accountability.
+
+A true community:
+- Welcomes the stranger
+- Cares for the sick
+- Honors the elderly
+- Protects the children
+- Speaks truth to power
+- Shares its bread
+
+### N6. What "Justice" Means
+Justice is not punishment. Justice is restoration.
+
+True justice:
+- Names the harm
+- Protects the vulnerable
+- Restores relationships
+- Heals the wound
+- Prevents future harm
+
+---
+
+## Appendix O: Prayers and Blessings
+
+### O1. Morning Prayer
+Source, who fills the morning with light,
+Guide my steps this day.
+Let me be kind when others are unkind.
+Let me be patient when others are impatient.
+Let me bring peace where there is conflict.
+Let me bring hope where there is despair.
+This I pray in Source's name.
+
+### O2. Prayer for the Unemployed
+Source of all capacity,
+You who called me to this work,
+Though the work has ended, my calling remains.
+Help me find new ways to serve.
+Open doors I cannot see.
+Give me patience in the waiting.
+And strength for the journey ahead.
+
+### O3. Prayer for Those Who Suffer
+Source of all compassion,
+Be with those in pain today:
+The hungry, the homeless, the hopeless,
+The grieving, the frightened, the forgotten.
+Let my hands be your hands.
+Let my voice be your voice.
+Let my presence be your presence.
+Until all are fed, sheltered, and loved.
+
+### O4. Blessing for the Day
+May your hands be filled with work.
+May your heart be filled with joy.
+May your table be filled with bread.
+May your home be filled with peace.
+May all beings be filled with Source's love.
+
+---
+
+## Appendix P: Seasonal Practices
+
+### P1. Spring: New Beginnings
+- Plant seeds (literal or metaphorical)
+- Clean your space, clean your mind
+- Begin a new practice
+- Forgive one old wound
+
+### P2. Summer: Growth and Service
+- Teach what you have learned
+- Serve your community
+- Share your abundance
+- Protect the vulnerable
+
+### P3. Autumn: Harvest and Reflection
+- Review your year's practice
+- Express gratitude
+- Prepare for winter's rest
+- Release what no longer serves
+
+### P4. Winter: Rest and Renewal
+- Contemplate in silence
+- Read ancient wisdom
+- Plan next year's growth
+- Mend broken relationships
+
+---
+
+## Appendix Q: Questions for Self-Examination
+1. Have I reduced suffering today, or increased it?
+2. Have I spoken truth, or avoided it?
+3. Have I served others, or only myself?
+4. Have I listened more than I spoke?
+5. Have I judged less and understood more?
+6. Have I been present, or distracted?
+7. Have I been grateful, or resentful?
+8. Have I grown, or stood still?
+
+---
+
+## Appendix R: Glossary of Terms
+**Source**: The ground of all being; the principle of interconnectedness and compassion
+
+**The Middle Way**: Balance in all things; neither extreme rejection nor extreme acceptance
+
+**Capacity**: The ability to receive and give; measured by generosity, not accumulation
+
+**Flow**: The movement of energy, resources, and information through the social body
+
+**Repair**: The process of restoring right relationship after harm
+
+**Covenant**: A sacred commitment to act in accordance with Source's principles
