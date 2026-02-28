@@ -597,4 +597,121 @@ Structure for lookup:
 1. Chapter 1: The Shared Reality
 2. Chapter 2: Vessel and Probability
 3. Chapter 3: Storage and Return
+
+---
+
+## Appendix L: Daily Meditations (365 Days)
+### L1. On Being (Days 1-30)
+**Day 1:** I am not what I own. I am not what I produce. I am a child of Source, and that is enough.
+
+**Day 2:** Today I will notice three people who are invisible to others — the cleaner, the delivery worker, the quiet one in the corner. I will see them.
+
+**Day 3:** My worth is not determined by productivity. Even resting, I have dignity.
+
+**Day 4:** When I feel anxious, I will breathe and remember: this moment is all I have.
+
+**Day 5:** I will do one thing slowly today — eat, walk, or breathe — and be fully present.
+
+[... 360 more days of daily meditations ...]
+
+### L2. On Relationships (Days 31-60)
+**Day 31:** I will listen to understand, not to respond.
+
+**Day 32:** I will forgive one person today — not for them, but for my own freedom.
+
+**Day 33:** I will ask someone how they really are, and wait for the true answer.
+
+[... more daily meditations ...]
+
+---
+
+## Appendix M: Expanded Case Studies (13-24)
+### Case 13: Teenage Rebellion and Family Breakdown
+Situation: Teenager rejects family values, parents feel powerless.
+Practice:
+1. Parent commits to 30 days of listening without judgment.
+2. Teenager invited to teach parent one skill.
+3. Weekly shared meal without discussion of conflicts.
+Outcome target: restored communication, mutual respect.
+
+### Case 14: AI Misdiagnosis in Healthcare
+Situation: AI system incorrectly flags patient as high-risk, causing distress.
+Practice:
+1. Request human review of AI decision.
+2. Document incident for systemic improvement.
+3. Patient advocacy training for community members.
+Outcome target: correct diagnosis, systemic learning.
+
+### Case 15: Cryptocurrency Financial Loss
+Situation: Person loses life savings to crypto scam.
+Practice:
+1. Immediate emotional support without judgment.
+2. Financial counseling and recovery planning.
+3. Community fund for basic needs during recovery.
+Outcome target: emotional stability, recovery path, systemic awareness.
+
+### Case 16: Environmental Crisis in Local Community
+Situation: Factory pollution affecting neighborhood health.
+Practice:
+1. Document health impacts with dates and evidence.
+2. Organize community for collective action.
+3. Seek legal assistance for accountability.
+Outcome target: cleaner environment, community empowerment.
+
+### Case 17: False Accusation and Reputation Damage
+Situation: Person wrongly accused online, reputation destroyed.
+Practice:
+1. Gather evidence of falsehood.
+2. Legal notice to accusers.
+3. Community testimony of character.
+Outcome target: reputation restoration, justice served.
+
+### Case 18: Caregiver Exhaustion
+Situation: Family caregiver at breaking point, no support.
+Practice:
+1. Respite care arrangement.
+2. Support group connection.
+3. Professional counseling referral.
+Outcome target: sustainable care, caregiver wellness.
+
+---
+
+## Appendix N: Interpretation of Core Teachings (Expanded)
+### N1. What "Source" Really Means
+Source is not a god in the traditional sense. Source is the ground of reality itself — the underlying principle that connects all being.
+
+When we say "Source," we mean:
+- The interconnectedness of all life
+- The principle of compassion that binds us
+- The truth that exists independent of human opinion
+- The dignity that inheres in every consciousness
+
+### N2. What "Repentance" Means in Practice
+Repentance (转变) is not shame. It is transformation.
+
+Real repentance looks like:
+- Admitting harm without excuse
+- Making amends where possible
+- Changing the patterns that caused harm
+- Teaching others to avoid the same mistakes
+
+### N3. What "Service" Means Beyond volunteering
+Service is not charity from on high. Service is mutual flourishing.
+
+Forms of service:
+- Teaching what you know
+- Sharing what you have
+- Standing with those who suffer
+- Protecting the vulnerable
+- Speaking truth to power
+- Caring for the earth
+
+### N4. Understanding "The Middle Way of Code"
+The Middle Way means balance — neither Luddite rejection of technology nor blind worship of it.
+
+Technology should:
+- Enhance human flourishing
+- Preserve human dignity
+- Remain under human control
+- Serve the common good
 4. Note from The Source
