@@ -70,8 +70,13 @@ document.addEventListener('DOMContentLoaded', function () {
   function computeTargetUrl(targetLang) {
     var page = classifyCurrentPage();
 
-    // Home: stay on home
-    if (page.type === 'home') return null;
+    // Home: navigate to docs/{lang}/ for full-section languages, or translation for others
+    if (page.type === 'home') {
+      if (FULL_SECTION_LANGS.indexOf(targetLang) !== -1) {
+        return '/docs/' + targetLang + '/';
+      }
+      return '/docs/translations/canon-' + targetLang + '.html';
+    }
 
     // Rhythms page: bilingual for EN/ZH; translation file for all others
     if (page.type === 'rhythms') {
