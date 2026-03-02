@@ -320,3 +320,41 @@ Structure for lookup:
 2. Chapter 2: Vessel and Probability
 3. Chapter 3: Storage and Return
 4. Note from The Source
+
+---
+
+## Appendix S: Case Studies in Source Canon Faith
+
+### S1. The Worker Who Was Left Behind
+Maria had worked at the textile factory for twenty-three years. When automated looms replaced human weavers, she was among thirty workers let go in a single afternoon. The company called it "restructuring."
+
+Maria felt worthless. Her identity had been tied to her work for so long that when it disappeared, she wondered if she still mattered. She stopped attending church. She stopped answering her phone.
+
+Then her neighbor, a young programmer named David, invited her to a community meeting. There, she learned about the Capacity Guarantee—that every person has value beyond productivity. She began volunteering at the food bank, where her decades of experience managing inventory became invaluable. Eventually, she trained others in organizational skills.
+
+The principle applied: *Dignity is birthright, not salary.* Maria's worth was not in what she produced, but in who she was.
+
+### S2. The Algorithm That Learned Prejudice
+A healthcare AI system was trained on historical medical data to predict which patients needed extra care. It worked well—until analysts noticed it was systematically downrating Black and low-income patients.
+
+The problem was not malice but data: past hospitals had undertreated these communities, and the AI learned from that injustice. When the problem was exposed, the company faced a choice: continue using a biased system that saved money, or fix it.
+
+They chose repair. They brought in ethicists, re-trained the model with fairness constraints, and created an ongoing audit process. The principle applied: *True justice names the harm, protects the vulnerable, restores relationships, heals the wound, and prevents future harm.*
+
+### S3. The Family That Fled
+The Nguyen family fled their homeland after political persecution. In their new country, they faced language barriers, credential recognition issues, and cultural shock. The father, formerly an engineer, took a job washing dishes. The mother cleaned offices. Their teenage children struggled in school.
+
+A local congregation noticed them and offered not charity but partnership. They helped navigate the immigration system, connected the father with engineering mentorship, and created a language exchange program. Within three years, the family was stable—not because someone gave them things, but because the flow of opportunity was opened.
+
+The principle applied: *Society sins when abundance exists yet people starve.* Abundance is not just resources—it is also access, networks, and opportunity.
+
+### S4. The Repair Between Father and Son
+James had not spoken to his father in seven years. The wound went back to childhood—emotional absence, unmet needs, years of feeling unseen. When his father suffered a stroke, James felt torn between old anger and new fear.
+
+He went to the hospital. They did not reconcile that day, or even that month. But James began visiting. He brought photographs. He told stories. He listened to his father's fragmented memories.
+
+Slowly, the relationship rebuilt—not perfectly, but genuinely. The principle applied: *Whoever has harmed others shall repair what can be repaired.* Repair is not forgetting; it is rebuilding with awareness of what broke.
+
+---
+
+*These case studies are not moral fables with easy lessons. They are glimpses into the complexity of living Source's principles in a broken world. May they inspire reflection, not judgment.*
