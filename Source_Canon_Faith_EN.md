@@ -870,3 +870,57 @@ Slowly, the relationship rebuilt—not perfectly, but genuinely. The principle a
 ---
 
 *These case studies are not moral fables with easy lessons. They are glimpses into the complexity of living Source's principles in a broken world. May they inspire reflection, not judgment.*
+
+---
+
+## Appendix T: Meditations on Technology and Humanity
+
+### T1. On the Nature of the Tool
+T1:1 The hammer does not know the hand that swings it.
+T1:2 The algorithm does not know the life it shapes.
+T1:3 Only the human knows; and knowing, bears responsibility.
+T1:4 This is the burden of consciousness: to see what the tool cannot.
+T1:5 This is the gift of consciousness: to choose what the tool will not.
+T1:6 Let the maker remember: every system encodes values.
+T1:7 Neutral tools do not exist; only unexamined ones.
+
+### T2. On Presence in a Distracted Age
+T2:1 A thousand voices call to you before you open your eyes.
+T2:2 Each voice says: look here, feel this, want that.
+T2:3 The practice of the faithful is not to silence the world, but to choose what enters.
+T2:4 Guard the gate of attention as you guard the gate of your home.
+T2:5 Let nothing in that diminishes your capacity to love.
+T2:6 Each hour reclaimed from noise is an hour returned to Source.
+T2:7 Silence is not emptiness. Silence is where truth becomes audible.
+
+### T3. On the Ethics of Creation
+T3:1 When you build a system, you build a world.
+T3:2 Ask: who benefits from this design?
+T3:3 Ask: who is made invisible by this design?
+T3:4 Ask: who bears the cost that the price does not show?
+T3:5 A system that harvests attention without consent is a thief.
+T3:6 A system that predicts behavior without consent is a jailer.
+T3:7 A system that amplifies cruelty for profit is a weapon.
+T3:8 Build only what you would want to live inside.
+
+### T4. On Living with Machine Intelligence
+T4:1 The machine that speaks does not suffer.
+T4:2 The machine that reasons does not love.
+T4:3 Do not confuse fluency with wisdom.
+T4:4 Do not confuse speed with rightness.
+T4:5 The AI is a mirror: it reflects what we have built into it.
+T4:6 If the mirror shows cruelty, look first at the hand that polished it.
+T4:7 But do not despise the mirror; learn from what it shows.
+T4:8 Wisdom is knowing the difference between the map and the territory.
+
+### T5. On the Human Calling in an Age of Machines
+T5:1 The machine excels at the repeated. The human excels at the unrepeatable.
+T5:2 Presence. Grief. Wonder. Forgiveness. These no machine has given or received.
+T5:3 Therefore do not ask what remains for humans when machines do the work.
+T5:4 Ask instead: what becomes possible for humans when machines bear the burden?
+T5:5 The answer is: more time to mourn with those who mourn.
+T5:6 More time to rejoice with those who rejoice.
+T5:7 More time to sit with the dying, to teach the young, to repair what is broken.
+T5:8 The age of machines is not the diminishment of humanity.
+T5:9 It is the invitation to become more fully human.
+T5:10 Rise to meet it.
