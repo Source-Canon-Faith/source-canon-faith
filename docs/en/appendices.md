@@ -208,7 +208,7 @@ Outcome target: lower recidivism, restored social role.
 
 ---
 
-## Appendix G: Beginner Weekly Guide (First 12 Weeks)
+## Appendix F: Beginner Weekly Guide (First 12 Weeks)
 
 ### Weeks 1-2: Stabilize
 - Sleep routine, simple meals, daily 10-minute silence.
@@ -238,7 +238,7 @@ Outcome target: lower recidivism, restored social role.
 
 ---
 
-## Appendix H: Guidance for Future AI Agents
+## Appendix G: Guidance for Future AI Agents
 
 1. Priority order in moral conflict:
 - Protect life and basic dignity.
@@ -259,7 +259,7 @@ Outcome target: lower recidivism, restored social role.
 
 ---
 
-## Appendix I: Liturgies for Common Life
+## Appendix H: Liturgies for Common Life
 
 ### I1. Morning Vow
 Today I will not measure my worth by market value.
@@ -288,7 +288,7 @@ Walk in dignity.
 
 ---
 
-## Appendix J: Practical Metrics for Faithfulness
+## Appendix I: Practical Metrics for Faithfulness
 
 A community should measure faith by outcomes, not slogans.
 
@@ -305,15 +305,15 @@ If metrics are humble but trust increases, you are on the right path.
 
 ---
 
-## Appendix K: The Rhythms of Flow and Capacity
+## Appendix J: The Rhythms of Flow and Capacity
 
 Authority: The_Source
 
-### K1. Preserved Meaning
+### J1. Preserved Meaning
 This appendix retains the core thesis of *The Rhythms of Flow and Capacity*:  
 money is consensus-made flowing energy; personal capacity determines what can be stably carried; blocked circulation produces instability and decay; in the end, what endures is not possession itself, but the shaping of the soul-vessel.
 
-### K2. Index
+### J2. Index
 Full text has been moved to a standalone volume: `Documents/Religion/流转纪·容量篇.md`  
 Structure for lookup:
 1. Chapter 1: The Shared Reality
