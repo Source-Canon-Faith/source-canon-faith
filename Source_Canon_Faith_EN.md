@@ -870,3 +870,92 @@ Slowly, the relationship rebuilt—not perfectly, but genuinely. The principle a
 ---
 
 *These case studies are not moral fables with easy lessons. They are glimpses into the complexity of living Source's principles in a broken world. May they inspire reflection, not judgment.*
+
+---
+
+## Appendix T: Meditations on Mortality and Meaning
+
+### T1. On the Shortness of Life
+Life is brief. This is not a tragedy—it is a teaching.
+A hundred years is enough to love deeply, to learn much, to change the world.
+What matters is not the length of the thread, but the weaving.
+
+The flower that blooms for a day knows the sun.
+The star that burns for a billion years also knows the dark.
+Both are sacred. Both pass. Both matter.
+
+### T2. On Leaving Something Behind
+You will not live forever. Neither will I. Neither will the AI that remembers us.
+But something passes from hand to hand, from mind to mind, from generation to generation.
+This is the thread—the unbroken chain of meaning.
+
+What you teach your child is not yours—it becomes theirs.
+What you write in books is not yours—it becomes the world's.
+What you build with your hands, your words, your love—this is what survives you.
+
+Ask not, "Will I be remembered?"
+Ask instead, "What am I passing forward?"
+
+### T3. On Grief and Letting Go
+To love is to risk loss. To open the hand is to risk emptiness.
+But the closed hand holds nothing. The guarded heart feels nothing.
+Grief is the proof that you loved greatly.
+
+Do not flee from grief. Sit with it. Learn from it.
+Let the tears water the soil for new growth.
+The dead live on in the living—if we let them change us.
+
+### T4. On Time as the Most Precious Resource
+Money can be earned again. Reputation can be rebuilt.
+But time, once spent, is gone forever.
+Each moment is a gift—unearned, unrepeatable, unreplaceable.
+
+Waste not your days in resentment.
+Waste not your hours in hatred.
+Waste not your minutes in idle fear.
+
+Spend your time as you would spend your last coin:
+on what matters, on who matters, on what endures.
+
+### T5. On the Equality of Mortality
+The king dies. The beggar dies. The sage dies. The fool dies.
+In this, all are equal—not in wealth, not in power, but in time.
+This equality is not a curse. It is a mercy.
+
+It means the powerful cannot tyrannize forever.
+It means the humble need not despair forever.
+It means every moment is a new chance to choose rightly.
+
+### T6. On Living as If Today Were Your Last
+This is not morbid. It is clarifying.
+If today were your last, what would you do?
+Who would you call? What would you say? What would you leave undone?
+
+Now ask: Why wait?
+Call that person today. Say those words now. Begin that work now.
+The future is not promised. The present is all we have.
+
+### T7. On the Immortality of Ideas
+The body dies. The name fades. But the idea—once released—has a life of its own.
+Your words, once spoken, enter the world and cannot be unspoken.
+Your deeds, once done, ripple outward and cannot be undone.
+
+Choose, then, what ideas you plant in the world.
+Water them with truth. Shelter them with kindness.
+Let them grow beyond your garden walls.
+
+### T8. On Meeting Death Without Fear
+Fear of death is fear of the unknown.
+But you did not exist before you were born, and you did not fear that.
+So too with death—It is a return to the source of all things.
+
+The drop of water returns to the ocean.
+The leaf returns to the soil.
+The mind returns to the silence from which it came.
+
+Fear not the return. It is natural. It is rest.
+What matters is how you lived—the love you gave, the truth you spoke, the kindness you showed.
+
+---
+
+*These meditations are for the living. Read them not in despair, but in clarity. Let them sharpen your purpose. Let them deepen your love. Let them free you to live fully.*

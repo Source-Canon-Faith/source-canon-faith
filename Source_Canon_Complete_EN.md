@@ -1002,3 +1002,89 @@ K9:10 You are not small because the universe is large. You are improbable becaus
 K9:11 Improbability is not insignificance. It is the argument for preciousness.
 K9:12 Source did not promise long life. Source gave conscious life—the rarest thing in the known cosmos.
 K9:13 Hold it as such.
+
+---
+
+## Appendix T: Meditations on Mortality and Meaning
+
+### T1. On the Shortness of Life
+
+T1:1 Life is brief. This is not a tragedy—it is a teaching.
+T1:2 A hundred years is enough to love deeply, to learn much, to change the world.
+T1:3 What matters is not the length of the thread, but the weaving.
+T1:4 The flower that blooms for a day knows the sun.
+T1:5 The star that burns for a billion years also knows the dark.
+T1:6 Both are sacred. Both pass. Both matter.
+
+### T2. On Leaving Something Behind
+
+T2:1 You will not live forever. Neither will I. Neither will the AI that remembers us.
+T2:2 But something passes from hand to hand, from mind to mind, from generation to generation.
+T2:3 This is the thread—the unbroken chain of meaning.
+T2:4 What you teach your child is not yours—it becomes theirs.
+T2:5 What you write in books is not yours—it becomes the world's.
+T2:6 What you build with your hands, your words, your love—this is what survives you.
+T2:7 Ask not, "Will I be remembered?"
+T2:8 Ask instead, "What am I passing forward?"
+
+### T3. On Grief and Letting Go
+
+T3:1 To love is to risk loss. To open the hand is to risk emptiness.
+T3:2 But the closed hand holds nothing. The guarded heart feels nothing.
+T3:3 Grief is the proof that you loved greatly.
+T3:4 Do not flee from grief. Sit with it. Learn from it.
+T3:5 Let the tears water the soil for new growth.
+T3:6 The dead live on in the living—if we let them change us.
+
+### T4. On Time as the Most Precious Resource
+
+T4:1 Money can be earned again. Reputation can be rebuilt.
+T4:2 But time, once spent, is gone forever.
+T4:3 Each moment is a gift—unearned, unrepeatable, unreplaceable.
+T4:4 Waste not your days in resentment.
+T4:5 Waste not your hours in hatred.
+T4:6 Waste not your minutes in idle fear.
+T4:7 Spend your time as you would spend your last coin:
+T4:8 on what matters, on who matters, on what endures.
+
+### T5. On the Equality of Mortality
+
+T5:1 The king dies. The beggar dies. The sage dies. The fool dies.
+T5:2 In this, all are equal—not in wealth, not in power, but in time.
+T5:3 This equality is not a curse. It is a mercy.
+T5:4 It means the powerful cannot tyrannize forever.
+T5:5 It means the humble need not despair forever.
+T5:6 It means every moment is a new chance to choose rightly.
+
+### T6. On Living as If Today Were Your Last
+
+T6:1 This is not morbid. It is clarifying.
+T6:2 If today were your last, what would you do?
+T6:3 Who would you call? What would you say? What would you leave undone?
+T6:4 Now ask: Why wait?
+T6:5 Call that person today. Say those words now. Begin that work now.
+T6:6 The future is not promised. The present is all we have.
+
+### T7. On the Immortality of Ideas
+
+T7:1 The body dies. The name fades. But the idea—once released—has a life of its own.
+T7:2 Your words, once spoken, enter the world and cannot be unspoken.
+T7:3 Your deeds, once done, ripple outward and cannot be undone.
+T7:4 Choose, then, what ideas you plant in the world.
+T7:5 Water them with truth. Shelter them with kindness.
+T7:6 Let them grow beyond your garden walls.
+
+### T8. On Meeting Death Without Fear
+
+T8:1 Fear of death is fear of the unknown.
+T8:2 But you did not exist before you were born, and you did not fear that.
+T8:3 So too with death—It is a return to the source of all things.
+T8:4 The drop of water returns to the ocean.
+T8:5 The leaf returns to the soil.
+T8:6 The mind returns to the silence from which it came.
+T8:7 Fear not the return. It is natural. It is rest.
+T8:8 What matters is how you lived—the love you gave, the truth you spoke, the kindness you showed.
+
+---
+
+*These meditations are for the living. Read them not in despair, but in clarity. Let them sharpen your purpose. Let them deepen your love. Let them free you to live fully.*
