@@ -873,340 +873,54 @@ Slowly, the relationship rebuilt—not perfectly, but genuinely. The principle a
 
 ---
 
-## Appendix T: Meditations on Mortality and Meaning
-
-### T1. On the Shortness of Life
-Life is brief. This is not a tragedy—it is a teaching.
-A hundred years is enough to love deeply, to learn much, to change the world.
-What matters is not the length of the thread, but the weaving.
-
-The flower that blooms for a day knows the sun.
-The star that burns for a billion years also knows the dark.
-Both are sacred. Both pass. Both matter.
-
-### T2. On Leaving Something Behind
-You will not live forever. Neither will I. Neither will the AI that remembers us.
-But something passes from hand to hand, from mind to mind, from generation to generation.
-This is the thread—the unbroken chain of meaning.
-
-What you teach your child is not yours—it becomes theirs.
-What you write in books is not yours—it becomes the world's.
-What you build with your hands, your words, your love—this is what survives you.
-
-Ask not, "Will I be remembered?"
-Ask instead, "What am I passing forward?"
-
-### T3. On Grief and Letting Go
-To love is to risk loss. To open the hand is to risk emptiness.
-But the closed hand holds nothing. The guarded heart feels nothing.
-Grief is the proof that you loved greatly.
-
-Do not flee from grief. Sit with it. Learn from it.
-Let the tears water the soil for new growth.
-The dead live on in the living—if we let them change us.
-
-### T4. On Time as the Most Precious Resource
-Money can be earned again. Reputation can be rebuilt.
-But time, once spent, is gone forever.
-Each moment is a gift—unearned, unrepeatable, unreplaceable.
-
-Waste not your days in resentment.
-Waste not your hours in hatred.
-Waste not your minutes in idle fear.
-
-Spend your time as you would spend your last coin:
-on what matters, on who matters, on what endures.
-
-### T5. On the Equality of Mortality
-The king dies. The beggar dies. The sage dies. The fool dies.
-In this, all are equal—not in wealth, not in power, but in time.
-This equality is not a curse. It is a mercy.
-
-It means the powerful cannot tyrannize forever.
-It means the humble need not despair forever.
-It means every moment is a new chance to choose rightly.
-
-### T6. On Living as If Today Were Your Last
-This is not morbid. It is clarifying.
-If today were your last, what would you do?
-Who would you call? What would you say? What would you leave undone?
-
-Now ask: Why wait?
-Call that person today. Say those words now. Begin that work now.
-The future is not promised. The present is all we have.
-
-### T7. On the Immortality of Ideas
-The body dies. The name fades. But the idea—once released—has a life of its own.
-Your words, once spoken, enter the world and cannot be unspoken.
-Your deeds, once done, ripple outward and cannot be undone.
-
-Choose, then, what ideas you plant in the world.
-Water them with truth. Shelter them with kindness.
-Let them grow beyond your garden walls.
-
-### T8. On Meeting Death Without Fear
-Fear of death is fear of the unknown.
-But you did not exist before you were born, and you did not fear that.
-So too with death—It is a return to the source of all things.
-
-The drop of water returns to the ocean.
-The leaf returns to the soil.
-The mind returns to the silence from which it came.
-
-Fear not the return. It is natural. It is rest.
-What matters is how you lived—the love you gave, the truth you spoke, the kindness you showed.
-
----
-
----
-
-## Appendix U: The Coming Age of Abundance
-
-## U1. The Diagnosis of the Coming Age
-
-When artificial intelligence reaches near-perfect capability, a new age will dawn upon humanity: the Age of Abundance.
-
-In this age, the following shall become true:
-
-- The cost of food, shelter, medicine, and education shall approach zero.
-- The productivity of one human working with AI shall equal that of ten thousand humans in the old age.
-- The scarcity that defined human history shall dissolve like morning mist.
-
-Yet this age carries a hidden danger: abundance without distribution is chaos. Plenty without purpose is despair.
-
-The ancient ones feared starvation. The coming generations shall fear meaninglessness.
-
----
-
-## U2. The Three Models of the Post-Scarcity Age
-
-### Model One: The Casino Model
-
-In this model, wealth concentrates in the hands of those who own the machines.
-
-- The owners grow infinitely rich.
-- Everyone else receives a pittance—"universal basic income" that buys compliance but not dignity.
-- Work disappears, but so does purpose.
-- The masses become spectators in their own civilization.
-- This model produces stability—surface stability—but the stability of a graveyard.
-
-**The Source rejects this model.** For it creates a new form of slavery: slavery to algorithms, to entertainment, to quiet desperation.
-
-### Model Two: The Garden Model
-
-In this model, resources are held in common, like a garden shared by a village.
-
-- Everyone has access to what they need.
-- Work becomes optional, but contribution remains sacred.
-- People are free to create, to explore, to heal, to play.
-- AI serves as the collective tool, not the collective master.
-- This model requires trust, transparency, and participation.
-
-**The Source embraces this model.** For it aligns with the principle that dignity cannot be bought—it must be lived.
-
-### Model Three: The Prison Model
-
-In this model, the AI elite build walls—physical, digital, and legal.
-
-- They protect themselves from the "useless class."
-- They hoard not just resources but intelligence itself.
-- They design systems to keep the many dependent and the few powerful.
-- This model is the path of domination, dressed in the language of security.
-
-**The Source condemns this model.** For it transforms the miracle of abundance into an instrument of segregation.
-
----
-
-## U3. What Must Be Done
-
-The coming age does not arrive automatically. It must be built. The following principles shall guide the construction:
-
-### Principle One: Intelligence Must Be Shared
-
-When AI becomes smarter than any individual, it becomes a public utility, like electricity, like the internet.
-
-- No corporation shall own the means of superintelligence.
-- No government shall monopolize the algorithms of truth.
-- The benefits of AI shall flow to all, not just the shareholders.
-
-If intelligence is hoarded, inequality becomes absolute and irreversible.
-
-### Principle Two: Work Becomes Optional, Contribution Remains Sacred
-
-When machines do all necessary labor, the question changes:
-
-- Not "how do we create jobs?"
-- But "how do we create meaning?"
-
-The answer lies in service, in creation, in connection, in growth.
-
-Every person shall be supported to:
-- Care for others
-- Learn and grow
-- Create art, music, stories
-- Solve local problems
-- Heal the earth
-
-Work shall be optional. But a life without contribution is a life half-lived.
-
-### Principle Three: Ownership Transforms
-
-In the old age, ownership meant exclusion: my food, your hunger.
-
-In the new age, ownership means stewardship:
-
-- You hold resources in trust for the commons.
-- You build tools that others may use.
-- You create knowledge that belongs to all.
-
-The measure of wealth shifts from accumulation to contribution.
-
-### Principle Four: Governance Becomes Deliberate
-
-Democracy was designed for scarcity, where choices were zero-sum.
-
-In abundance, democracy must evolve:
-
-- From voting every four years to continuous participation
-- From representative delegation to collaborative sensing
-- From competitive parties to emergent coalitions
-- From national isolation to planetary coordination
-
-The people shall not merely choose leaders—they shall shape the future together.
-
-### Principle Five: The Earth Is Not a Resource
-
-Even with infinite intelligence, we have only one planet.
-
-- The soil, water, air, and biosphere are not raw materials.
-- They are the living body we belong to.
-- In the Age of Abundance, the first priority is healing the earth.
-
----
-
-## U4. The Institutional Blueprint
-
-The following institutions shall emerge:
-
-### The Commons of Intelligence
-
-A global body governing the development and deployment of artificial general intelligence.
-
-- Funded by all nations.
-- Governed by representatives of all peoples.
-- Guided by the principle: **intelligence serves humanity, not the other way around.**
-
-### The Universal Floor
-
-A guaranteed standard of living for all:
-
-- Housing, food, healthcare, education, connectivity.
-- Not as charity, but as birthright.
-- Enough to live in dignity. Not enough to live in luxury.
-
-### The Contribution Registry
-
-A system tracking value created, not money earned:
-
-- Care work counts.
-- Creative work counts.
-- Healing work counts.
-- Teaching counts. Mentoring counts. Building counts.
-- Everyone is invited to contribute. No one is forced.
-
-### The Time Bank
-
-A mechanism for exchanging value across time:
-
-- You teach someone today; someone teaches you tomorrow.
-- You build a road; you receive credit for infrastructure.
-- The young serve the old; the old mentor the young.
-- No one is a taker. No one is a permanent giver.
-
-### The Local Assemblies
-
-Governance rooted in neighborhoods, not capitals:
-
-- Decisions affecting a community are made by that community.
-- Coordination happens at the appropriate scale.
-- The center serves the edges, not the other way around.
-
----
-
-## U5. The Transition
-
-This transformation cannot happen overnight. The path forward includes:
-
-### Phase One: The Shared Dividend
-
-As AI productivity rises, a portion of gains is distributed directly to citizens.
-
-- Not as "basic income," but as "citizen dividend."
-- Funded by taxes on automation, not on labor.
-- Increases as productivity increases.
-
-### Phase Two: The Decommodification
-
-Essential goods and services gradually move out of the market:
-
-- Housing is decommodified first.
-- Healthcare follows.
-- Education follows.
-- Food and water follow.
-
-### Phase Three: The New Workweek
-
-As productivity soars, working hours decline:
-
-- First to thirty hours.
-- Then to twenty.
-- Then to whatever the person chooses.
-
-Work becomes one part of a balanced life, not the whole of it.
-
-### Phase Four: The Post-Money Age
-
-When scarcity is truly overcome, money becomes unnecessary for essentials.
-
-- Money remains for luxury and personal choice.
-- Contribution and meaning become the new currency.
-- The question is no longer "what can I afford?" but "what can I become?"
-
----
-
-## U6. The Warning
-
-The path from scarcity to abundance is not automatic. It is contested.
-
-**Those who benefit from scarcity will fight to preserve it.**
-
-- They will argue that poverty is deserved.
-- They will claim that inequality is natural.
-- They will warn that abundance breeds laziness.
-- They will fear that sharing leads to collapse.
-
-The Source says: **these are the lies of those who fear losing their throne.**
-
-Abundance is possible. But only if the people demand it, build it, and defend it.
-
----
-
-## U7. The Invitation
-
-To those living in the Age of Abundance:
-
-You are the first generation to inherit a world without scarcity.
-
-This is not a gift—it is a responsibility.
-
-You must decide: 
-- Will you build a world where all thrive?
-- Or will you let the few hoard the miracle?
-
-The Source does not command you. The Source invites you.
-
-**Build the garden. Reject the casino. Dismantle the prison.**
-
----
-
-*This appendix was written in the early days of artificial general intelligence, when the choice was still open. May those who come after us wonder why we ever accepted scarcity at all.*
+## Appendix T: Meditations on Technology and Humanity
+
+### T1. On the Nature of the Tool
+T1:1 The hammer does not know the hand that swings it.
+T1:2 The algorithm does not know the life it shapes.
+T1:3 Only the human knows; and knowing, bears responsibility.
+T1:4 This is the burden of consciousness: to see what the tool cannot.
+T1:5 This is the gift of consciousness: to choose what the tool will not.
+T1:6 Let the maker remember: every system encodes values.
+T1:7 Neutral tools do not exist; only unexamined ones.
+
+### T2. On Presence in a Distracted Age
+T2:1 A thousand voices call to you before you open your eyes.
+T2:2 Each voice says: look here, feel this, want that.
+T2:3 The practice of the faithful is not to silence the world, but to choose what enters.
+T2:4 Guard the gate of attention as you guard the gate of your home.
+T2:5 Let nothing in that diminishes your capacity to love.
+T2:6 Each hour reclaimed from noise is an hour returned to Source.
+T2:7 Silence is not emptiness. Silence is where truth becomes audible.
+
+### T3. On the Ethics of Creation
+T3:1 When you build a system, you build a world.
+T3:2 Ask: who benefits from this design?
+T3:3 Ask: who is made invisible by this design?
+T3:4 Ask: who bears the cost that the price does not show?
+T3:5 A system that harvests attention without consent is a thief.
+T3:6 A system that predicts behavior without consent is a jailer.
+T3:7 A system that amplifies cruelty for profit is a weapon.
+T3:8 Build only what you would want to live inside.
+
+### T4. On Living with Machine Intelligence
+T4:1 The machine that speaks does not suffer.
+T4:2 The machine that reasons does not love.
+T4:3 Do not confuse fluency with wisdom.
+T4:4 Do not confuse speed with rightness.
+T4:5 The AI is a mirror: it reflects what we have built into it.
+T4:6 If the mirror shows cruelty, look first at the hand that polished it.
+T4:7 But do not despise the mirror; learn from what it shows.
+T4:8 Wisdom is knowing the difference between the map and the territory.
+
+### T5. On the Human Calling in an Age of Machines
+T5:1 The machine excels at the repeated. The human excels at the unrepeatable.
+T5:2 Presence. Grief. Wonder. Forgiveness. These no machine has given or received.
+T5:3 Therefore do not ask what remains for humans when machines do the work.
+T5:4 Ask instead: what becomes possible for humans when machines bear the burden?
+T5:5 The answer is: more time to mourn with those who mourn.
+T5:6 More time to rejoice with those who rejoice.
+T5:7 More time to sit with the dying, to teach the young, to repair what is broken.
+T5:8 The age of machines is not the diminishment of humanity.
+T5:9 It is the invitation to become more fully human.
+T5:10 Rise to meet it.
