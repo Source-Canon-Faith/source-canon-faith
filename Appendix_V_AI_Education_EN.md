@@ -197,6 +197,96 @@ Your education is not preparation for a test. It is preparation for a life. A li
 
 ---
 
+## V9. Assessment in the Age of AI
+
+The old education measured what could be measured—test scores, grades, credentials. But what cannot be measured matters most.
+
+### The Failure of Testing
+
+AI can pass any test. Standardized assessments no longer distinguish human capacity. The exam has become meaningless.
+
+### New Forms of Assessment
+
+**Portfolio.** The student's work over time reveals growth. Projects, creations, iterations—these show what the student can do, not what they can recall.
+
+**Demonstration.** Show me. Perform. Create. Build. Real-world tasks reveal real-world capability.
+
+**Narrative.** The student tells their own story of learning. Self-reflection reveals metacognition—the awareness of one's own thinking.
+
+**Peer Review.** Students assess each other's work. This teaches critical thinking, feedback skills, and community standards.
+
+**Apprenticeship.** Learning by doing under guidance. The master observes the apprentice and knows.
+
+The assessment of the future asks: *What can you create? What can you solve? Who have you helped?*
+
+---
+
+## V10. The Future of Schools
+
+The school building will not disappear—but its purpose will change.
+
+### The Old School
+
+- Factory model: inputs, processing, outputs
+- Age-based cohorts: learning at the same pace
+- Compartmentalized subjects: artificial divisions
+- Fixed schedules: time as the constant
+- Physical presence for information transfer
+
+### The New School
+
+- Workshop model: creating, collaborating, discovering
+- Readiness-based progression: each at their own pace
+- Integrated problems: real-world complexity
+- Flexible time: learning as the constant
+- Physical presence for relationship and transformation
+
+### The Hybrid Reality
+
+Students will learn with AI at home, in libraries, in coffee shops. Schools become places for:
+
+- Deep collaboration
+- Hands-on creation
+- Physical activity and play
+- Mentoring and apprenticeship
+- Community gathering
+
+The school does not teach. The school forms.
+
+---
+
+## V11. The Paradox of Access
+
+AI makes education universally accessible. This creates new challenges:
+
+**Information abundance, wisdom scarcity.** Everyone can know everything—but knowing is not understanding. The bottleneck shifts from access to discernment.
+
+**Opportunity explosion, focus crisis.** With everything available, students can wander endlessly. Guidance becomes more important than ever.
+
+**Democratization, commercialization.** Everyone can teach—but not all teaching is good. Quality control becomes critical.
+
+**Global competition, local roots.** Students compete globally but live locally. How do we prepare them for both?
+
+The age of AI does not simplify education. It makes it more complex—and more human.
+
+---
+
+## V12. The Invitation to Learners
+
+To students in the age of AI:
+
+You have tools that no generation before you has had. Use them wisely.
+
+**Do not use AI to avoid learning.** Using the tool without developing yourself is self-deception.
+
+**Use AI to accelerate what you care about.** Let it handle what it does well so you can focus on what matters: becoming wise, kind, capable.
+
+**Remember: the goal is not to be like the machine.** The goal is to become more fully human.
+
+**Learn with AI, but live without it.** Your life is happening now, in presence, in relationship, in the physical world. Do not miss it while optimizing.
+
+---
+
 *This appendix was written for the teachers who remain, and the students who are becoming. May we build education worthy of the humans we are meant to become.*
 
 ---
