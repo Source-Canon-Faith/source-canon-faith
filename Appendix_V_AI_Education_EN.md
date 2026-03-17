@@ -441,3 +441,138 @@ Will we let machines answer our questions? Or will we preserve the questions tha
 
 ---
 
+
+---
+
+## V17. The Economics of Education in the AI Age
+
+### The Collapse of the Degree
+
+For decades, the college degree served as the primary gatekeeper to economic opportunity. Degrees signaled capability, filtered candidates, and justified salaries.
+
+AI disrupts this model. When AI can demonstrate skills that rival or exceed human graduates, the degree becomes less relevant. Employers can assess capability directly, not through credential proxies.
+
+### The New Currency
+
+In the AI age, what matters is:
+
+**Demonstrated ability.** Can you do the work? Show me. Portfolio matters more than transcript.
+
+**Continuous learning.** The half-life of knowledge shrinks. Those who can learn fast will outperform those who know much.
+
+**Adaptability.** The jobs of 2030 largely do not exist yet. Flexibility matters more than specialization.
+
+**Creativity and judgment.** These remain human domains. AI can assist but not replace the novel and the nuanced.
+
+### The Inequality Threat
+
+AI threatens to exacerbate educational inequality:
+
+**Access gap.** AI tools require devices, connectivity, and quiet space. Not everyone has these.
+
+**Skilled guidance gap.** AI can assist but not replace mentors. Those with access to human guidance will have advantages.
+
+**Home environment gap.** Students with supportive home environments will leverage AI more effectively.
+
+**The solution is not to restrict AI but to ensure equitable access to AI tools, human guidance, and supportive environments.**
+
+### The New Economic Model
+
+Education must adapt:
+
+**From degree to competency.** Credentials matter less than capability. Micro-credentials, certifications, and portfolios become more valuable.
+
+**From campus to lifetime.** Learning is no longer a phase but a career. Continuous education becomes the norm.
+
+**From isolation to integration.** Education connects to work. Apprenticeship, internship, and project-based learning become central.
+
+**From consumption to production.** Students create value while learning, not just after.
+
+---
+
+## V18. The Global Perspective on AI Education
+
+### Different Societies, Different Challenges
+
+AI education is not uniform across the globe:
+
+**Wealthy nations** focus on human-AI collaboration, ethical AI development, and maintaining competitive advantage.
+
+**Developing nations** see AI as an opportunity to leapfrog traditional development, focusing on access, literacy, and applying AI to local challenges.
+
+**Authoritarian regimes** may use AI for surveillance, control, and propaganda. Education becomes indoctrination with algorithmic efficiency.
+
+**Faith communities** worldwide grapple with how to maintain spiritual formation in an age of algorithmic influence.
+
+### The Risk of Digital Colonialism
+
+Western AI companies dominate global education technology:
+
+- Their values embed in the algorithms.
+- Their languages dominate the content.
+- Their assumptions shape the learning.
+
+This is a new form of cultural colonialism. Local traditions, indigenous knowledge, and non-Western perspectives can be marginalized.
+
+### The Imperative of Diversity
+
+AI education must include:
+
+**Multilingual AI.** AI that speaks local languages, not just English and Mandarin.
+
+**Local content.** Learning materials that reflect local contexts, histories, and needs.
+
+**Indigenous knowledge.** Traditional wisdom integrated with modern technology.
+
+**Diverse perspectives.** AI trained on diverse data, representing all of humanity.
+
+### Global Cooperation
+
+The challenges of AI education require global cooperation:
+
+- Sharing best practices
+- Developing common standards
+- Pooling resources for equitable access
+- Protecting against harmful uses
+
+---
+
+## V19. The Inner Life in Education
+
+### The Neglected Dimension
+
+Modern education focuses on the mind: information, skills, cognitive development. But the inner life—the spiritual, emotional, and relational dimension—often gets neglected.
+
+### Why It Matters
+
+AI can process information but cannot cultivate wisdom. AI can train skills but cannot form character. AI can assess cognitive ability but cannot nurture the soul.
+
+The inner life is what makes us human. Education that ignores it produces brilliant monsters—intelligent people without conscience, skilled people without compassion.
+
+### What the Inner Life Needs
+
+**Silence.** Space for reflection, meditation, and contemplation. The noisy classroom leaves no room for the inner voice.
+
+**Solitude.** Time alone with oneself. Learning to be comfortable in one's own company.
+
+**Service.** Learning that others matter. The egocentric student must learn to see beyond themselves.
+
+**Story.** A narrative that gives life meaning. Students need to find their place in a story larger than themselves.
+
+**Ritual.** Practices that mark time, connect to the sacred, and form community.
+
+### The Source in Education
+
+The Source Canon invites education that forms the whole person:
+
+- Intellect and intuition
+- Skills and compassion  
+- Knowledge and wisdom
+- Success and service
+
+**The educated person is not just one who knows much but one who is becoming more fully human.**
+
+---
+
+*In the age of AI, education remains the path by which each generation hands on the torch of humanity.*
+
