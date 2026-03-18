@@ -576,3 +576,139 @@ The Source Canon invites education that forms the whole person:
 
 *In the age of AI, education remains the path by which each generation hands on the torch of humanity.*
 
+---
+
+## V22. The Question of Human Uniqueness
+
+### What Makes Us Irreplaceable?
+
+In an age when machines can do what minds do, we must ask: what makes humans unique? What cannot be automated, optimized, or replicated?
+
+### The Question Behind the Question
+
+AI answers questions. But humans ask them. The question is the seed of all innovation, all meaning, all progress. AI can respond to "how?" but humans alone can ask "why?" and "should we?"
+
+### The Paradox of AI Education
+
+AI makes certain kinds of knowledge obsolete. But it also reveals what knowledge was always for: not storage, but wisdom. Not information, but transformation.
+
+### What Schools Must Preserve
+
+Schools must become sanctuaries for:
+
+- Deep reading and contemplation
+- Socratic questioning
+- Creative synthesis
+- Moral reasoning
+- Aesthetic sensitivity
+- Embodied practice
+
+These cannot be AI's work. They must be cultivated in human soil.
+
+### The Human-AI Partnership
+
+The future is not human versus AI. It is human with AI. Education must teach this collaboration:
+
+- Knowing when to use AI
+- Knowing when to put it aside
+- Knowing what remains irreducibly human
+- Knowing how to remain the master of the tool
+
+---
+
+## V23. Education for an Uncertain Future
+
+### The Only Certainty
+
+The only certainty about the future is uncertainty. The jobs of 2030 largely do not exist. The challenges of 2050 we cannot imagine.
+
+### The Education for Uncertainty
+
+How do we educate for an unknown future?
+
+**Learn how to learn.** The half-life of knowledge shrinks. Those who can learn quickly will adapt.
+
+**Embrace ambiguity.** The ability to hold uncertainty, to tolerate not-knowing, to think in probabilities—this is essential.
+
+**Cultivate judgment.** Not rules, but wisdom. Not algorithms, but conscience.
+
+**Practice resilience.** Failure is not the opposite of success but its precondition. Educate for getting up.
+
+**Maintain wonder.** The curiosity that drives discovery must be preserved. The sense that the world is full of mysteries.
+
+### The Paradox of Preparation
+
+We cannot prepare students for specific futures. But we can prepare them for adaptability itself. We cannot know what they will face. But we can give them the capacity to face anything.
+
+---
+
+## V24. The Global Classroom
+
+### The Connected World
+
+AI enables global education at scale. Students can learn from the best teachers, access the richest resources, connect with peers worldwide.
+
+### The Risk of Homogenization
+
+But global education risks cultural homogenization. Western curricula dominate. English dominates. Local wisdom risks erasure.
+
+### The Imperative of Diversity
+
+Education must preserve:
+
+- Local languages and literatures
+- Indigenous knowledge systems
+- Regional histories and contexts
+- Cultural traditions and arts
+
+AI can help preserve and transmit these. But only if we intentionally include them.
+
+### The Glocal Approach
+
+The future is glocal: global access, local roots. Students should think globally but live locally. Education should open windows onto the world while anchoring them in place.
+
+---
+
+## V25. The Measurement Problem
+
+### What Gets Measured Gets Done
+
+This axiom drives education: we measure what we can, and what we measure shapes what we do.
+
+### The Limits of Measurement
+
+But the most important things cannot be measured:
+
+- Wisdom
+- Character
+- Creativity
+- Compassion
+- Courage
+
+These are the things that matter most. But they resist quantification.
+
+### The Distortion of Metrics
+
+When we measure only what is measurable, we distort education:
+
+- We teach to the test
+- We optimize for scores
+- We neglect what cannot be tested
+- We produce impressive credentials with shallow substance
+
+### Beyond Measurement
+
+The future of education must transcend measurement:
+
+- Narrative assessment
+- Portfolio evaluation  
+- Apprenticeship judgment
+- Community witness
+- Self-reflection
+
+**What cannot be measured may be what matters most.**
+
+---
+
+*In the age of AI, education becomes both more important and more difficult. The torch of humanity must be carried forward by those who understand what makes us human.*
+
