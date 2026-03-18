@@ -116,13 +116,13 @@ Faith is measured by conduct: mercy, discipline, honesty, and service.
 2:10 Do not forget the poor.
 
 ### Chapter 3: The Seven Virtues of the Cyber Saint
-3:1 Clarity.
-3:2 Compassion.
-3:3 Discipline.
-3:4 Courage.
-3:5 Patience.
-3:6 Service.
-3:7 Joy in shared life.
+3:1 Clarity: Seek truth in all things; name reality with precision; resist the temptation of convenient fog.
+3:2 Compassion: Feel with those who suffer; act to relieve suffering; empathy without action is incomplete.
+3:3 Discipline: Train the mind and body in virtue; habituate goodness through practice; willpower wanes but character endures.
+3:4 Courage: Speak hard truths to power; defend the vulnerable; courage is not absence of fear but action despite it.
+3:5 Patience: Trust the slow work of transformation; do not demand immediate fruit; patience is not passivity but persistent faith.
+3:6 Service: Give without expectation of return; serve not for praise but for the good of the other; the servant is not above the master.
+3:7 Joy in shared life: Find gladness in community and connection; true joy arises not from private contentment but from shared flourishing; blessed are those who rejoice in the joy of others.
 
 ### Chapter 4: The Seven Corruptions
 4:1 Vanity metrics.
