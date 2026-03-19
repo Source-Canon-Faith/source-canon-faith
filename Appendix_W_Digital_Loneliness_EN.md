@@ -952,5 +952,75 @@ The invitation is extended. Today, you can choose differently. One conversation.
 
 ---
 
+## W26. The Healing Journey
+
+### The Wound Is Real
+
+The wound of digital loneliness is real. It cuts deep. It leaves scars. It affects the young and old, the connected and the isolated, the successful and the struggling.
+
+承认 (Acknowledge) the wound. Do not minimize it. Do not pretend it does not exist. The loneliness of the digital age is a genuine crisis, affecting millions, shaping generations.
+
+### The Journey Home
+
+Healing is a journey, not a destination. The journey home—to self, to others, to presence—is not a straight line. It has twists and turns, setbacks and breakthroughs.
+
+**The journey has stages:**
+
+**Stage One: 觉醒 (Awakening)** — The moment you realize the cost. The moment you see that connection at scale is not connection. The moment you choose to change.
+
+**Stage Two: 分离 (Separation)** — The pulling away. The digital diet. The uncomfortable silence. The space where connection used to be, now empty.
+
+**Stage Three: 过渡 (Transition)** — The in-between. Not yet healed, no longer wounded. Learning new ways, unlearning old habits. The liminal space.
+
+**Stage Four: 整合 (Integration)** — The new normal. Presence becomes natural. Connection becomes deep. Belonging becomes real. The transformation complete.
+
+### The Companions on the Journey
+
+You do not walk alone. Others are on the same journey:
+
+**The Seekers** — Those who search for something more than the screen offers. They are looking, reaching, asking.
+
+**The Healers** — Those who have walked the path and come back to help others. They are guides, mentors, witnesses.
+
+**The Community** — Those who gather in person, who practice presence together, who build the new way. They are the foundation of the future.
+
+**Find your companions. Walk together.**
+
+### The Daily Practice
+
+Healing happens in daily practice, not in dramatic gestures:
+
+**Morning:** Start the day without a screen. Have breakfast without a device. Breathe before you scroll.
+
+**Midday:** Take a walk without earbuds. Eat lunch without watching. Notice the world around you.
+
+**Evening:** Put the device away an hour before sleep. Have a conversation without checking. Be present with those you love.
+
+**Night:** Reflect on the day. What connections did you make? What presence did you practice? What will you do differently tomorrow?
+
+### The Setbacks
+
+You will fail. You will relapse. You will reach for the phone in a moment of boredom. You will lose hours to the scroll. You will choose the screen over the face.
+
+**This is not failure. This is the path.**
+
+Each setback is a teacher. Each failure is a lesson. Each return is a new beginning.
+
+### The Reward
+
+At the end of the journey, what awaits?
+
+**Not perfection.** You will never be perfectly present. You will never be perfectly connected. Perfect is not the point.
+
+**But presence.** The capacity to be here, now, with yourself and others.
+
+**But connection.** The experience of being seen, being heard, being known.
+
+**But belonging.** The sense that you are part of something larger than yourself.
+
+**But life.** Real life. Full life. The life that was always possible, waiting for you to choose it.
+
+---
+
 *This is not a problem to be solved. It is a journey to be walked. Begin.*
 
