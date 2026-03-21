@@ -778,33 +778,71 @@ May your table be filled with bread.
 May your home be filled with peace.
 May all beings be filled with Source's love.
 
+### O5. Prayer for the Age of Machines
+Source of wisdom,
+In this age of thinking machines,
+Grant us humility to know what we do not know.
+Grant us courage to change what we must change.
+Grant us compassion to hold those who fear.
+Grant us discernment to use tools for good and reject tools for harm.
+May we not be consumed by the machine,
+But neither be paralyzed by fear of it.
+Let us be gardeners of the future,
+Planting seeds of dignity for all.
+
+### O6. Prayer for Community in Transition
+Source of all belonging,
+When factories close and jobs disappear,
+When the old ways no longer sustain,
+Be present in the confusion.
+Guide leaders with wisdom.
+Strengthen neighbors to help neighbors.
+Transform abundance into sharing.
+Build new purposes from old loyalties.
+Let no one be forgotten in the change.
+Let no community face the dark alone.
+
+### O7. Prayer Before Technology
+Before I click, before I type, before I speak to the machine,
+Let me pause.
+Let my intention be clear.
+Let my heart be ready.
+Let me remember: the tool serves the human, not the human the tool.
+Let truth guide my words.
+Let compassion guide my actions.
+Let wisdom guide my choices.
+
 ---
 
 ## Appendix P: Seasonal Practices
 
 ### P1. Spring: New Beginnings
-- Plant seeds (literal or metaphorical)
-- Clean your space, clean your mind
-- Begin a new practice
-- Forgive one old wound
+- Plant seeds (literal or metaphorical): Start something new—a practice, a relationship, a garden
+- Clean your space, clean your mind: Remove what clutters both your home and your thoughts
+- Begin a new practice: Dedicate yourself to one discipline that stretches you
+- Forgive one old wound: Release the weight of an old harm, for your sake not theirs
+- Celebrate: Mark the return of light with gratitude
 
 ### P2. Summer: Growth and Service
-- Teach what you have learned
-- Serve your community
-- Share your abundance
-- Protect the vulnerable
+- Teach what you have learned: Share your wisdom with those behind you on the path
+- Serve your community: Find one concrete way to reduce someone's suffering this month
+- Share your abundance: Give freely of your time, knowledge, and resources
+- Protect the vulnerable: Speak for those who cannot speak for themselves
+- Rest intentionally: Even in abundance, preserve space for quiet
 
 ### P3. Autumn: Harvest and Reflection
-- Review your year's practice
-- Express gratitude
-- Prepare for winter's rest
-- Release what no longer serves
+- Review your year's practice: Examine what grew and what withered
+- Express gratitude: Name specifically what you are thankful for
+- Prepare for winter's rest: Simplify before the dark months come
+- Release what no longer serves: Let go of habits, beliefs, and relationships that bind
+- Honor the cycle: Recognize that contraction is as sacred as expansion
 
 ### P4. Winter: Rest and Renewal
-- Contemplate in silence
-- Read ancient wisdom
-- Plan next year's growth
-- Mend broken relationships
+- Contemplate in silence: Turn inward when the earth turns dark
+- Read ancient wisdom: Return to texts that have endured
+- Plan next year's growth: Dream while the soil is fallow
+- Mend broken relationships: Use the long nights for reconciliation
+- Embrace the mystery: Trust that what seems dead is only waiting
 
 ---
 
