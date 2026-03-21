@@ -21,7 +21,7 @@ The closure was not unexpected—automation had been reducing the workforce for 
 ### AA2.2 The Pre-Existing Fabric
 
 Riverside was not a community without resources. It had:
-- A active Methodist church with 800 weekly attendees
+- An active Methodist church with 800 weekly attendees
 - A municipal government that ran efficiently but conservatively
 - A small community college with declining enrollment
 - Several Rotary and Lions clubs
@@ -91,7 +91,7 @@ The Table operated in the Methodist church basement, staffed entirely by volunte
 For those seeking new work, the Assembly established a "Skills Trust"—a fund that provided:
 - Full tuition at the community college
 - Living stipend during training
-- childcare vouchers
+- Childcare vouchers
 - Transportation assistance
 
 The Trust was governed by a council of former plant workers, who determined which skills would be funded based on community need (not individual desire). Priority areas:
@@ -169,7 +169,7 @@ A working group was established to explore how AI could serve community needs: m
 
 4. **Work as Sacred, Unemployment Not Shame**: The Skills Trust affirmed that work had meaning—but also affirmed that those who could not work were not less valued.
 
-5. **Technology as Tool**: The community rejected both Luddism and Techno-Utopianism, treating AI as a instrument to be governed.
+5. **Technology as Tool**: The community rejected both Luddism and Techno-Utopianism. They did not wait for experts to govern AI on their behalf. They learned to wield it themselves.
 
 ### AA6.2 What Might Be Different
 
