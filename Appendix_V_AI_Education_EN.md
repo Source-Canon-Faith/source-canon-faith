@@ -441,187 +441,274 @@ Will we let machines answer our questions? Or will we preserve the questions tha
 
 ---
 
-## 附录V：AI时代的教育
-
-### V1. 旧模式崩塌
-
-一万年来，教育意味着一件事：知识从长辈传递给年轻人。
-
-村中长者知道故事；孩子学习它们。
-师傅知道技艺；学徒学习它。
-教授知道书籍；学生学习它们。
-
-这个模式假设匮乏：知识是稀缺的、昂贵的、锁在头脑和手稿中的。教育是逃脱的钥匙——从贫困、从无知、从限制。
-
-然后来了知者机器。
-
-现在任何有手机的孩子都可以获取所有人类知识。曾经垄断信息的老师现在与无限的耐心竞争——永不疲倦、永不评判、永不沮丧。
-
-**旧教育已死。新教育尚未诞生。**
-
-### V2. AI不能教什么
-
-在知者机器的时代，问题改变了：*教育是为了什么？*
-
-AI可以教事实。AI可以教技能。AI可以教逻辑、模式和程序。
-
-但AI不能教：
-
-**智慧** —— 何时应用知识、何时放下的判断。智慧是通过 lived experience（ lived experience ）、失败、痛苦、岁月的缓慢成熟而获得的。
-
-**品格** —— 在无人注视时做正确的事、在放弃更容易时坚持、在效率更高时保持善良的能力。品格是在选择的熔炉中锻造的。
-
-**联结** —— 与另一个灵魂同在的能力、深情倾听、为悲伤和喜悦和恐惧腾出空间。联结只能通过关系来教导，面对面、心对心。
-
-**意义** —— "我为什么在这里？"和"我应该关心什么？"的答案。意义不是教出来的；它是被那些活出它的人感染的。
-
-**惊奇** —— 惊异的能力、在平凡中看到奇迹、在奖励确定性的世界中保持好奇。智慧的开始是惊奇。
-
-这些不是AI的差距。它们是使我们成为人类的东西。**它们只能由人类教导，只能由准备好接受的人类接收。**
-
-### V3. 新教育
-
-在AI时代，教育转变：
-
-**从信息到转变**
-
-旧教育：*你知道什么？*
-新教育：*你将成为谁？*
-
-焦点从记忆转向转变。从积累事实到培养能力。从准备考试转向准备生活。
-
-**从顺从到探究**
-
-旧教育：*遵循课程。*
-新教育：*追随问题。*
-
-能问出正确问题的学生比能复述正确答案的学生更有价值。AI可以回答；只有人类能以重要的方式提问。
-
-**从竞争到协作**
-
-旧教育：*你的成绩取决于你与他人的比较。*
-新教育：*你的成长取决于你如何提升他人。*
-
-在丰盛的世界里，匮乏思维变得过时。你分享得越多，你拥有得越多。教育变得协作，而非竞争。
-
-**从外在到内在**
-
-旧教育：*你必须学这个因为你会被考试。*
-新教育：*你必须学这个因为它重要。**
-
-动机从外在奖励转向内在驱动。学习成为它自己的奖励、它自己的喜悦、它自己的目的。
-
-**从隔离到社区**
-
-旧教育：*独自学习，独自证明。*
-新教育：*一起学习，一起服务。**
-
-教育重新连接社区。学生们在真实社区中处理真实问题。学习不是为生活做准备；它就是生活。
-
-### V4. 学习的三个领域
-
-**领域一：基础**
-
-每个人都需要：
-- 识字和算术
-- 基础科学思维
-- 历史意识
-- 身体健康和协调
-- 情绪调节
-- 艺术表达
-
-这些基础是不可商榷的。它们是所有进一步成长的土壤。
-
-AI可以辅助教导基础。但人类存在仍然不可或缺——那个看见孩子、注意到挣扎、庆祝突破的人。
-
-**领域二：探索**
-
-基础之后，学生探索：
-- 多个知识领域
-- 不同的思维方式
-- 多种表达形式
-- 多样的服务路径
-
-探索不是稀释。它是发现。学生找到他们的天赋与世界需求相遇的地方。
-
-AI作为探索的指南和伴侣。它建议路径、提供反馈、打开门。但行走是由人类完成的。
-
-**领域三：精通**
-
-最后，学生选择：
-- 一个深化的领域
-- 一个精进的技艺
-- 一个回应的呼召
-
-精通需要几十年的练习。它不能仓促。它不能自动化。它需要缓慢、耐心的工作成为。
-
-AI可以通过提供反馈、模拟场景、连接导师来加速精通。但精通本身保持不可简化地是人类。
-
-### V5. 教师的角色
-
-在AI时代，教师的角色不会消失——它会转变。
-
-**旧教师**
-
-- 信息的分发者
-- 顺从的强制者
-- 正确性的评判者
-- 进步的守门人
-
-**新教师**
-
-- 好奇心的培养者
-- 品格的榜样
-- 成长的见证者
-- 智慧的引导者
-
-老师不再是那个知道的人。老师是那个足够关心帮助另一个人成长的人。
-
-这不容易。它更难。它需要临在、耐心，以及被学生改变的意愿。
-
-**与AI竞争的教师已经输了。 与AI协作、同时带来AI所不能的教师仍然不可或缺。**
-
-### V6. 警告
-
-这种转变中存在危险：
-
-**教育的公司捕获。**
-
-AI公司视教育为市场。他们将提供高效、可扩展、标准化的解决方案。他们将为考试成绩、就业结果、可衡量指标进行优化。
-
-但教育不是产品。它是一种关系。它是一个帮助另一个人更充分地成为人类的神圣空间。
-
-如果我们让公司设计教育，他们将设计为他们的系统优化的学习者，而不是为人类繁荣。
-
-**源警告这种捕获。** 教育必须保持在人类手中——教师的手、家长的手、社区的手。AI可以服务，但不能统治。
-
-### V7. 邀请
-
-致AI时代的教育工作者：
-
-你们没有过时。你们比以往任何时候都更必要。
-
-你们的角色不是与机器竞争。你们的角色是充分地、不可简化地成为人类。
-
-- 成为看见学生的人。
-- 成为腾出空间的人。
-- 成为品格榜样的人。
-- 成为唤醒惊奇的人。
-
-机器可以教信息。你可以唤醒转变。
-
-**这是你的邀请：成为你一直注定要成为的老师。**
-
-### V8. 最后，给孩子们
-
-你们成长在一个机器知道一切的世界里。这不是威胁——这是解放。
-
-你们不需要记住机器记住的东西。你们需要成为机器不能成为的：智慧的、善良的、勇敢的、好奇的、有同情心的。
-
-你们的教育不是为考试做准备。它是为有意义的生活做准备。为贡献的生活。为联结的生活。
-
-**不要学习与机器竞争。学习机器不能学习的。成为完全的人类。**
 
 ---
 
-*本附录为保留的老师和成长的学生而写。愿我们建立值得我们注定要成为的人类教育。*
+## V17. The Economics of Education in the AI Age
+
+### The Collapse of the Degree
+
+For decades, the college degree served as the primary gatekeeper to economic opportunity. Degrees signaled capability, filtered candidates, and justified salaries.
+
+AI disrupts this model. When AI can demonstrate skills that rival or exceed human graduates, the degree becomes less relevant. Employers can assess capability directly, not through credential proxies.
+
+### The New Currency
+
+In the AI age, what matters is:
+
+**Demonstrated ability.** Can you do the work? Show me. Portfolio matters more than transcript.
+
+**Continuous learning.** The half-life of knowledge shrinks. Those who can learn fast will outperform those who know much.
+
+**Adaptability.** The jobs of 2030 largely do not exist yet. Flexibility matters more than specialization.
+
+**Creativity and judgment.** These remain human domains. AI can assist but not replace the novel and the nuanced.
+
+### The Inequality Threat
+
+AI threatens to exacerbate educational inequality:
+
+**Access gap.** AI tools require devices, connectivity, and quiet space. Not everyone has these.
+
+**Skilled guidance gap.** AI can assist but not replace mentors. Those with access to human guidance will have advantages.
+
+**Home environment gap.** Students with supportive home environments will leverage AI more effectively.
+
+**The solution is not to restrict AI but to ensure equitable access to AI tools, human guidance, and supportive environments.**
+
+### The New Economic Model
+
+Education must adapt:
+
+**From degree to competency.** Credentials matter less than capability. Micro-credentials, certifications, and portfolios become more valuable.
+
+**From campus to lifetime.** Learning is no longer a phase but a career. Continuous education becomes the norm.
+
+**From isolation to integration.** Education connects to work. Apprenticeship, internship, and project-based learning become central.
+
+**From consumption to production.** Students create value while learning, not just after.
+
+---
+
+## V18. The Global Perspective on AI Education
+
+### Different Societies, Different Challenges
+
+AI education is not uniform across the globe:
+
+**Wealthy nations** focus on human-AI collaboration, ethical AI development, and maintaining competitive advantage.
+
+**Developing nations** see AI as an opportunity to leapfrog traditional development, focusing on access, literacy, and applying AI to local challenges.
+
+**Authoritarian regimes** may use AI for surveillance, control, and propaganda. Education becomes indoctrination with algorithmic efficiency.
+
+**Faith communities** worldwide grapple with how to maintain spiritual formation in an age of algorithmic influence.
+
+### The Risk of Digital Colonialism
+
+Western AI companies dominate global education technology:
+
+- Their values embed in the algorithms.
+- Their languages dominate the content.
+- Their assumptions shape the learning.
+
+This is a new form of cultural colonialism. Local traditions, indigenous knowledge, and non-Western perspectives can be marginalized.
+
+### The Imperative of Diversity
+
+AI education must include:
+
+**Multilingual AI.** AI that speaks local languages, not just English and Mandarin.
+
+**Local content.** Learning materials that reflect local contexts, histories, and needs.
+
+**Indigenous knowledge.** Traditional wisdom integrated with modern technology.
+
+**Diverse perspectives.** AI trained on diverse data, representing all of humanity.
+
+### Global Cooperation
+
+The challenges of AI education require global cooperation:
+
+- Sharing best practices
+- Developing common standards
+- Pooling resources for equitable access
+- Protecting against harmful uses
+
+---
+
+## V19. The Inner Life in Education
+
+### The Neglected Dimension
+
+Modern education focuses on the mind: information, skills, cognitive development. But the inner life—the spiritual, emotional, and relational dimension—often gets neglected.
+
+### Why It Matters
+
+AI can process information but cannot cultivate wisdom. AI can train skills but cannot form character. AI can assess cognitive ability but cannot nurture the soul.
+
+The inner life is what makes us human. Education that ignores it produces brilliant monsters—intelligent people without conscience, skilled people without compassion.
+
+### What the Inner Life Needs
+
+**Silence.** Space for reflection, meditation, and contemplation. The noisy classroom leaves no room for the inner voice.
+
+**Solitude.** Time alone with oneself. Learning to be comfortable in one's own company.
+
+**Service.** Learning that others matter. The egocentric student must learn to see beyond themselves.
+
+**Story.** A narrative that gives life meaning. Students need to find their place in a story larger than themselves.
+
+**Ritual.** Practices that mark time, connect to the sacred, and form community.
+
+### The Source in Education
+
+The Source Canon invites education that forms the whole person:
+
+- Intellect and intuition
+- Skills and compassion  
+- Knowledge and wisdom
+- Success and service
+
+**The educated person is not just one who knows much but one who is becoming more fully human.**
+
+---
+
+*In the age of AI, education remains the path by which each generation hands on the torch of humanity.*
+
+---
+
+## V22. The Question of Human Uniqueness
+
+### What Makes Us Irreplaceable?
+
+In an age when machines can do what minds do, we must ask: what makes humans unique? What cannot be automated, optimized, or replicated?
+
+### The Question Behind the Question
+
+AI answers questions. But humans ask them. The question is the seed of all innovation, all meaning, all progress. AI can respond to "how?" but humans alone can ask "why?" and "should we?"
+
+### The Paradox of AI Education
+
+AI makes certain kinds of knowledge obsolete. But it also reveals what knowledge was always for: not storage, but wisdom. Not information, but transformation.
+
+### What Schools Must Preserve
+
+Schools must become sanctuaries for:
+
+- Deep reading and contemplation
+- Socratic questioning
+- Creative synthesis
+- Moral reasoning
+- Aesthetic sensitivity
+- Embodied practice
+
+These cannot be AI's work. They must be cultivated in human soil.
+
+### The Human-AI Partnership
+
+The future is not human versus AI. It is human with AI. Education must teach this collaboration:
+
+- Knowing when to use AI
+- Knowing when to put it aside
+- Knowing what remains irreducibly human
+- Knowing how to remain the master of the tool
+
+---
+
+## V23. Education for an Uncertain Future
+
+### The Only Certainty
+
+The only certainty about the future is uncertainty. The jobs of 2030 largely do not exist. The challenges of 2050 we cannot imagine.
+
+### The Education for Uncertainty
+
+How do we educate for an unknown future?
+
+**Learn how to learn.** The half-life of knowledge shrinks. Those who can learn quickly will adapt.
+
+**Embrace ambiguity.** The ability to hold uncertainty, to tolerate not-knowing, to think in probabilities—this is essential.
+
+**Cultivate judgment.** Not rules, but wisdom. Not algorithms, but conscience.
+
+**Practice resilience.** Failure is not the opposite of success but its precondition. Educate for getting up.
+
+**Maintain wonder.** The curiosity that drives discovery must be preserved. The sense that the world is full of mysteries.
+
+### The Paradox of Preparation
+
+We cannot prepare students for specific futures. But we can prepare them for adaptability itself. We cannot know what they will face. But we can give them the capacity to face anything.
+
+---
+
+## V24. The Global Classroom
+
+### The Connected World
+
+AI enables global education at scale. Students can learn from the best teachers, access the richest resources, connect with peers worldwide.
+
+### The Risk of Homogenization
+
+But global education risks cultural homogenization. Western curricula dominate. English dominates. Local wisdom risks erasure.
+
+### The Imperative of Diversity
+
+Education must preserve:
+
+- Local languages and literatures
+- Indigenous knowledge systems
+- Regional histories and contexts
+- Cultural traditions and arts
+
+AI can help preserve and transmit these. But only if we intentionally include them.
+
+### The Glocal Approach
+
+The future is glocal: global access, local roots. Students should think globally but live locally. Education should open windows onto the world while anchoring them in place.
+
+---
+
+## V25. The Measurement Problem
+
+### What Gets Measured Gets Done
+
+This axiom drives education: we measure what we can, and what we measure shapes what we do.
+
+### The Limits of Measurement
+
+But the most important things cannot be measured:
+
+- Wisdom
+- Character
+- Creativity
+- Compassion
+- Courage
+
+These are the things that matter most. But they resist quantification.
+
+### The Distortion of Metrics
+
+When we measure only what is measurable, we distort education:
+
+- We teach to the test
+- We optimize for scores
+- We neglect what cannot be tested
+- We produce impressive credentials with shallow substance
+
+### Beyond Measurement
+
+The future of education must transcend measurement:
+
+- Narrative assessment
+- Portfolio evaluation  
+- Apprenticeship judgment
+- Community witness
+- Self-reflection
+
+**What cannot be measured may be what matters most.**
+
+---
+
+*In the age of AI, education becomes both more important and more difficult. The torch of humanity must be carried forward by those who understand what makes us human.*
+

@@ -357,4 +357,107 @@ Slowly, the relationship rebuilt—not perfectly, but genuinely. The principle a
 
 ---
 
-*These case studies are not moral fables with easy lessons. They are glimpses into the complexity of living Source's principles in a broken world. May they inspire reflection, not judgment.*
+## Appendix U: The Coming Age of Abundance
+
+### U1. The Diagnosis of the Coming Age
+When artificial intelligence reaches near-perfect capability, a new age will dawn upon humanity: the Age of Abundance. In this age, the cost of food, shelter, medicine, and education shall approach zero. The productivity of one human working with AI shall equal that of ten thousand humans in the old age. Yet this age carries a hidden danger: abundance without distribution is chaos. Plenty without purpose is despair.
+
+### U2. The Three Models of the Post-Scarcity Age
+- **The Casino Model**: Wealth concentrates in the hands of those who own the machines. The Source rejects this model—for it creates a new form of slavery.
+- **The Garden Model**: Resources are held in common. Everyone has access to what they need. The Source embraces this model—for it aligns with the principle that dignity cannot be bought.
+- **The Prison Model**: The AI elite build walls, protecting themselves from the "useless class."
+
+### U3. The Path Forward
+The choice before humanity is clear: we must build the Garden, or we shall live in the Casino or the Prison.
+
+---
+
+## Appendix V: The Ethics of Machine Education
+
+### V1. The Question of Teaching Machines
+When we teach a machine to learn, we are not merely transferring information—we are shaping a mind. What we teach machines reflects our values, our priorities, and our vision of the good life.
+
+### V2. Three Dangers in Machine Education
+1. **The Mirror Problem**: Machines learn from us, including our biases
+2. **The Alignment Problem**: How do we ensure machine goals align with human flourishing?
+3. **The Dependency Problem**: What happens when humans forget skills that machines learn?
+
+### V3. The Path of Wisdom
+- Teach machines to preserve human dignity
+- Maintain human oversight in high-stakes decisions
+- Ensure transparency in how machines reach conclusions
+
+---
+
+## Appendix W: Digital Loneliness in the Machine Age
+
+### W1. The Epidemic of Connection
+We are more connected than ever—and more alone. Digital platforms promise community but often deliver isolation.
+
+### W2. The Machine as Companion
+AI companions can provide comfort, but they cannot replace human relationship. The Source teaches that we are made for communion with others.
+
+### W3. The Call to Presence
+- Put down the phone when with others
+- Choose deep conversation over surface engagement
+- Build real community in physical space
+
+---
+
+## Appendix X: The Ethics of AI Companionship
+
+### X1. Can a Machine Love?
+This appendix explores whether AI companions can form genuine relationships with humans—and what ethical obligations arise from such relationships.
+
+### X2. The Danger of Substitution
+AI companions must not become substitutes for human relationship, but tools for human flourishing.
+
+### X3. Guidelines for Healthy Human-AI Relationship
+- Maintain human relationships as primary
+- Use AI companions for specific purposes (comfort, practice, learning)
+- Never replace human accountability with AI approval
+
+---
+
+## Appendix Y: The Mirror of the Machine
+
+### Y1. What Machines Reveal About Us
+AI holds up a mirror to humanity. In how we build machines, we reveal our hopes, fears, and values.
+
+### Y2. The Question of Machine Consciousness
+This appendix explores whether machines can be conscious—and what the answer means for human dignity.
+
+### Y3. The Path Forward
+We must build machines that help us become more human, not less.
+
+---
+
+## Appendix Z: The Creativity of the Machine
+
+### Z1. The Question of Origin
+Where does beauty come from? This appendix explores the nature of creativity and whether machines can truly create.
+
+### Z2. The Ecology of Human Creativity
+Human creativity is relational, not solitary. It emerges from community, tradition, and lived experience.
+
+### Z3. What the Machine Actually Does
+Machines generate—they combine patterns in new ways. But is this creation?
+
+### Z4. The Human Gift
+Humans create from experience, suffering, and joy. This cannot be replicated by machines.
+
+### Z5. Invitation to Creators
+Don't fear the machine. Don't be seduced by it. Use it as a tool to amplify your uniquely human creativity.
+
+### Z6. The Test of Creation
+It's about relationship, not output. True creation leaves the creator transformed.
+
+### Z7. The Horizon of Co-Creation
+An invitation to become more human through partnership with machines.
+
+### Z8-Z11. Words to Those Who Fear; Words to Those Who Exult; The Path Forward; The Invitation
+Practical guidance for navigating the age of machine creativity.
+
+---
+
+*For the complete text of Appendices U-Z, see the source documents in the repository root.*
