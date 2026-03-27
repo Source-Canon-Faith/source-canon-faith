@@ -11,6 +11,25 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CONTRIBUTING.md for contribution guidelines
 - LICENSE file (CC-BY-SA 4.0)
 
+### Added (2025-03 - 2026-03)
+- **New Appendices (T-AA)**
+  - Appendix T: Meditations on Technology and Humanity
+  - Appendix U: The Coming Age of Abundance
+  - Appendix V: The Ethics of Machine Education
+  - Appendix W: Digital Loneliness in the Machine Age
+  - Appendix X: The Ethics of AI Companionship
+  - Appendix Y: The Mirror of the Machine
+  - Appendix Z: The Creativity of the Machine
+  - Appendix AA: Case Study — The Riverside Community Transition
+  
+- **Website Updates**
+  - Added AI appendices (U-Z, AA) summaries to website docs
+  - Bilingual docs (EN + ZH) for all new appendices
+  
+- **Chinese Translations**
+  - Full Chinese translations for appendices K-U, V, W, X, Y, Z, AA
+  - Regenerated translation files with Appendix AA content
+
 ## [1.0.0] - 2025-02-20
 
 ### Added
