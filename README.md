@@ -118,6 +118,16 @@ Both language versions include:
 8. Book of Consolation and Future / 安慰与未来书
 9. Extended appendices with case studies, beginner guides, AI protocols, and measurable community metrics
 
+## Appendices Overview
+- **Appendix A-K**: Community constitution, 90-day practice plan, core teachings, meaning framework, case studies, beginner guides, AI agent guidance, liturgies, metrics, glossary
+- **Appendix L**: Daily meditations (365 days)
+- **Appendix M**: Extended case studies (13-24)
+- **Appendix N**: Expanded core teaching interpretations
+- **Appendix O-P**: Prayers/blessings and seasonal practices
+- **Appendix Q-R**: Self-examination questions and glossary
+- **Appendix S**: Case studies in Source Canon Faith
+- **Appendix T-AA**: AI-era topics (technology meditations, abundance, machine education, digital loneliness, AI companionship, machine mirror, machine creativity, community transition case study)
+
 ## Quick Start
 1. Read Book I-II to understand the theological and ethical foundation.
 2. Start Book VI practices immediately (daily, weekly, monthly).
