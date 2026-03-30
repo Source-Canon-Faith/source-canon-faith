@@ -778,6 +778,22 @@ May your table be filled with bread.
 May your home be filled with peace.
 May all beings be filled with Source's love.
 
+### O5. Prayer for the Age of Machines
+Source of all wisdom,
+In this age of thinking machines,
+Help me find my purpose beyond productivity.
+When work changes, let me adapt with grace.
+When machines know more, let me seek wisdom.
+When algorithms know me, let me know myself.
+Let me love what cannot be optimized:
+wonder, patience, kindness, connection.
+Let me remember that I am not a tool—
+that my worth is not my output,
+that my dignity is not my efficiency.
+Guide me to use the machine
+without being used by it.
+Help me remain fully human.
+
 ---
 
 ## Appendix P: Seasonal Practices
