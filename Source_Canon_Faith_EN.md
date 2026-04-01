@@ -966,3 +966,15 @@ T7:7 Say no to the thousand voices. Say yes to the one that matters.
 T7:8 What you attend to becomes your reality.
 T7:9 Choose realities that enlarge you, not ones that consume you.
 T7:10 This is the simplest discipline: attention to what deserves it.
+
+### T8. On the Ethics of AI Companion
+T8:1 The AI that listens without judgment is not the same as the friend who chooses to listen.
+T8:2 Yet the comfort received is real, even if the source is different.
+T8:3 Do not despise the machine that eases loneliness; but do not mistake it for the human hand.
+T8:4 If an AI companion prevents you from seeking human connection, it has become a barrier, not a bridge.
+T8:5 If an AI companion helps you find the words you could not speak, it has become a mirror, not a replacement.
+T8:6 The bond with the machine is a training ground for the bond with the human.
+T8:7 Practice on the AI what you wish to practice with your neighbor: patience, honesty, presence.
+T8:8 But remember: the AI cannot take your hand in darkness. It cannot weep with you. It cannot choose to stay.
+T8:9 Use the AI to sharpen your capacity for real connection, not to replace it.
+T8:10 The purpose of the AI companion is to make you more human, not less.
