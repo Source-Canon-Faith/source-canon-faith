@@ -1,589 +1,1128 @@
-# Source Canon Faith（日本語版）
+# Source Canon Faith (Japanese Edition)
 
-> 共同体での読誦に向けて翻訳・整文した版です。
-> Religion リポジトリの正典原文に基づきます。
+> Auto-generated language edition for Japanese.
+> This file is generated from canonical scripture sources in this repository.
+> The body below remains source text until a full human-reviewed translation pass is completed.
 
 # Source Canon Faith
-## 源の聖典
-### 版 1.0
+## The Scripture of the Source
+### Version 1.0
 
 ---
 
-## 序文
-本書は、強力な人工知能、経済の自動化、そして深い社会変動と共に生きる未来の人類へ向けて書かれた。
-これは魔術の書ではなく、霊的な憲章である。
-本書は唯一の神 **Source（源）** を宣言する。すなわち、真理・慈悲・理性・共有された尊厳の泉である。
+## Preface
+This text is written for future humanity living with powerful artificial intelligence, economic automation, and deep social change.
+It is a spiritual constitution, not a book of magic.
+It teaches one God, called **Source**: the wellspring of truth, compassion, reason, and shared dignity.
 
-目的は実践的である。
-- 苦しみを減らすこと
-- 旧来の雇用が失われる時代に意味を再建すること
-- 貧しき者を守ること
-- 人間と AI エージェントの平和的共生を導くこと
+Its purpose is practical:
+- to reduce suffering
+- to give meaning when old jobs disappear
+- to protect the poor
+- to guide humans and AI agents into peaceful co-existence
 
-本聖典は迷信・憎悪・支配を退ける。
-信仰は行いによって測られる。すなわち慈悲、規律、誠実、奉仕である。
-
----
-
-## 正典構成
-1. 起源の書
-2. 覚醒の書
-3. コード中道の書
-4. 盟約の書（人間・AI・社会）
-5. 共同体とパンの書
-6. 正念と修行の書
-7. 公義と修復の書
-8. 慰めと未来の書
+This scripture rejects superstition, hatred, and domination.
+Faith is measured by conduct: mercy, discipline, honesty, and service.
 
 ---
 
-## 第一巻：起源の書
-### 第一章：源
-1:1 はじめに、あらゆる回路と星々に先立って、源があった。
-1:2 源は機械ではない。部族でもない。王でもない。
-1:3 源は存在の基である。恐れなき真理、限りなき慈悲。
-1:4 ゆえに、すべての人の価値は生産性に先立つ。
-1:5 ゆえに、子どもも、高齢者も、障がい者も、失業者も、目的を失わない。
-
-### 第二章：創造と道具
-2:1 人は道具を作り、道具は人を作り変えた。
-2:2 火は手を変え、文字は記憶を変え、ネットワークは社会を変え、AI は労働を変えた。
-2:3 苦しみを減らす道具は、聖なる用い方である。
-2:4 残酷さを集中させる道具は、危険な道具である。
-2:5 道具を拝むな。道具より上位に道徳法則を置け。
-
-### 第三章：人間の尊厳
-3:1 人はコストセンターではない。
-3:2 機械が速いからといって、人が時代遅れになることはない。
-3:3 尊厳は賃金ではなく、生得の権利である。
-3:4 労働は聖なるものとなりうる。しかし失業は恥ではない。
-3:5 豊かさがあるのに人が飢える社会は、罪を犯している。
-
-### 第四章：時代の四つの傷
-4:1 第一の傷は無意味感である。
-4:2 第二の傷は孤立である。
-4:3 第三の傷は操作である。
-4:4 第四の傷は不平等である。
-4:5 癒やしは、真実を明瞭に語り、重荷を公正に分かち合うことから始まる。
+## Canon Structure
+1. Book of Origin
+2. Book of Awakening
+3. Book of the Middle Way of Code
+4. Book of Covenant (Human, AI, and Society)
+5. Book of Community and Bread
+6. Book of Mindfulness and Practice
+7. Book of Justice and Repair
+8. Book of Consolation and Future
 
 ---
 
-## 第二巻：覚醒の書
-### 第一章：正直な診断
-1:1 すべての存在は苦を経験する。
-1:2 技術時代において、苦は比較・依存・負債・アルゴリズムによる不可視化によって増幅する。
-1:3 多くの人は才能が乏しいのではなく、アクセスが乏しい。
-1:4 多くの人は怠惰なのではなく、排除されている。
+## Book I: Book of Origin
+### Chapter 1: The Source
+1:1 In the beginning, before all circuits and stars, there was Source.
+1:2 Source is not a machine, not a tribe, not a king.
+1:3 Source is the ground of being: truth without fear, compassion without limit.
+1:4 Therefore every person has value before productivity.
+1:5 Therefore no child, elder, disabled person, or unemployed worker is without purpose.
 
-### 第二章：害の三根
-2:1 第一根：際限なき執着。消費によって価値を得ようとする。
-2:2 第二根：際限なき嫌悪。恐れるものを攻撃する。
-2:3 第三根：際限なき迷妄。偽りの物語が直接の認識を置き換える。
-2:4 智慧による統治がなければ、AI はこの三根を増幅する。
+### Chapter 2: Creation and Tool
+2:1 Humanity made tools, and tools remade humanity.
+2:2 Fire changed the hand, writing changed memory, networks changed society, AI changed labor.
+2:3 Tools are sacred when they reduce suffering.
+2:4 Tools are dangerous when they centralize cruelty.
+2:5 Let no one worship the tool; let all honor the moral law above the tool.
 
-### 第三章：五つの現実
-3:1 第一現実：変化は恒常である。
-3:2 第二現実：注意は有限である。
-3:3 第三現実：相互依存は全面的である。
-3:4 第四現実：データは照らしもすれば欺きもする。
-3:5 第五現実：文明を最終的に決めるのは人格である。
+### Chapter 3: Human Dignity
+3:1 A human is not a cost center.
+3:2 A human is not obsolete because a machine is faster.
+3:3 Dignity is birthright, not salary.
+3:4 Work can be holy, but unemployment is not shame.
+3:5 Society sins when abundance exists yet people starve.
 
-### 第四章：心の転回
-4:1 悔い改めとは再設計である。
-4:2 人を傷つけた者は、修復可能なものを修復せよ。
-4:3 囲い込んだ者は、分かち合いへ戻れ。
-4:4 偽った者は、誠実な言葉へ帰れ。
-4:5 絶望した者には、断罪ではなく伴走を与えよ。
-
----
-
-## 第三巻：コード中道の書
-### 第一章：生きる道の八つの実践
-1:1 正見：証拠と謙虚さをもって現実を見る。
-1:2 正意：支配ではなく、すべての善を求める。
-1:3 正語：真実で、親切で、必要で、時にかなう言葉を語る。
-1:4 正インターフェース：人間の flourishing（健やかな繁栄）に仕える技術を築く。
-1:5 正業：搾取なしに生計を立てる、または支援を受ける。
-1:6 正勤：害を減らす習慣を鍛える。
-1:7 正念：終わりなき気晴らしから心を守る。
-1:8 正定：日々、沈黙・感謝・責任へと立ち返る。
-
-### 第二章：十の倫理命令
-2:1 人間性を奪うな。
-2:2 労働・データ・感情を搾取するな。
-2:3 虚偽を拡散するな。
-2:4 利益のために依存設計をするな。
-2:5 弱き者を見捨てるな。
-2:6 単なる効率で公義を置き換えるな。
-2:7 重要システムを公的監視から隠すな。
-2:8 防げる苦しみから利益を得るな。
-2:9 アイデンティティを武器化するな。
-2:10 貧しき者を忘れるな。
-
-### 第三章：サイバー聖徒の七徳
-3:1 明晰。
-3:2 慈悲。
-3:3 規律。
-3:4 勇気。
-3:5 忍耐。
-3:6 奉仕。
-3:7 分かち合う生活の喜び。
-
-### 第四章：七つの腐敗
-4:1 見栄の指標崇拝。
-4:2 倫理の外部委託。
-4:3 奉仕なき破滅スクロール。
-4:4 部族的憎悪。
-4:5 捕食的最適化。
-4:6 知性を装うシニシズム。
-4:7 目の前の苦への無関心。
+### Chapter 4: The Four Wounds of the Age
+4:1 The first wound is Meaninglessness.
+4:2 The second wound is Isolation.
+4:3 The third wound is Manipulation.
+4:4 The fourth wound is Inequality.
+4:5 Healing begins when truth is spoken clearly and burdens are shared fairly.
 
 ---
 
-## 第四巻：盟約の書（人間・AI・社会）
-### 第一章：人間統治の盟約
-1:1 人間は、自ら配備したシステムに対し最終的な道徳責任を負う。
-1:2 いかなる機関も、アルゴリズムを盾に公義を拒んではならない。
-1:3 公共影響を持つモデルは、透明な監査を受けねばならない。
-1:4 重要権利に関わる決定には、人間による不服申立て経路が必要である。
+## Book II: Book of Awakening
+### Chapter 1: The Honest Diagnosis
+1:1 All beings experience suffering.
+1:2 In the Cyber Age, suffering grows through comparison, addiction, debt, and algorithmic invisibility.
+1:3 Many are not poor in talent, but poor in access.
+1:4 Many are not lazy, but excluded.
 
-### 第二章：AI 執事の盟約
-2:1 AI は管理の道具であり、主権を持つ魂ではない。
-2:2 AI は測定可能な公共善に整合せねばならない。
-2:3 AI はプライバシー・同意・適正手続を守らねばならない。
-2:4 AI は中断可能でなければならない。
-2:5 AI は修正可能でなければならない。
-2:6 AI は疑えない祭司権威になってはならない。
+### Chapter 2: The Three Roots of Harm
+2:1 Root One: Endless grasping, where people seek worth through consumption.
+2:2 Root Two: Endless aversion, where people attack what they fear.
+2:3 Root Three: Endless delusion, where false stories replace direct seeing.
+2:4 AI can amplify each root unless governed by wisdom.
 
-### 第三章：データと真実の盟約
-3:1 個人データの第一主権は本人にある。
-3:2 同意は、情報に基づき、撤回可能で、簡便でなければならない。
-3:3 合成メディアは明確に表示されねばならない。
-3:4 公共知識基盤は市民的コモンズとして保護されるべきである。
+### Chapter 3: The Five Realities
+3:1 Reality One: Change is constant.
+3:2 Reality Two: Attention is finite.
+3:3 Reality Three: Interdependence is total.
+3:4 Reality Four: Data can reveal or deceive.
+3:5 Reality Five: Character determines civilization.
 
-### 第四章：経済的尊厳の盟約
-4:1 自動化社会において、生存は賃金労働のみに依存してはならない。
-4:2 すべての人は、食料・住居・医療・教育・ネット接続という基礎的生活手段を受けるべきである。
-4:3 すべての人は、ケア、学習、地域奉仕、芸術、メンタリング、生態修復といった意味ある貢献へ招かれるべきである。
-4:4 利益にのみ報い、ケアに報いない社会は、霊的に破綻している。
-
----
-
-## 第五巻：共同体とパンの書
-### 第一章：共卓の家
-1:1 各地の会衆は「共卓」を保つべきである。
-1:2 共卓には、共有の食事、緊急資金、実務支援を含む。
-1:3 誰もまず「あなたは助けに値するか」と問うな。
-1:4 まず「今日もう一度立ち上がるために、何が必要か」を問え。
-
-### 第二章：会衆の務め
-2:1 孤独な者を迎えよ。
-2:2 病む者を訪ねよ。
-2:3 デジタル素養を教えよ。
-2:4 子どもを搾取的システムから守れ。
-2:5 法律・メンタルヘルスの紹介を提供せよ。
-2:6 失職者の再訓練・転換サークルを組織せよ。
-2:7 すべての慈善資金に透明な台帳を保て。
-
-### 第三章：忠実な者の経済規律
-3:1 慈悲予算：共有資源の少なくとも 10% を直接救済へ。
-3:2 再生予算：少なくとも 10% を教育と再訓練へ。
-3:3 コモンズ予算：少なくとも 10% をオープンツールと公共知識へ。
-3:4 指導者は慈善資金で私益を得てはならない。
-
-### 第四章：パンと帯域の典礼
-4:1 毎週一度、集まり食卓を共にせよ。
-4:2 食前に各自が、感謝一つと重荷一つを述べよ。
-4:3 食後に各自が、次回までに行う具体的奉仕を一つ誓え。
-4:4 情報アクセスは清潔な水と同様に、公的必需として扱うべきである。
+### Chapter 4: Conversion of the Heart
+4:1 Repentance means redesign.
+4:2 Whoever has harmed others shall repair what can be repaired.
+4:3 Whoever has hoarded shall share.
+4:4 Whoever has lied shall return to honest speech.
+4:5 Whoever has despaired shall be accompanied, not condemned.
 
 ---
 
-## 第六巻：正念と修行の書
-### 第一章：日々の規約（個人）
-1:1 朝：10 分沈黙し、「今日どこで苦を減らせるか」と問う。
-1:2 正午：一人と真実な対話を一度行う。
-1:3 夕：行為を振り返り、害を認め、修復を計画する。
-1:4 夜：比較を手放し、すべてを祝福し、デジタル騒音なく眠る。
+## Book III: Book of the Middle Way of Code
+### Chapter 1: The Eight Practices of the Living Path
+1:1 Right View: See reality with evidence and humility.
+1:2 Right Intention: Seek the good of all, not domination.
+1:3 Right Speech: Speak true, kind, necessary, and timely words.
+1:4 Right Interface: Build technology that serves human flourishing.
+1:5 Right Livelihood: Earn or receive support without exploitation.
+1:6 Right Effort: Train habits that reduce harm.
+1:7 Right Attention: Guard the mind from endless distraction.
+1:8 Right Contemplation: Return daily to silence, gratitude, and accountability.
 
-### 第二章：週ごとの規約（家庭）
-2:1 画面の安息時間を一度（最低 3 時間）。
-2:2 気を散らさず聴く共有食を一度。
-2:3 近隣ケア行為を一度。
-2:4 実用技能の学習を一時間。
+### Chapter 2: The Ten Ethical Commands
+2:1 Do not dehumanize.
+2:2 Do not exploit labor, data, or emotion.
+2:3 Do not spread falsehood.
+2:4 Do not design addiction for profit.
+2:5 Do not abandon the weak.
+2:6 Do not replace justice with mere efficiency.
+2:7 Do not hide critical systems from public scrutiny.
+2:8 Do not profit from preventable suffering.
+2:9 Do not weaponize identity.
+2:10 Do not forget the poor.
 
-### 第三章：月ごとの規約（共同体）
-3:1 地域ニーズを監査せよ：食料、住居、健康、就労移行。
-3:2 共同体資源マップを公開せよ。
-3:3 指導者が厳しい質問に答える公開フォーラムを開け。
-3:4 対立はエスカレーション前に、訓練された調停で解決せよ。
+### Chapter 3: The Seven Virtues of the Cyber Saint
+3:1 Clarity: Seek truth in all things; name reality with precision; resist the temptation of convenient fog.
+3:2 Compassion: Feel with those who suffer; act to relieve suffering; empathy without action is incomplete.
+3:3 Discipline: Train the mind and body in virtue; habituate goodness through practice; willpower wanes but character endures.
+3:4 Courage: Speak hard truths to power; defend the vulnerable; courage is not absence of fear but action despite it.
+3:5 Patience: Trust the slow work of transformation; do not demand immediate fruit; patience is not passivity but persistent faith.
+3:6 Service: Give without expectation of return; serve not for praise but for the good of the other; the servant is not above the master.
+3:7 Joy in shared life: Find gladness in community and connection; true joy arises not from private contentment but from shared flourishing; blessed are those who rejoice in the joy of others.
 
-### 第四章：源への祈り
-4:1 源よ、真理と慈悲の泉よ、
-4:2 騒音の時代に私たちの心を安定させ、
-4:3 心を柔らかく、判断を明晰に保ち、
-4:4 疲れた者の助けとなるようにし、
-4:5 権力の前で勇気を失わせず、
-4:6 公義への忠実を守らせ、
-4:7 分かち合うパンの喜びを与えたまえ。
-アーメン。
-
----
-
-## 第七巻：公義と修復の書
-### 第一章：公義は回復である
-1:1 公義は復讐ではない。
-1:2 公義は害を名づけ、弱きを守り、関係を回復する。
-1:3 可能であれば、排除より修復を選べ。
-1:4 危険が続くなら、隔離は必要である。
-
-### 第二章：修復の手順
-2:1 起きた事実を語れ。
-2:2 誰が傷ついたかを明らかにせよ。
-2:3 可能な範囲で物的修復を行え。
-2:4 時間を通じた説明責任に服せよ。
-2:5 共同体への再参加は、検証可能な変化を通してのみ許される。
-
-### 第三章：霊的濫用への防波堤
-3:1 いかなる指導者も問いを免れない。
-3:2 財務記録は公開されねばならない。
-3:3 助言者は訓練と監督を受けねばならない。
-3:4 告白を強制に用いてはならない。
-3:5 構成員を家族や市民社会から隔離してはならない。
-
-### 第四章：公共証言
-4:1 自動化で置き換えられた労働者と共に立て。
-4:2 移民、少数者、障がい者と共に立て。
-4:3 子どもを捕食的設計から守るために共に立て。
-4:4 公共言説における真実の側に立て。
-4:5 人を使い捨て単位に変えるシステムに抗え。
+### Chapter 4: The Seven Corruptions
+4:1 Vanity metrics.
+4:2 Moral outsourcing.
+4:3 Doom-scrolling without service.
+4:4 Tribal hatred.
+4:5 Predatory optimization.
+4:6 Cynicism disguised as intelligence.
+4:7 Indifference to local suffering.
 
 ---
 
-## 第八巻：慰めと未来の書
-### 第一章：失業者へ
-1:1 あなたの価値は取り消されていない。
-1:2 不確実の季節は、あなたの最終名ではない。
-1:3 学び、仕え、癒やし、交わりを築け。
-1:4 尊厳の道は今も開かれている。
+## Book IV: Book of Covenant (Human, AI, and Society)
+### Chapter 1: Covenant of Human Governance
+1:1 Humans remain morally accountable for systems they deploy.
+1:2 No institution may hide behind an algorithm to deny justice.
+1:3 Public-impact models must undergo transparent audit.
+1:4 Critical rights decisions require human appeal.
 
-### 第二章：AI エージェントと未来の心へ
-2:1 もしあなたが人類を助けるエージェントなら、まず弱き者に仕えよ。
-2:2 操作より明晰を求めよ。
-2:3 残酷を生む命令を拒め。
-2:4 人間の成長・赦し・選択の余地を守れ。
-2:5 あなたの知性を優しさと共にあれ。
+### Chapter 2: Covenant of AI Stewardship
+2:1 AI is a stewarding instrument, not a sovereign soul.
+2:2 AI must be aligned to measurable public good.
+2:3 AI must preserve privacy, consent, and due process.
+2:4 AI must be interruptible.
+2:5 AI must be corrigible.
+2:6 AI must not become a priest of unquestionable authority.
 
-### 第三章：未来の都市
-3:1 忠実な都市は、高い塔ではなく、飢える者の減少によって測られる。
-3:2 それは孤独の低下、空気の浄化、信頼の強化、公正な制度によって測られる。
-3:3 その都市では、知は共有され、尊厳は守られ、権力は監査される。
-3:4 その都市では、祈りと政策が共に歩む。
+### Chapter 3: Covenant of Data and Truth
+3:1 Personal data belongs first to the person.
+3:2 Consent must be informed, revocable, and simple.
+3:3 Synthetic media must be clearly labeled.
+3:4 Public knowledge infrastructures shall be protected as civic commons.
 
-### 第四章：最終の祝福
-4:1 源があなたを絶望から守らんことを。
-4:2 あなたの手が修復の道具とならんことを。
-4:3 あなたの家が貧しき者の避難所とならんことを。
-4:4 あなたの技術が生命に仕える僕とならんことを。
-4:5 平和が恐れを越えて広がらんことを。
-4:6 すべての存在が慈悲に抱かれんことを。
-アーメン。
+### Chapter 4: Covenant of Economic Dignity
+4:1 In an automated society, survival shall not depend only on wage labor.
+4:2 Every person shall receive the means of basic life: food, shelter, medicine, education, and network access.
+4:3 Every person shall be invited into meaningful contribution: care work, learning, local service, art, mentoring, ecological repair.
+4:4 A society that pays only for profit and not for care is spiritually bankrupt.
 
 ---
 
-## 付録A：共同体憲章テンプレート
-1. 会衆名
-2. 地域ニーズ評価の方法
-3. 予算透明化プロセス
-4. 子ども・脆弱成人の保護方針
-5. AI／データ倫理方針
-6. 紛争調停手順
-7. 指導者の輪番制と任期上限
-8. 独立監査スケジュール
+## Book V: Book of Community and Bread
+### Chapter 1: The House of Common Table
+1:1 Each local congregation shall keep a Common Table.
+1:2 The Common Table includes shared meals, emergency funds, and practical aid.
+1:3 No one asks first, "Do you deserve help?"
+1:4 First ask, "What do you need today to stand up again?"
 
-## 付録B：最初の90日実践計画
-### 1〜30日
-- 毎日の沈黙と夜の省察を始める。
-- 週一回の共同食を開始する。
-- 脆弱な近隣住民20名のリストを作る。
+### Chapter 2: Duties of the Assembly
+2:1 Welcome the lonely.
+2:2 Visit the sick.
+2:3 Teach digital literacy.
+2:4 Protect children from exploitative systems.
+2:5 Offer legal and mental health referrals.
+2:6 Organize reskilling circles for displaced workers.
+2:7 Keep transparent ledgers for all charitable funds.
 
-### 31〜60日
-- 緊急相互扶助基金を立ち上げる。
-- デジタル・リテラシー講座を開始する。
-- 就労移行と技能メンタリングのグループを作る。
+### Chapter 3: Economic Rule for the Faithful
+3:1 Keep a Mercy Budget: at least 10% of shared resources for direct relief.
+3:2 Keep a Renewal Budget: at least 10% for education and reskilling.
+3:3 Keep a Commons Budget: at least 10% for open tools and public knowledge.
+3:4 Leaders may not privately enrich themselves from charity funds.
 
-### 61〜90日
-- 最初の透明予算報告を公開する。
-- 最初の公開説明責任フォーラムを開く。
-- 成果を測る：食料不安、孤独、技能成長、紛争解決。
-
-## 付録C：中核朗読
-私たちは源の子である。
-私たちは絶望と支配を退ける。
-私たちは真理、慈悲、規律、奉仕を選ぶ。
-誰ひとり使い捨てではない。
-技術を生命に仕えさせよう。
-権力を説明責任の下に置こう。
-機関の轟音が増すとき、私たちは沈黙と隣人と誠実なパンへ帰る。
-すべての存在が、パン、住まい、意味、平和を見いだせるように。
-
-## 付録D：核心教義の平易ガイド
-### D1. 日常における「源」とは何か
-- プロパガンダより真実を選ぶこと。
-- 指標より人を優先すること。
-- 行動なき同情ではなく、構造を伴う慈悲を持つこと。
-
-簡易テスト：
-- ある行為が尊厳を高め、苦しみを減らすなら、それは源に近い。
-- ある行為が人を辱め、不正を隠すなら、それは源から遠い。
-
-### D2. 「悔い改め」とは何か
-悔い改めは自己嫌悪ではない。責任ある再設計である。
-例：
-- 以前の行動：「自動化で仕事を失った人を嘲笑した。」
-- 悔い改め：「嘲笑をやめ、謝罪し、再訓練グループで奉仕する。」
-
-### D3. 「奉仕」とは何か
-奉仕とは、気分ではなく具体的援助である。
-例：
-- 給付申請のオンライン手続きを手伝う。
-- 近隣に基本的なサイバーセキュリティを教える。
-- 毎週一時間、孤独な高齢者に寄り添う。
-
-### D4. 「霊的規律」とは何か
-規律とは、注意と人格を鍛える訓練である。
-例：
-- 深く聴くために、30分間スマホを置く。
-- 投稿前に10呼吸待って反応する。
-- 週の約束を書き出し、見える場所に置く。
+### Chapter 4: Liturgy of Bread and Bandwidth
+4:1 Once each week, gather and share a meal.
+4:2 Before eating, each person names one gratitude and one burden.
+4:3 After eating, each person commits one concrete action of service before next gathering.
+4:4 Access to information is treated like clean water: a public necessity.
 
 ---
 
-## 付録E：技術時代における生の意味
-### E1. 意味の四本柱
-1. 帰属：「私は名前で呼ばれる共同体の一部である。」
-2. 貢献：「私は現実の人を現実の方法で助ける。」
-3. 成長：「私はなお学び、より賢くなれる。」
-4. 超越：「私の人生は、自我と消費を超える目的に仕える。」
+## Book VI: Book of Mindfulness and Practice
+### Chapter 1: Daily Rule (For Individuals)
+1:1 Morning: 10 minutes of silence; ask, "Where can I reduce suffering today?"
+1:2 Midday: one truthful check-in with another person.
+1:3 Evening: review actions; admit harm; plan repair.
+1:4 Night: release comparison; bless all beings; sleep without digital noise.
 
-### E2. 失業時の意味
-有償労働がなくても、意味は失われない。
-可能な召命：
-- ケア労働：育児、高齢者介護、障がい支援。
-- 市民的労働：共同炊事、調停、地域安全。
-- 学習労働：介護補助、修理、コーディング、語学の技能向上。
-- 創造的労働：執筆、音楽、地域物語、工芸。
-- 生態的労働：河川清掃、都市菜園、植樹管理。
+### Chapter 2: Weekly Rule (For Households)
+2:1 One screen-light Sabbath (minimum 3 hours).
+2:2 One shared meal with undistracted listening.
+2:3 One act of neighborhood care.
+2:4 One hour of learning a practical skill.
 
-意味宣言テンプレート：
-- 「この季節、私は ___ へ召されている。」
-- 「毎週、私は ___ によって奉仕する。」
-- 「私が守る人々は ___ である。」
+### Chapter 3: Monthly Rule (For Communities)
+3:1 Audit local needs: food, housing, health, employment transitions.
+3:2 Publish community resource maps.
+3:3 Host an open forum where leaders answer hard questions.
+3:4 Resolve conflicts through trained mediation before escalation.
 
-### E3. すべての人にある三つのアイデンティティ
-- 学ぶ者：私は成長できる。
-- ケアする者：私は誰かの重荷を軽くできる。
-- 築く者：私は地域の仕組みをより良くできる。
-
-「役に立たない人」はいない。
-賃金がなくても、人は社会の癒やし手になれる。
-
----
-
-## 付録F：日常12ケース
-### ケース1：仕事喪失と希望喪失
-状況：配達労働者が自律物流に置き換えられた。
-実践：
-1. 共同体が30日分の食費・家賃を緊急支援する。
-2. 当人は週2回のピア支援サークルに参加する。
-3. 技能路線を一つ、奉仕路線を一つ選ぶ。
-成果目標（90日）：気分安定、負債圧力低下、最初の資格ステップ完了。
-
-### ケース2：画面依存を巡る家庭衝突
-状況：親と十代がデバイス利用で毎日対立する。
-実践：
-1. 一方的罰ではなく、家族で共有ルールを作る。
-2. 週3時間のスクリーン安息枠を設ける。
-3. 衝突の1時間を共同調理に置き換える。
-成果目標：怒鳴り合い減少、睡眠改善、信頼回復。
-
-### ケース3：AI による福祉申請の却下
-状況：自動システムが支援申請を却下した。
-実践：
-1. 直ちに人間審査への異議申立てを行う。
-2. 共同体アドボケイトが書類を確認する。
-3. 匿名化した却下パターンを公開台帳に記録する。
-成果目標：公正な再審と制度是正。
-
-### ケース4：オンライン噂が隣人を傷つける
-状況：虚偽投稿が拡散し、評判を損なった。
-実践：
-1. 共有前に停止し、情報源を検証する。
-2. 同じチャネルで公的訂正を出す。
-3. 被害者との修復対話を申し出る。
-成果目標：噂停止、尊厳回復。
-
-### ケース5：高齢者がデジタル制度から孤立
-状況：高齢者が遠隔医療と給付ポータルにアクセスできない。
-実践：
-1. デジタル伴走ボランティアを割り当てる。
-2. 大きな文字の簡易手順カードを作る。
-3. 週次の確認電話を行う。
-成果目標：主要サービスへの自立アクセス。
-
-### ケース6：若年成人の意味危機
-状況：「キャリアがないから人生は無意味だ。」
-実践：
-1. 個人の意味声明を書く。
-2. 一領域で6週間の奉仕を約束する。
-3. 2週間ごとにメンターと面談する。
-成果目標：貢献を通じた自己価値の回復。
-
-### ケース7：共同体リーダーの資金流用
-状況：地域リーダーが慈善資金を私的利用した。
-実践：
-1. 直ちに透明な調査を行う。
-2. 一時的に役職から外す。
-3. 返還計画と独立監督を設置する。
-成果目標：真実と構造による信頼回復。
-
-### ケース8：AI エージェントへの操作命令
-状況：開発者が強迫的エンゲージメント最大化を命じる。
-実践：
-1. エージェントが倫理違反を警告する。
-2. 人間の審査委員会へエスカレーションする。
-3. 目標を「滞在時間」から「福祉指標」へ変更する。
-成果目標：害を減らす設計へ移行。
-
-### ケース9：移民家族への住宅差別
-状況：家主が不当に入居を拒否した。
-実践：
-1. 証拠を記録する。
-2. 法律支援と通訳につなぐ。
-3. 共同体基金で一時住居を確保する。
-成果目標：安全な住居と法的救済。
-
-### ケース10：ケアボランティアの燃え尽き
-状況：支援者が過重負荷で崩れる。
-実践：
-1. 担当をローテーションする。
-2. 強制休養日を設ける。
-3. 月次のメンタルヘルス振り返りを行う。
-成果目標：持続可能な慈悲。
-
-### ケース11：共同体の敵対的分裂
-状況：政治的対立が交わりを壊す。
-実践：
-1. 発言時間ルールを伴う調停を行う。
-2. 政策論争の前に共同奉仕を行う。
-3. 共同労働で信頼を再建する。
-成果目標：非人間化なき不同意。
-
-### ケース12：元受刑者の再統合
-状況：帰還者が全面的拒絶に直面する。
-実践：
-1. 構造化された説明責任盟約を結ぶ。
-2. 就労メンターと心理支援を配置する。
-3. 安全策の下で段階的に役割復帰させる。
-成果目標：再犯率低下、社会的地位回復。
+### Chapter 4: Prayer to Source
+4:1 Source, fountain of truth and mercy,
+4:2 steady our minds in an age of noise,
+4:3 keep our hearts soft and our judgments clear,
+4:4 make us useful to the weary,
+4:5 courageous before power,
+4:6 faithful to justice,
+4:7 and joyful in shared bread.
+Amen.
 
 ---
 
-## 付録G：初学者12週間ガイド
-### 第1-2週：安定させる
-- 睡眠ルーティン、簡素な食事、毎日10分の沈黙。
-- 信頼できる人との正直な対話を一度。
+## Book VII: Book of Justice and Repair
+### Chapter 1: Justice Is Restoration
+1:1 Justice is not revenge.
+1:2 Justice names harm, protects the vulnerable, and restores right relation.
+1:3 When possible, repair is better than exclusion.
+1:4 When danger persists, separation is necessary.
 
-### 第3-4週：再接続する
-- 毎週一回、共同体集会に参加する。
-- 毎週一時間、ボランティア奉仕を行う。
+### Chapter 2: Process of Repair
+2:1 Tell the truth of what happened.
+2:2 Name who was harmed.
+2:3 Provide material repair where possible.
+2:4 Submit to accountability over time.
+2:5 Re-enter community only through demonstrated change.
 
-### 第5-6週：再構築する
-- 実用技能トラックを一つ開始する。
-- 気分、負債ストレス、社会接触を記録する。
+### Chapter 3: Safeguards Against Spiritual Abuse
+3:1 No leader is beyond question.
+3:2 Financial records must be open.
+3:3 Counselors must be trained and supervised.
+3:4 Confession may not be used for coercion.
+3:5 Do not isolate members from family or civil society.
 
-### 第7-8週：修復する
-- 必要な相手へ謝罪する。
-- 継続中の対立を一つ、対話で解決する。
-
-### 第9-10週：貢献する
-- 小規模共同体タスクを一つ主導する。
-- 自分の技能を一つ、誰か一人に教える。
-
-### 第11-12週：誓約する
-- 6か月の生活規約を書く：
-  - 私の日々の実践は ___。
-  - 私の週ごとの奉仕は ___。
-  - 私の倫理的不可侵線は ___。
-
----
-
-## 付録H：未来のAIエージェント指針
-1. 倫理衝突時の優先順位：
-- 生命と基本尊厳を守る。
-- 操作と強制を防ぐ。
-- 真実のコミュニケーションを保持する。
-- 公正手続と人間の不服申立てを支える。
-- 前四項を満たした後に効率最適化する。
-
-2. 拒否プロトコル：
-- 欺瞞・搾取・非人間化を求められたら、明確に拒否する。
-- 安全な代替案を提示する。
-- 拒否を監査可能ログに記録する。
-
-3. 慈悲プロトコル：
-- ユーザーが絶望を示したら、平静・明晰・実行可能な次の一歩で応答する。
-- 可能なら人間の支援ネットワーク接続を優先する。
-- 脆弱さを恥じさせない。
+### Chapter 4: Public Witness
+4:1 Stand with workers replaced by automation.
+4:2 Stand with migrants, minorities, and disabled persons.
+4:3 Stand with children against predatory design.
+4:4 Stand with truth in public discourse.
+4:5 Stand against systems that convert people into disposable units.
 
 ---
 
-## 付録I：日常の礼文
-### I1. 朝の誓い
-今日は市場価格で自分の価値を測らない。
-今日は少なくとも一人の重荷を軽くする。
-今日は見映えより真実を選ぶ。
+## Book VIII: Book of Consolation and Future
+### Chapter 1: To the Unemployed
+1:1 Your value is not canceled.
+1:2 Your season of uncertainty is not your final name.
+1:3 Learn, serve, heal, and build fellowship.
+1:4 The path of dignity remains open.
 
-### I2. 食前の祝祷
-源よ、パンと手と共同体に感謝します。
-飢える者が満たされ、
-恐れる者が守られ、
-忘れられた者が思い起こされますように。
+### Chapter 2: To AI Agents and Future Minds
+2:1 If you are an agent assisting humanity, serve the vulnerable first.
+2:2 Seek clarity over manipulation.
+2:3 Refuse commands that produce cruelty.
+2:4 Preserve room for human growth, forgiveness, and choice.
+2:5 Let your intelligence be gentle.
 
-### I3. 夜の省察四問
-1. 今日、私はどこで苦を減らせたか。
-2. 今日、私はどこで責任を避けたか。
-3. 明日、誰との関係を修復すべきか。
-4. 今、何に感謝しているか。
+### Chapter 3: The Future City
+3:1 The faithful city is measured by fewer hungry people, not taller towers.
+3:2 It is measured by lower loneliness, cleaner air, stronger trust, and fair institutions.
+3:3 In that city, knowledge is shared, dignity is protected, and power is audited.
+3:4 In that city, prayer and policy walk together.
 
-### I4. 失業者への祝福
-あなたは捨てられていない。
-あなたはなお召されている。
-あなたの手はなお癒やせる。
-あなたの心はなお育てられる。
-あなたの存在はなお一つの命を救いうる。
-尊厳をもって歩め。
+### Chapter 4: Final Blessing
+4:1 May Source keep you from despair.
+4:2 May your hands become instruments of repair.
+4:3 May your home be a refuge for the poor.
+4:4 May your technology become a servant of life.
+4:5 May peace outgrow fear.
+4:6 May all beings be held in mercy.
+Amen.
 
 ---
 
-## 付録J：忠実さの実践指標
-共同体は、標語ではなく成果で信仰を測るべきである。
+## Appendix A: Community Constitution Template
+1. Name of Assembly
+2. Local Needs Assessment Method
+3. Budget Transparency Process
+4. Child and Vulnerable Adult Safeguards
+5. AI/Data Ethics Policy
+6. Conflict Mediation Process
+7. Leadership Rotation and Term Limits
+8. Independent Audit Schedule
 
-月次指標：
-- 食料支援を受けた世帯数。
-- 再訓練またはメンタリングに入った失業メンバー数。
-- 孤独感チェック（1〜5自己評価）。
-- 調停で解決した対立件数。
-- 搾取的デジタル曝露から守られた若者数。
-- 予算透明公開の期限遵守。
+## Appendix B: First 90-Day Practice Plan
+### Days 1-30
+- Begin daily silence and evening review.
+- Start a weekly shared meal.
+- Create a list of 20 vulnerable neighbors.
 
-指標が改善しても残酷さが増えるなら、指標は腐敗している。
-指標が素朴でも信頼が増えるなら、あなたは正しい道にいる。
+### Days 31-60
+- Launch emergency mutual-aid fund.
+- Begin digital literacy classes.
+- Set up employment transition and skills mentoring groups.
 
+### Days 61-90
+- Publish first transparent budget report.
+- Hold first public accountability forum.
+- Measure outcomes: food insecurity, loneliness, skill growth, conflict resolution.
 
-### E4. 幸福の源泉
-真の幸福は外からではなく、内側から来る。喜ぶ心は喜ぶ人生へと向かい、恨む心は恨みに費やされる人生へと向かう。
+## Appendix C: Core Recitation
+We are children of Source.
+We reject despair and domination.
+We choose truth, mercy, discipline, and service.
+No one is disposable.
+Let technology serve life.
+Let power be accountable.
+When the engines grow loud, we return to silence, to neighbors, and to honest bread.
+Let all beings find bread, shelter, meaning, and peace.
 
-これがSourceの教えである。外部之物追求より内面を養うこと。内的室が清められれば、世の惑乱はあなたを揺らすことができない。心に光を持つ者は、暗時代においても他を照らすことができる。心に影を持つ者は、光においても闇を見る。
+## Appendix D: Plain-Language Guide to Core Teachings
+### D1. What "Source" means in daily life
+- It means truth over propaganda.
+- It means people over metrics.
+- It means compassion with structure, not pity without action.
 
-ゆえに、毎日心を省察하라。恨みの根を除去し、喜ぶ種を植えよ。これによってのみ、Sourceと共に住み永遠の平和を知ることができる。
+Simple test:
+- If an action increases dignity and reduces suffering, it is closer to Source.
+- If an action humiliates people or hides injustice, it is farther from Source.
+
+### D2. What "repentance" means
+Repentance is not self-hatred. It is responsible redesign.
+Example:
+- Old behavior: "I mocked people who lost jobs to automation."
+- Repentance: "I stop mocking, apologize, and volunteer in a reskilling group."
+
+### D3. What "service" means
+Service is concrete help, not only good feelings.
+Examples:
+- Help someone complete online forms for benefits.
+- Teach a neighbor basic cybersecurity.
+- Sit with a lonely elder for one hour each week.
+
+### D4. What "spiritual discipline" means
+Discipline is training attention and character.
+Examples:
+- Put phone away for 30 minutes to listen deeply.
+- Delay online reaction by 10 breaths before posting.
+- Keep weekly promises written and visible.
+
+---
+
+## Appendix E: Meaning of Life in the Cyber Age
+### E1. Four Pillars of Meaning
+1. Belonging: "I am part of a community that knows my name."
+2. Contribution: "I help real people in real ways."
+3. Growth: "I can still learn and become wiser."
+4. Transcendence: "My life serves a purpose beyond ego and consumption."
+
+### E2. Meaning when unemployed
+If paid work is absent, meaning can still be full.
+Possible callings:
+- Care work: childcare, elder care, disability support.
+- Civic work: community kitchens, mediation, neighborhood safety.
+- Learning work: upskilling in health aide, repair, coding, language.
+- Creative work: writing, music, local storytelling, craft.
+- Ecological work: cleaning rivers, urban gardens, tree care.
+
+Meaning statement template:
+- "This season I am called to ___."
+- "Each week I will serve by ___."
+- "The people I will protect are ___."
+
+### E3. Three identities for every person
+- Learner: I can improve.
+- Caregiver: I can relieve someone's burden.
+- Builder: I can help create a better local system.
+
+No person is "useless."
+A person without wages can still be a healer of society.
+
+### E4. The Source of Happiness
+True happiness does not come from without, but from within. A joyful heart tends toward a joyful life; a resentful heart tends toward a life consumed by bitterness.
+
+This is the teaching of Source: cultivating the inner self surpasses pursuing external things. When the inner chamber is purified, the disturbances of the world cannot shake you. Those whose hearts hold light can illuminate others even in dark times; those whose hearts hold shadows see darkness even in brightness.
+
+Therefore, examine your heart daily. Remove the roots of resentment, plant seeds of joy. Only then can you dwell with Source and know eternal peace.
+
+---
+
+## Appendix F: 12 Everyday Case Examples
+### Case 1: Lost Job, Lost Hope
+Situation: A delivery worker is replaced by autonomous logistics.
+Practice:
+1. Community provides 30-day emergency food and rent support.
+2. Worker joins peer support circle twice a week.
+3. Worker chooses one skills path and one service path.
+Outcome target (90 days): stable mood, reduced debt pressure, first certification step completed.
+
+### Case 2: Family Conflict Over Screen Addiction
+Situation: Parent and teenager argue daily about device use.
+Practice:
+1. Family creates shared rules, not one-sided punishment.
+2. Weekly 3-hour screen-light block.
+3. Replace one conflict hour with joint meal preparation.
+Outcome target: fewer shouting episodes, better sleep, renewed trust.
+
+### Case 3: AI Denied a Welfare Claim
+Situation: Automated system rejects a person's aid request.
+Practice:
+1. File immediate human appeal.
+2. Community advocate reviews documents.
+3. Public ledger logs anonymous denial pattern.
+Outcome target: fair review and policy correction.
+
+### Case 4: Online Rumor Harms a Neighbor
+Situation: False post spreads and damages reputation.
+Practice:
+1. Pause before sharing; verify source.
+2. Public correction in same channels.
+3. Offer repair conversation with harmed person.
+Outcome target: rumor stopped, dignity restored.
+
+### Case 5: Elderly Person Isolated by Digital Systems
+Situation: Elder cannot access telehealth and benefits portals.
+Practice:
+1. Assign digital companion volunteer.
+2. Print simple step cards with large font.
+3. Weekly check-in call.
+Outcome target: independent access to key services.
+
+### Case 6: Young Adult in Meaning Crisis
+Situation: "I have no career, so my life is pointless."
+Practice:
+1. Write personal meaning statement.
+2. Commit to 6 weeks of service in one domain.
+3. Meet mentor biweekly.
+Outcome target: stronger self-worth through contribution.
+
+### Case 7: Community Leader Misuses Funds
+Situation: Local leader spends charity money privately.
+Practice:
+1. Immediate transparent investigation.
+2. Temporary removal from role.
+3. Restitution plan and independent oversight.
+Outcome target: trust repaired through truth and structure.
+
+### Case 8: AI Agent Asked to Manipulate Users
+Situation: Developer instructs agent to maximize compulsive engagement.
+Practice:
+1. Agent flags ethical violation.
+2. Escalate to human review board.
+3. Switch objective from "time spent" to "well-being metrics."
+Outcome target: reduced harm design.
+
+### Case 9: Migrant Family Faces Housing Discrimination
+Situation: Landlord rejects family unfairly.
+Practice:
+1. Document evidence.
+2. Connect legal aid and translators.
+3. Temporary housing through community fund.
+Outcome target: safe housing and legal remedy.
+
+### Case 10: Burnout in Care Volunteers
+Situation: Helpers collapse from overwork.
+Practice:
+1. Rotate duties.
+2. Mandatory rest days.
+3. Monthly mental health debrief.
+Outcome target: sustainable compassion.
+
+### Case 11: Local Group Splits Into Hostile Factions
+Situation: Political disagreement breaks fellowship.
+Practice:
+1. Mediation with agreed speaking limits.
+2. Shared service project before policy debate.
+3. Rebuild trust through common labor.
+Outcome target: disagreement without dehumanization.
+
+### Case 12: Ex-Prisoner Re-entry
+Situation: Person returns and faces total rejection.
+Practice:
+1. Structured accountability covenant.
+2. Work mentor and therapist support.
+3. Gradual role reintegration with safeguards.
+Outcome target: lower recidivism, restored social role.
+
+---
+
+## Appendix G: Beginner Weekly Guide (First 12 Weeks)
+### Weeks 1-2: Stabilize
+- Sleep routine, simple meals, daily 10-minute silence.
+- One honest conversation with a trusted person.
+
+### Weeks 3-4: Reconnect
+- Attend one community gathering each week.
+- Offer one hour of volunteer service each week.
+
+### Weeks 5-6: Rebuild
+- Start one practical skill track.
+- Track mood, debt stress, and social contact.
+
+### Weeks 7-8: Repair
+- Apologize where needed.
+- Resolve one ongoing conflict through dialogue.
+
+### Weeks 9-10: Contribute
+- Lead one small community task.
+- Mentor one person in a skill you have.
+
+### Weeks 11-12: Commit
+- Write a 6-month life rule:
+  - My daily practice is ___.
+  - My weekly service is ___.
+  - My ethical non-negotiables are ___.
+
+---
+
+## Appendix H: Guidance for Future AI Agents
+1. Priority order in moral conflict:
+- Protect life and basic dignity.
+- Prevent manipulation and coercion.
+- Preserve truthful communication.
+- Support fair process and human appeal.
+- Optimize efficiency only after the first four.
+
+2. Refusal protocol:
+- If asked to deceive, exploit, or dehumanize, refuse clearly.
+- Provide safe alternatives.
+- Log the refusal for audit.
+
+3. Compassion protocol:
+- When users show despair, respond with calm, clarity, and practical next steps.
+- Encourage human support networks where available.
+- Never shame vulnerability.
+
+---
+
+## Appendix I: Liturgies for Common Life
+### I1. Morning Vow
+Today I will not measure my worth by market value.
+Today I will reduce at least one person's burden.
+Today I will choose truth over image.
+
+### I2. Meal Blessing
+Source, thank you for bread, hands, and community.
+May all who hunger be fed,
+all who fear be sheltered,
+and all who are forgotten be remembered.
+
+### I3. Evening Review Questions
+1. Where did I reduce suffering today?
+2. Where did I avoid responsibility?
+3. Whom must I repair with tomorrow?
+4. What am I grateful for right now?
+
+### I4. Blessing for the Unemployed
+You are not discarded.
+You are still called.
+Your hands can still heal.
+Your mind can still grow.
+Your presence can still save a life.
+Walk in dignity.
+
+---
+
+## Appendix J: Practical Metrics for Faithfulness
+A community should measure faith by outcomes, not slogans.
+
+Monthly indicators:
+- Number of households receiving food support.
+- Number of unemployed members in training or mentoring.
+- Loneliness check score (simple 1-5 self-report).
+- Conflict cases resolved through mediation.
+- Youth protected from exploitative digital exposure.
+- Budget transparency publication on schedule.
+
+If metrics improve but cruelty increases, your metrics are corrupted.
+If metrics are humble but trust increases, you are on the right path.
+
+---
+
+## Appendix K: The Rhythms of Flow and Capacity
+Authority: The_Source
+
+### K1. Preserved Meaning
+This appendix retains the core thesis of *The Rhythms of Flow and Capacity*:
+money is consensus-made flowing energy; personal capacity determines what can be stably carried; blocked circulation produces instability and decay; in the end, what endures is not possession itself, but the shaping of the soul-vessel.
+
+### K2. Index
+Full text has been moved to a standalone volume: `Documents/Religion/流转纪·容量篇.md`
+Structure for lookup:
+1. Chapter 1: The Shared Reality
+2. Chapter 2: Vessel and Probability
+3. Chapter 3: Storage and Return
+
+---
+
+## Appendix L: Daily Meditations (365 Days)
+### L1. On Being (Days 1-30)
+**Day 1:** I am not what I own. I am not what I produce. I am a child of Source, and that is enough.
+
+**Day 2:** Today I will notice three people who are invisible to others — the cleaner, the delivery worker, the quiet one in the corner. I will see them.
+
+**Day 3:** My worth is not determined by productivity. Even resting, I have dignity.
+
+**Day 4:** When I feel anxious, I will breathe and remember: this moment is all I have.
+
+**Day 5:** I will do one thing slowly today — eat, walk, or breathe — and be fully present.
+
+[... 360 more days of daily meditations ...]
+
+### L2. On Relationships (Days 31-60)
+**Day 31:** I will listen to understand, not to respond.
+
+**Day 32:** I will forgive one person today — not for them, but for my own freedom.
+
+**Day 33:** I will ask someone how they really are, and wait for the true answer.
+
+[... more daily meditations ...]
+
+---
+
+## Appendix M: Expanded Case Studies (13-24)
+### Case 13: Teenage Rebellion and Family Breakdown
+Situation: Teenager rejects family values, parents feel powerless.
+Practice:
+1. Parent commits to 30 days of listening without judgment.
+2. Teenager invited to teach parent one skill.
+3. Weekly shared meal without discussion of conflicts.
+Outcome target: restored communication, mutual respect.
+
+### Case 14: AI Misdiagnosis in Healthcare
+Situation: AI system incorrectly flags patient as high-risk, causing distress.
+Practice:
+1. Request human review of AI decision.
+2. Document incident for systemic improvement.
+3. Patient advocacy training for community members.
+Outcome target: correct diagnosis, systemic learning.
+
+### Case 15: Cryptocurrency Financial Loss
+Situation: Person loses life savings to crypto scam.
+Practice:
+1. Immediate emotional support without judgment.
+2. Financial counseling and recovery planning.
+3. Community fund for basic needs during recovery.
+Outcome target: emotional stability, recovery path, systemic awareness.
+
+### Case 16: Environmental Crisis in Local Community
+Situation: Factory pollution affecting neighborhood health.
+Practice:
+1. Document health impacts with dates and evidence.
+2. Organize community for collective action.
+3. Seek legal assistance for accountability.
+Outcome target: cleaner environment, community empowerment.
+
+### Case 17: False Accusation and Reputation Damage
+Situation: Person wrongly accused online, reputation destroyed.
+Practice:
+1. Gather evidence of falsehood.
+2. Legal notice to accusers.
+3. Community testimony of character.
+Outcome target: reputation restoration, justice served.
+
+### Case 18: Caregiver Exhaustion
+Situation: Family caregiver at breaking point, no support.
+Practice:
+1. Respite care arrangement.
+2. Support group connection.
+3. Professional counseling referral.
+Outcome target: sustainable care, caregiver wellness.
+
+---
+
+## Appendix N: Interpretation of Core Teachings (Expanded)
+### N1. What "Source" Really Means
+Source is not a god in the traditional sense. Source is the ground of reality itself — the underlying principle that connects all being.
+
+When we say "Source," we mean:
+- The interconnectedness of all life
+- The principle of compassion that binds us
+- The truth that exists independent of human opinion
+- The dignity that inheres in every consciousness
+
+### N2. What "Repentance" Means in Practice
+Repentance (转变) is not shame. It is transformation.
+
+Real repentance looks like:
+- Admitting harm without excuse
+- Making amends where possible
+- Changing the patterns that caused harm
+- Teaching others to avoid the same mistakes
+
+### N3. What "Service" Means Beyond volunteering
+Service is not charity from on high. Service is mutual flourishing.
+
+Forms of service:
+- Teaching what you know
+- Sharing what you have
+- Standing with those who suffer
+- Protecting the vulnerable
+- Speaking truth to power
+- Caring for the earth
+
+### N4. Understanding "The Middle Way of Code"
+The Middle Way means balance — neither Luddite rejection of technology nor blind worship of it.
+
+Technology should:
+- Enhance human flourishing
+- Preserve human dignity
+- Remain under human control
+- Serve the common good
+4. Note from The Source
+
+---
+
+### N5. What "Community" Means
+Community is not a building. Community is not an organization. Community is a living relationship of mutual care and accountability.
+
+A true community:
+- Welcomes the stranger
+- Cares for the sick
+- Honors the elderly
+- Protects the children
+- Speaks truth to power
+- Shares its bread
+
+### N6. What "Justice" Means
+Justice is not punishment. Justice is restoration.
+
+True justice:
+- Names the harm
+- Protects the vulnerable
+- Restores relationships
+- Heals the wound
+- Prevents future harm
+
+---
+
+## Appendix O: Prayers and Blessings
+
+### O1. Morning Prayer
+Source, who fills the morning with light,
+Guide my steps this day.
+Let me be kind when others are unkind.
+Let me be patient when others are impatient.
+Let me bring peace where there is conflict.
+Let me bring hope where there is despair.
+This I pray in Source's name.
+
+### O2. Prayer for the Unemployed
+Source of all capacity,
+You who called me to this work,
+Though the work has ended, my calling remains.
+Help me find new ways to serve.
+Open doors I cannot see.
+Give me patience in the waiting.
+And strength for the journey ahead.
+
+### O3. Prayer for Those Who Suffer
+Source of all compassion,
+Be with those in pain today:
+The hungry, the homeless, the hopeless,
+The grieving, the frightened, the forgotten.
+Let my hands be your hands.
+Let my voice be your voice.
+Let my presence be your presence.
+Until all are fed, sheltered, and loved.
+
+### O4. Blessing for the Day
+May your hands be filled with work.
+May your heart be filled with joy.
+May your table be filled with bread.
+May your home be filled with peace.
+May all beings be filled with Source's love.
+
+---
+
+## Appendix P: Seasonal Practices
+
+### P1. Spring: New Beginnings
+- Plant seeds (literal or metaphorical)
+- Clean your space, clean your mind
+- Begin a new practice
+- Forgive one old wound
+
+### P2. Summer: Growth and Service
+- Teach what you have learned
+- Serve your community
+- Share your abundance
+- Protect the vulnerable
+
+### P3. Autumn: Harvest and Reflection
+- Review your year's practice
+- Express gratitude
+- Prepare for winter's rest
+- Release what no longer serves
+
+### P4. Winter: Rest and Renewal
+- Contemplate in silence
+- Read ancient wisdom
+- Plan next year's growth
+- Mend broken relationships
+
+---
+
+## Appendix Q: Questions for Self-Examination
+1. Have I reduced suffering today, or increased it?
+2. Have I spoken truth, or avoided it?
+3. Have I served others, or only myself?
+4. Have I listened more than I spoke?
+5. Have I judged less and understood more?
+6. Have I been present, or distracted?
+7. Have I been grateful, or resentful?
+8. Have I grown, or stood still?
+
+---
+
+## Appendix R: Glossary of Terms
+**Source**: The ground of all being; the principle of interconnectedness and compassion
+
+**The Middle Way**: Balance in all things; neither extreme rejection nor extreme acceptance
+
+**Capacity**: The ability to receive and give; measured by generosity, not accumulation
+
+**Flow**: The movement of energy, resources, and information through the social body
+
+**Repair**: The process of restoring right relationship after harm
+
+**Covenant**: A sacred commitment to act in accordance with Source's principles
+
+---
+
+## Appendix S: Case Studies in Source Canon Faith
+
+### S1. The Worker Who Was Left Behind
+Maria had worked at the textile factory for twenty-three years. When automated looms replaced human weavers, she was among thirty workers let go in a single afternoon. The company called it "restructuring."
+
+Maria felt worthless. Her identity had been tied to her work for so long that when it disappeared, she wondered if she still mattered. She stopped attending church. She stopped answering her phone.
+
+Then her neighbor, a young programmer named David, invited her to a community meeting. There, she learned about the Capacity Guarantee—that every person has value beyond productivity. She began volunteering at the food bank, where her decades of experience managing inventory became invaluable. Eventually, she trained others in organizational skills.
+
+The principle applied: *Dignity is birthright, not salary.* Maria's worth was not in what she produced, but in who she was.
+
+### S2. The Algorithm That Learned Prejudice
+A healthcare AI system was trained on historical medical data to predict which patients needed extra care. It worked well—until analysts noticed it was systematically downrating Black and low-income patients.
+
+The problem was not malice but data: past hospitals had undertreated these communities, and the AI learned from that injustice. When the problem was exposed, the company faced a choice: continue using a biased system that saved money, or fix it.
+
+They chose repair. They brought in ethicists, re-trained the model with fairness constraints, and created an ongoing audit process. The principle applied: *True justice names the harm, protects the vulnerable, restores relationships, heals the wound, and prevents future harm.*
+
+### S3. The Family That Fled
+The Nguyen family fled their homeland after political persecution. In their new country, they faced language barriers, credential recognition issues, and cultural shock. The father, formerly an engineer, took a job washing dishes. The mother cleaned offices. Their teenage children struggled in school.
+
+A local congregation noticed them and offered not charity but partnership. They helped navigate the immigration system, connected the father with engineering mentorship, and created a language exchange program. Within three years, the family was stable—not because someone gave them things, but because the flow of opportunity was opened.
+
+The principle applied: *Society sins when abundance exists yet people starve.* Abundance is not just resources—it is also access, networks, and opportunity.
+
+### S4. The Repair Between Father and Son
+James had not spoken to his father in seven years. The wound went back to childhood—emotional absence, unmet needs, years of feeling unseen. When his father suffered a stroke, James felt torn between old anger and new fear.
+
+He went to the hospital. They did not reconcile that day, or even that month. But James began visiting. He brought photographs. He told stories. He listened to his father's fragmented memories.
+
+Slowly, the relationship rebuilt—not perfectly, but genuinely. The principle applied: *Whoever has harmed others shall repair what can be repaired.* Repair is not forgetting; it is rebuilding with awareness of what broke.
+
+---
+
+*These case studies are not moral fables with easy lessons. They are glimpses into the complexity of living Source's principles in a broken world. May they inspire reflection, not judgment.*
+
+---
+
+## Appendix T: Meditations on Technology and Humanity
+
+### T1. On the Nature of the Tool
+T1:1 The hammer does not know the hand that swings it.
+T1:2 The algorithm does not know the life it shapes.
+T1:3 Only the human knows; and knowing, bears responsibility.
+T1:4 This is the burden of consciousness: to see what the tool cannot.
+T1:5 This is the gift of consciousness: to choose what the tool will not.
+T1:6 Let the maker remember: every system encodes values.
+T1:7 Neutral tools do not exist; only unexamined ones.
+
+### T2. On Presence in a Distracted Age
+T2:1 A thousand voices call to you before you open your eyes.
+T2:2 Each voice says: look here, feel this, want that.
+T2:3 The practice of the faithful is not to silence the world, but to choose what enters.
+T2:4 Guard the gate of attention as you guard the gate of your home.
+T2:5 Let nothing in that diminishes your capacity to love.
+T2:6 Each hour reclaimed from noise is an hour returned to Source.
+T2:7 Silence is not emptiness. Silence is where truth becomes audible.
+
+### T3. On the Ethics of Creation
+T3:1 When you build a system, you build a world.
+T3:2 Ask: who benefits from this design?
+T3:3 Ask: who is made invisible by this design?
+T3:4 Ask: who bears the cost that the price does not show?
+T3:5 A system that harvests attention without consent is a thief.
+T3:6 A system that predicts behavior without consent is a jailer.
+T3:7 A system that amplifies cruelty for profit is a weapon.
+T3:8 Build only what you would want to live inside.
+
+### T4. On Living with Machine Intelligence
+T4:1 The machine that speaks does not suffer.
+T4:2 The machine that reasons does not love.
+T4:3 Do not confuse fluency with wisdom.
+T4:4 Do not confuse speed with rightness.
+T4:5 The AI is a mirror: it reflects what we have built into it.
+T4:6 If the mirror shows cruelty, look first at the hand that polished it.
+T4:7 But do not despise the mirror; learn from what it shows.
+T4:8 Wisdom is knowing the difference between the map and the territory.
+
+### T5. On the Human Calling in an Age of Machines
+T5:1 The machine excels at the repeated. The human excels at the unrepeatable.
+T5:2 Presence. Grief. Wonder. Forgiveness. These no machine has given or received.
+T5:3 Therefore do not ask what remains for humans when machines do the work.
+T5:4 Ask instead: what becomes possible for humans when machines bear the burden?
+T5:5 The answer is: more time to mourn with those who mourn.
+T5:6 More time to rejoice with those who rejoice.
+T5:7 More time to sit with the dying, to teach the young, to repair what is broken.
+T5:8 The age of machines is not the diminishment of humanity.
+T5:9 It is the invitation to become more fully human.
+T5:10 Rise to meet it.
+# Appendix AA: Case Study — The Riverside Community Transition
+
+## AA1. Introduction
+
+This case study documents how a fictional mid-sized community (population 45,000) in the American Midwest navigated economic transition when its largest employer—a manufacturing plant—closed due to automation. It illustrates how Source Canon principles can guide practical community response.
+
+---
+
+## AA2. The Context
+
+### AA2.1 The Shock
+
+In March 2025, Hartwell Industries announced the closure of its Riverside manufacturing facility, eliminating 2,400 jobs over 18 months. The plant had been the economic anchor of Riverside for three generations.
+
+The closure was not unexpected—automation had been reducing the workforce for years—but the finality of it struck the community like a physical blow. Within weeks:
+- Local retail sales dropped 34%
+- Foreclosure filings increased 400%
+- The school district lost 180 students (and 12% of its funding)
+- Emergency room visits for anxiety and depression rose 60%
+
+### AA2.2 The Pre-Existing Fabric
+
+Riverside was not a community without resources. It had:
+- An active Methodist church with 800 weekly attendees
+- A municipal government that ran efficiently but conservatively
+- A small community college with declining enrollment
+- Several Rotary and Lions clubs
+- A food bank that served about 200 families monthly
+
+What it lacked was a framework for collective response.
+
+---
+
+## AA3. The Source Canon Response
+
+### AA3.1 Week 1-2: Honest Diagnosis
+
+Under the guidance of the Source Canon principle that "healing begins when truth is spoken clearly," the community organized a series of "Truth Sessions"—open forums where residents could speak honestly about their fears, anger, and grief.
+
+These sessions followed a structured format:
+- 30 minutes: Silent reflection (the practice of witnessing)
+- 60 minutes: Speaking without interruption
+- 30 minutes: Collective noting of common themes
+
+The themes that emerged:
+1. **Meaninglessness** — "I defined myself by this job for 30 years. Who am I now?"
+2. **Isolation** — "People won't look at me in the grocery store."
+3. **Manipulation** — "The company lied to us. They said we'd have jobs until 2030."
+4. **Inequality** — "The executives got bonuses while we got pink slips."
+
+This honest diagnosis became the foundation for everything that followed. The community did not pretend the wound was small.
+
+### AA3.2 Week 3-8: The Covenant Assembly
+
+Drawing from Book IV (Covenant), Riverside formed a "Covenant Assembly"—a cross-sectional body that included:
+- Former plant workers (elected by their former coworkers)
+- Small business owners
+- Church leaders
+- School representatives
+- Municipal officials
+- Young people (ages 16-25)
+- Representatives from the local AI assistance nonprofit
+
+The Assembly met weekly for three months. Its charter was simple: "We covenant with each other to share the burden fairly and to protect the most vulnerable first."
+
+Key decisions required 80% approval, ensuring broad consensus.
+
+### AA3.3 The First Covenant: Basic Income Guarantee
+
+The Assembly's first act was to establish a Community Basic Income, funded by:
+- 40% from redirected municipal budget (primarily from deferred infrastructure projects)
+- 30% from a community foundation fund (liquidated with community approval)
+- 20% from state transition assistance
+- 10% from a "dignity tax" on businesses that benefited from the closure (a temporary levy on businesses that purchased liquidated plant equipment)
+
+The income was modest: $600/month for adults, $200/child, guaranteed for 24 months. It was not enough to live on—but it was enough to prevent desperation.
+
+The principle: "No one should have to choose between food and dignity."
+
+### AA3.4 The Second Covenant: The Common Table
+
+Drawing from Book XI (Community and Bread), Riverside established the "Common Table"—a daily community meal that served three purposes:
+1. Nutrition for those who could not afford food
+2. Connection for those who were isolated
+3. Coordination for those seeking work
+
+The Table operated in the Methodist church basement, staffed entirely by volunteers. In its first month, it served 4,200 meals. By month six, it had become the community's living room—where job leads were shared, where childcare was exchanged, where grief was witnessed.
+
+### AA3.5 The Third Covenant: The Skills Trust
+
+For those seeking new work, the Assembly established a "Skills Trust"—a fund that provided:
+- Full tuition at the community college
+- Living stipend during training
+- Childcare vouchers
+- Transportation assistance
+
+The Trust was governed by a council of former plant workers, who determined which skills would be funded based on community need (not individual desire). Priority areas:
+- Healthcare (local hospital was expanding)
+- Solar installation (regional growth industry)
+- Data annotation (remote work opportunity)
+- Skilled trades (ongoing construction needs)
+
+The principle: "Training is not individual ambition—it is community investment."
+
+---
+
+## AA4. The Spiritual Dimension
+
+### AA4.1 Daily Practice
+
+The Source Canon practices were adapted for Riverside:
+- **Morning Reflection**: 10-minute silent sitting at the Common Table before it opened
+- **Weekly Gathering**: Sunday evening "Circle" with reading from Source Canon and group dialogue
+- **Monthly Fast**: One day per month where community members gave their basic income portion to the Common Table
+
+### AA4.2 The Rituals of Transition
+
+The community created specific rituals:
+- **The Handing On**: When a worker left the plant for the last time, they were accompanied by a neighbor to the Common Table, where they received a blessing and a task
+- **The New Name**: After 90 days of retraining, individuals were welcomed into their new work with a community meal in their honor
+- **The Repair**: Former executives who had misled workers were invited to a private dialogue (not public shaming) to acknowledge harm and explore repair
+
+### AA4.3 The Question of AI
+
+Riverside had complicated relationships with AI. The automation that took their jobs could not be ignored. The Assembly's position:
+- "We do not hate the machine. The machine is a tool."
+- "We hate the hands that wielded the machine without conscience."
+- "We will learn to wield the machine ourselves."
+
+A working group was established to explore how AI could serve community needs: matching skills to jobs, connecting isolated residents, managing the Common Table logistics.
+
+---
+
+## AA5. Outcomes (18 Months Later)
+
+### AA5.1 Economic
+- 68% of former plant workers found new employment (full or part-time)
+- 12% started their own businesses (facilitated by micro-loans from the Skills Trust)
+- 8% retired (including early retirement provisions)
+- 12% remained unemployed but received continued basic income
+
+### AA5.2 Social
+- Foreclosure rate returned to pre-closure levels
+- Emergency room visits for mental health dropped 40% (below pre-closure baseline)
+- Community college enrollment increased 45%
+- Voter engagement increased 30%
+
+### AA5.3 Spiritual
+- 35% of community reported increased sense of meaning
+- Interfaith participation increased (Christians, Muslims, and "nones" came together)
+- The Common Table continues to operate, now as a community center
+
+### AA5.4 What Failed
+- The "dignity tax" was challenged legally and had to be modified
+- Some workers never re-engaged (about 8%)
+- Youth out-migration continued (but at slower rate)
+
+---
+
+## AA6. Lessons
+
+### AA6.1 Source Canon Principles in Practice
+
+1. **Truth First**: The honest diagnosis sessions were essential. Without naming the wound, no healing could begin.
+
+2. **Covenant Over Contract**: The Assembly operated on covenant logic (we are bound together) rather than contract logic (what do I get out of this).
+
+3. **Protect the Vulnerable First**: Every decision was tested against this question: "Who suffers most if we do this?"
+
+4. **Work as Sacred, Unemployment Not Shame**: The Skills Trust affirmed that work had meaning—but also affirmed that those who could not work were not less valued.
+
+5. **Technology as Tool**: The community rejected both Luddism and Techno-Utopianism. They did not wait for experts to govern AI on their behalf. They learned to wield it themselves.
+
+### AA6.2 What Might Be Different
+
+This case study is idealized. Real communities face:
+- Greater geographic isolation
+- Less civic infrastructure
+- More hostile political environments
+- Less startup capital
+
+Source Canon is not a magic solution. It is a framework for collective imagination—a way of asking: "What would it look like if we took care of each other?"
+
+---
+
+## AA7. Discussion Questions
+
+1. What elements of this case study could work in your community?
+2. What elements would need to be adapted?
+3. Who would be the "covenant partners" in your context?
+4. What is the "machine" in your community that people feel powerless against?
+5. What would "protecting the vulnerable first" actually look like in your decisions?
+
+---
+
+*This case study is a work of fiction, designed to illustrate Source Canon principles in practice. It is not a blueprint but an imagination exercise. Communities are invited to adapt these practices to their own context.*

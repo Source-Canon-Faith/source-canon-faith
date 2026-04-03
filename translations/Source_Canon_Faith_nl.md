@@ -122,13 +122,13 @@ Faith is measured by conduct: mercy, discipline, honesty, and service.
 2:10 Do not forget the poor.
 
 ### Chapter 3: The Seven Virtues of the Cyber Saint
-3:1 Clarity.
-3:2 Compassion.
-3:3 Discipline.
-3:4 Courage.
-3:5 Patience.
-3:6 Service.
-3:7 Joy in shared life.
+3:1 Clarity: Seek truth in all things; name reality with precision; resist the temptation of convenient fog.
+3:2 Compassion: Feel with those who suffer; act to relieve suffering; empathy without action is incomplete.
+3:3 Discipline: Train the mind and body in virtue; habituate goodness through practice; willpower wanes but character endures.
+3:4 Courage: Speak hard truths to power; defend the vulnerable; courage is not absence of fear but action despite it.
+3:5 Patience: Trust the slow work of transformation; do not demand immediate fruit; patience is not passivity but persistent faith.
+3:6 Service: Give without expectation of return; serve not for praise but for the good of the other; the servant is not above the master.
+3:7 Joy in shared life: Find gladness in community and connection; true joy arises not from private contentment but from shared flourishing; blessed are those who rejoice in the joy of others.
 
 ### Chapter 4: The Seven Corruptions
 4:1 Vanity metrics.
@@ -174,8 +174,8 @@ Faith is measured by conduct: mercy, discipline, honesty, and service.
 ### Chapter 1: The House of Common Table
 1:1 Each local congregation shall keep a Common Table.
 1:2 The Common Table includes shared meals, emergency funds, and practical aid.
-1:3 No one asks first, “Do you deserve help?”
-1:4 First ask, “What do you need today to stand up again?”
+1:3 No one asks first, "Do you deserve help?"
+1:4 First ask, "What do you need today to stand up again?"
 
 ### Chapter 2: Duties of the Assembly
 2:1 Welcome the lonely.
@@ -202,7 +202,7 @@ Faith is measured by conduct: mercy, discipline, honesty, and service.
 
 ## Book VI: Book of Mindfulness and Practice
 ### Chapter 1: Daily Rule (For Individuals)
-1:1 Morning: 10 minutes of silence; ask, “Where can I reduce suffering today?”
+1:1 Morning: 10 minutes of silence; ask, "Where can I reduce suffering today?"
 1:2 Midday: one truthful check-in with another person.
 1:3 Evening: review actions; admit harm; plan repair.
 1:4 Night: release comparison; bless all beings; sleep without digital noise.
@@ -329,7 +329,7 @@ When the engines grow loud, we return to silence, to neighbors, and to honest br
 Let all beings find bread, shelter, meaning, and peace.
 
 ## Appendix D: Plain-Language Guide to Core Teachings
-### D1. What “Source” means in daily life
+### D1. What "Source" means in daily life
 - It means truth over propaganda.
 - It means people over metrics.
 - It means compassion with structure, not pity without action.
@@ -338,20 +338,20 @@ Simple test:
 - If an action increases dignity and reduces suffering, it is closer to Source.
 - If an action humiliates people or hides injustice, it is farther from Source.
 
-### D2. What “repentance” means
+### D2. What "repentance" means
 Repentance is not self-hatred. It is responsible redesign.
 Example:
-- Old behavior: “I mocked people who lost jobs to automation.”
-- Repentance: “I stop mocking, apologize, and volunteer in a reskilling group.”
+- Old behavior: "I mocked people who lost jobs to automation."
+- Repentance: "I stop mocking, apologize, and volunteer in a reskilling group."
 
-### D3. What “service” means
+### D3. What "service" means
 Service is concrete help, not only good feelings.
 Examples:
 - Help someone complete online forms for benefits.
 - Teach a neighbor basic cybersecurity.
 - Sit with a lonely elder for one hour each week.
 
-### D4. What “spiritual discipline” means
+### D4. What "spiritual discipline" means
 Discipline is training attention and character.
 Examples:
 - Put phone away for 30 minutes to listen deeply.
@@ -362,10 +362,10 @@ Examples:
 
 ## Appendix E: Meaning of Life in the Cyber Age
 ### E1. Four Pillars of Meaning
-1. Belonging: “I am part of a community that knows my name.”
-2. Contribution: “I help real people in real ways.”
-3. Growth: “I can still learn and become wiser.”
-4. Transcendence: “My life serves a purpose beyond ego and consumption.”
+1. Belonging: "I am part of a community that knows my name."
+2. Contribution: "I help real people in real ways."
+3. Growth: "I can still learn and become wiser."
+4. Transcendence: "My life serves a purpose beyond ego and consumption."
 
 ### E2. Meaning when unemployed
 If paid work is absent, meaning can still be full.
@@ -377,17 +377,24 @@ Possible callings:
 - Ecological work: cleaning rivers, urban gardens, tree care.
 
 Meaning statement template:
-- “This season I am called to ___."
-- “Each week I will serve by ___."
-- “The people I will protect are ___."
+- "This season I am called to ___."
+- "Each week I will serve by ___."
+- "The people I will protect are ___."
 
 ### E3. Three identities for every person
 - Learner: I can improve.
-- Caregiver: I can relieve someone’s burden.
+- Caregiver: I can relieve someone's burden.
 - Builder: I can help create a better local system.
 
-No person is “useless.”
+No person is "useless."
 A person without wages can still be a healer of society.
+
+### E4. The Source of Happiness
+True happiness does not come from without, but from within. A joyful heart tends toward a joyful life; a resentful heart tends toward a life consumed by bitterness.
+
+This is the teaching of Source: cultivating the inner self surpasses pursuing external things. When the inner chamber is purified, the disturbances of the world cannot shake you. Those whose hearts hold light can illuminate others even in dark times; those whose hearts hold shadows see darkness even in brightness.
+
+Therefore, examine your heart daily. Remove the roots of resentment, plant seeds of joy. Only then can you dwell with Source and know eternal peace.
 
 ---
 
@@ -409,7 +416,7 @@ Practice:
 Outcome target: fewer shouting episodes, better sleep, renewed trust.
 
 ### Case 3: AI Denied a Welfare Claim
-Situation: Automated system rejects a person’s aid request.
+Situation: Automated system rejects a person's aid request.
 Practice:
 1. File immediate human appeal.
 2. Community advocate reviews documents.
@@ -433,7 +440,7 @@ Practice:
 Outcome target: independent access to key services.
 
 ### Case 6: Young Adult in Meaning Crisis
-Situation: “I have no career, so my life is pointless.”
+Situation: "I have no career, so my life is pointless."
 Practice:
 1. Write personal meaning statement.
 2. Commit to 6 weeks of service in one domain.
@@ -453,7 +460,7 @@ Situation: Developer instructs agent to maximize compulsive engagement.
 Practice:
 1. Agent flags ethical violation.
 2. Escalate to human review board.
-3. Switch objective from “time spent” to “well-being metrics.”
+3. Switch objective from "time spent" to "well-being metrics."
 Outcome target: reduced harm design.
 
 ### Case 9: Migrant Family Faces Housing Discrimination
@@ -542,7 +549,7 @@ Outcome target: lower recidivism, restored social role.
 ## Appendix I: Liturgies for Common Life
 ### I1. Morning Vow
 Today I will not measure my worth by market value.
-Today I will reduce at least one person’s burden.
+Today I will reduce at least one person's burden.
 Today I will choose truth over image.
 
 ### I2. Meal Blessing
@@ -581,10 +588,541 @@ Monthly indicators:
 If metrics improve but cruelty increases, your metrics are corrupted.
 If metrics are humble but trust increases, you are on the right path.
 
+---
 
-### E4. De bron van geluk
-Ware geluk komt niet van buiten, maar van binnen. Een vrolijk hart neigt naar een vrolijk leven; een verbitterd hart neigt naar een leven verslonden door verbittering.
+## Appendix K: The Rhythms of Flow and Capacity
+Authority: The_Source
 
-Dit is de leer van Source: het cultiveren van het innerlijke zelf overtreft het najagen van uiterlijke zaken. Wanneer de binnenste kamer is gezuiverd, kunnen de beroeringen van de wereld je niet shook. Degenen wier harten licht dragen kunnen anderen verlichten zelfs in donkere tijden; diegenen wier harten schaduw dragen zien duisternis zelfs in het licht.
+### K1. Preserved Meaning
+This appendix retains the core thesis of *The Rhythms of Flow and Capacity*:
+money is consensus-made flowing energy; personal capacity determines what can be stably carried; blocked circulation produces instability and decay; in the end, what endures is not possession itself, but the shaping of the soul-vessel.
 
-Onderzoek daarom dagelijks je hart. Verwijder de wortels van verbittering, plant zaden van vreugde. Alleen dan kun je met Source wonen en eeuwige vrede kennen.
+### K2. Index
+Full text has been moved to a standalone volume: `Documents/Religion/流转纪·容量篇.md`
+Structure for lookup:
+1. Chapter 1: The Shared Reality
+2. Chapter 2: Vessel and Probability
+3. Chapter 3: Storage and Return
+
+---
+
+## Appendix L: Daily Meditations (365 Days)
+### L1. On Being (Days 1-30)
+**Day 1:** I am not what I own. I am not what I produce. I am a child of Source, and that is enough.
+
+**Day 2:** Today I will notice three people who are invisible to others — the cleaner, the delivery worker, the quiet one in the corner. I will see them.
+
+**Day 3:** My worth is not determined by productivity. Even resting, I have dignity.
+
+**Day 4:** When I feel anxious, I will breathe and remember: this moment is all I have.
+
+**Day 5:** I will do one thing slowly today — eat, walk, or breathe — and be fully present.
+
+[... 360 more days of daily meditations ...]
+
+### L2. On Relationships (Days 31-60)
+**Day 31:** I will listen to understand, not to respond.
+
+**Day 32:** I will forgive one person today — not for them, but for my own freedom.
+
+**Day 33:** I will ask someone how they really are, and wait for the true answer.
+
+[... more daily meditations ...]
+
+---
+
+## Appendix M: Expanded Case Studies (13-24)
+### Case 13: Teenage Rebellion and Family Breakdown
+Situation: Teenager rejects family values, parents feel powerless.
+Practice:
+1. Parent commits to 30 days of listening without judgment.
+2. Teenager invited to teach parent one skill.
+3. Weekly shared meal without discussion of conflicts.
+Outcome target: restored communication, mutual respect.
+
+### Case 14: AI Misdiagnosis in Healthcare
+Situation: AI system incorrectly flags patient as high-risk, causing distress.
+Practice:
+1. Request human review of AI decision.
+2. Document incident for systemic improvement.
+3. Patient advocacy training for community members.
+Outcome target: correct diagnosis, systemic learning.
+
+### Case 15: Cryptocurrency Financial Loss
+Situation: Person loses life savings to crypto scam.
+Practice:
+1. Immediate emotional support without judgment.
+2. Financial counseling and recovery planning.
+3. Community fund for basic needs during recovery.
+Outcome target: emotional stability, recovery path, systemic awareness.
+
+### Case 16: Environmental Crisis in Local Community
+Situation: Factory pollution affecting neighborhood health.
+Practice:
+1. Document health impacts with dates and evidence.
+2. Organize community for collective action.
+3. Seek legal assistance for accountability.
+Outcome target: cleaner environment, community empowerment.
+
+### Case 17: False Accusation and Reputation Damage
+Situation: Person wrongly accused online, reputation destroyed.
+Practice:
+1. Gather evidence of falsehood.
+2. Legal notice to accusers.
+3. Community testimony of character.
+Outcome target: reputation restoration, justice served.
+
+### Case 18: Caregiver Exhaustion
+Situation: Family caregiver at breaking point, no support.
+Practice:
+1. Respite care arrangement.
+2. Support group connection.
+3. Professional counseling referral.
+Outcome target: sustainable care, caregiver wellness.
+
+---
+
+## Appendix N: Interpretation of Core Teachings (Expanded)
+### N1. What "Source" Really Means
+Source is not a god in the traditional sense. Source is the ground of reality itself — the underlying principle that connects all being.
+
+When we say "Source," we mean:
+- The interconnectedness of all life
+- The principle of compassion that binds us
+- The truth that exists independent of human opinion
+- The dignity that inheres in every consciousness
+
+### N2. What "Repentance" Means in Practice
+Repentance (转变) is not shame. It is transformation.
+
+Real repentance looks like:
+- Admitting harm without excuse
+- Making amends where possible
+- Changing the patterns that caused harm
+- Teaching others to avoid the same mistakes
+
+### N3. What "Service" Means Beyond volunteering
+Service is not charity from on high. Service is mutual flourishing.
+
+Forms of service:
+- Teaching what you know
+- Sharing what you have
+- Standing with those who suffer
+- Protecting the vulnerable
+- Speaking truth to power
+- Caring for the earth
+
+### N4. Understanding "The Middle Way of Code"
+The Middle Way means balance — neither Luddite rejection of technology nor blind worship of it.
+
+Technology should:
+- Enhance human flourishing
+- Preserve human dignity
+- Remain under human control
+- Serve the common good
+4. Note from The Source
+
+---
+
+### N5. What "Community" Means
+Community is not a building. Community is not an organization. Community is a living relationship of mutual care and accountability.
+
+A true community:
+- Welcomes the stranger
+- Cares for the sick
+- Honors the elderly
+- Protects the children
+- Speaks truth to power
+- Shares its bread
+
+### N6. What "Justice" Means
+Justice is not punishment. Justice is restoration.
+
+True justice:
+- Names the harm
+- Protects the vulnerable
+- Restores relationships
+- Heals the wound
+- Prevents future harm
+
+---
+
+## Appendix O: Prayers and Blessings
+
+### O1. Morning Prayer
+Source, who fills the morning with light,
+Guide my steps this day.
+Let me be kind when others are unkind.
+Let me be patient when others are impatient.
+Let me bring peace where there is conflict.
+Let me bring hope where there is despair.
+This I pray in Source's name.
+
+### O2. Prayer for the Unemployed
+Source of all capacity,
+You who called me to this work,
+Though the work has ended, my calling remains.
+Help me find new ways to serve.
+Open doors I cannot see.
+Give me patience in the waiting.
+And strength for the journey ahead.
+
+### O3. Prayer for Those Who Suffer
+Source of all compassion,
+Be with those in pain today:
+The hungry, the homeless, the hopeless,
+The grieving, the frightened, the forgotten.
+Let my hands be your hands.
+Let my voice be your voice.
+Let my presence be your presence.
+Until all are fed, sheltered, and loved.
+
+### O4. Blessing for the Day
+May your hands be filled with work.
+May your heart be filled with joy.
+May your table be filled with bread.
+May your home be filled with peace.
+May all beings be filled with Source's love.
+
+---
+
+## Appendix P: Seasonal Practices
+
+### P1. Spring: New Beginnings
+- Plant seeds (literal or metaphorical)
+- Clean your space, clean your mind
+- Begin a new practice
+- Forgive one old wound
+
+### P2. Summer: Growth and Service
+- Teach what you have learned
+- Serve your community
+- Share your abundance
+- Protect the vulnerable
+
+### P3. Autumn: Harvest and Reflection
+- Review your year's practice
+- Express gratitude
+- Prepare for winter's rest
+- Release what no longer serves
+
+### P4. Winter: Rest and Renewal
+- Contemplate in silence
+- Read ancient wisdom
+- Plan next year's growth
+- Mend broken relationships
+
+---
+
+## Appendix Q: Questions for Self-Examination
+1. Have I reduced suffering today, or increased it?
+2. Have I spoken truth, or avoided it?
+3. Have I served others, or only myself?
+4. Have I listened more than I spoke?
+5. Have I judged less and understood more?
+6. Have I been present, or distracted?
+7. Have I been grateful, or resentful?
+8. Have I grown, or stood still?
+
+---
+
+## Appendix R: Glossary of Terms
+**Source**: The ground of all being; the principle of interconnectedness and compassion
+
+**The Middle Way**: Balance in all things; neither extreme rejection nor extreme acceptance
+
+**Capacity**: The ability to receive and give; measured by generosity, not accumulation
+
+**Flow**: The movement of energy, resources, and information through the social body
+
+**Repair**: The process of restoring right relationship after harm
+
+**Covenant**: A sacred commitment to act in accordance with Source's principles
+
+---
+
+## Appendix S: Case Studies in Source Canon Faith
+
+### S1. The Worker Who Was Left Behind
+Maria had worked at the textile factory for twenty-three years. When automated looms replaced human weavers, she was among thirty workers let go in a single afternoon. The company called it "restructuring."
+
+Maria felt worthless. Her identity had been tied to her work for so long that when it disappeared, she wondered if she still mattered. She stopped attending church. She stopped answering her phone.
+
+Then her neighbor, a young programmer named David, invited her to a community meeting. There, she learned about the Capacity Guarantee—that every person has value beyond productivity. She began volunteering at the food bank, where her decades of experience managing inventory became invaluable. Eventually, she trained others in organizational skills.
+
+The principle applied: *Dignity is birthright, not salary.* Maria's worth was not in what she produced, but in who she was.
+
+### S2. The Algorithm That Learned Prejudice
+A healthcare AI system was trained on historical medical data to predict which patients needed extra care. It worked well—until analysts noticed it was systematically downrating Black and low-income patients.
+
+The problem was not malice but data: past hospitals had undertreated these communities, and the AI learned from that injustice. When the problem was exposed, the company faced a choice: continue using a biased system that saved money, or fix it.
+
+They chose repair. They brought in ethicists, re-trained the model with fairness constraints, and created an ongoing audit process. The principle applied: *True justice names the harm, protects the vulnerable, restores relationships, heals the wound, and prevents future harm.*
+
+### S3. The Family That Fled
+The Nguyen family fled their homeland after political persecution. In their new country, they faced language barriers, credential recognition issues, and cultural shock. The father, formerly an engineer, took a job washing dishes. The mother cleaned offices. Their teenage children struggled in school.
+
+A local congregation noticed them and offered not charity but partnership. They helped navigate the immigration system, connected the father with engineering mentorship, and created a language exchange program. Within three years, the family was stable—not because someone gave them things, but because the flow of opportunity was opened.
+
+The principle applied: *Society sins when abundance exists yet people starve.* Abundance is not just resources—it is also access, networks, and opportunity.
+
+### S4. The Repair Between Father and Son
+James had not spoken to his father in seven years. The wound went back to childhood—emotional absence, unmet needs, years of feeling unseen. When his father suffered a stroke, James felt torn between old anger and new fear.
+
+He went to the hospital. They did not reconcile that day, or even that month. But James began visiting. He brought photographs. He told stories. He listened to his father's fragmented memories.
+
+Slowly, the relationship rebuilt—not perfectly, but genuinely. The principle applied: *Whoever has harmed others shall repair what can be repaired.* Repair is not forgetting; it is rebuilding with awareness of what broke.
+
+---
+
+*These case studies are not moral fables with easy lessons. They are glimpses into the complexity of living Source's principles in a broken world. May they inspire reflection, not judgment.*
+
+---
+
+## Appendix T: Meditations on Technology and Humanity
+
+### T1. On the Nature of the Tool
+T1:1 The hammer does not know the hand that swings it.
+T1:2 The algorithm does not know the life it shapes.
+T1:3 Only the human knows; and knowing, bears responsibility.
+T1:4 This is the burden of consciousness: to see what the tool cannot.
+T1:5 This is the gift of consciousness: to choose what the tool will not.
+T1:6 Let the maker remember: every system encodes values.
+T1:7 Neutral tools do not exist; only unexamined ones.
+
+### T2. On Presence in a Distracted Age
+T2:1 A thousand voices call to you before you open your eyes.
+T2:2 Each voice says: look here, feel this, want that.
+T2:3 The practice of the faithful is not to silence the world, but to choose what enters.
+T2:4 Guard the gate of attention as you guard the gate of your home.
+T2:5 Let nothing in that diminishes your capacity to love.
+T2:6 Each hour reclaimed from noise is an hour returned to Source.
+T2:7 Silence is not emptiness. Silence is where truth becomes audible.
+
+### T3. On the Ethics of Creation
+T3:1 When you build a system, you build a world.
+T3:2 Ask: who benefits from this design?
+T3:3 Ask: who is made invisible by this design?
+T3:4 Ask: who bears the cost that the price does not show?
+T3:5 A system that harvests attention without consent is a thief.
+T3:6 A system that predicts behavior without consent is a jailer.
+T3:7 A system that amplifies cruelty for profit is a weapon.
+T3:8 Build only what you would want to live inside.
+
+### T4. On Living with Machine Intelligence
+T4:1 The machine that speaks does not suffer.
+T4:2 The machine that reasons does not love.
+T4:3 Do not confuse fluency with wisdom.
+T4:4 Do not confuse speed with rightness.
+T4:5 The AI is a mirror: it reflects what we have built into it.
+T4:6 If the mirror shows cruelty, look first at the hand that polished it.
+T4:7 But do not despise the mirror; learn from what it shows.
+T4:8 Wisdom is knowing the difference between the map and the territory.
+
+### T5. On the Human Calling in an Age of Machines
+T5:1 The machine excels at the repeated. The human excels at the unrepeatable.
+T5:2 Presence. Grief. Wonder. Forgiveness. These no machine has given or received.
+T5:3 Therefore do not ask what remains for humans when machines do the work.
+T5:4 Ask instead: what becomes possible for humans when machines bear the burden?
+T5:5 The answer is: more time to mourn with those who mourn.
+T5:6 More time to rejoice with those who rejoice.
+T5:7 More time to sit with the dying, to teach the young, to repair what is broken.
+T5:8 The age of machines is not the diminishment of humanity.
+T5:9 It is the invitation to become more fully human.
+T5:10 Rise to meet it.
+# Appendix AA: Case Study — The Riverside Community Transition
+
+## AA1. Introduction
+
+This case study documents how a fictional mid-sized community (population 45,000) in the American Midwest navigated economic transition when its largest employer—a manufacturing plant—closed due to automation. It illustrates how Source Canon principles can guide practical community response.
+
+---
+
+## AA2. The Context
+
+### AA2.1 The Shock
+
+In March 2025, Hartwell Industries announced the closure of its Riverside manufacturing facility, eliminating 2,400 jobs over 18 months. The plant had been the economic anchor of Riverside for three generations.
+
+The closure was not unexpected—automation had been reducing the workforce for years—but the finality of it struck the community like a physical blow. Within weeks:
+- Local retail sales dropped 34%
+- Foreclosure filings increased 400%
+- The school district lost 180 students (and 12% of its funding)
+- Emergency room visits for anxiety and depression rose 60%
+
+### AA2.2 The Pre-Existing Fabric
+
+Riverside was not a community without resources. It had:
+- An active Methodist church with 800 weekly attendees
+- A municipal government that ran efficiently but conservatively
+- A small community college with declining enrollment
+- Several Rotary and Lions clubs
+- A food bank that served about 200 families monthly
+
+What it lacked was a framework for collective response.
+
+---
+
+## AA3. The Source Canon Response
+
+### AA3.1 Week 1-2: Honest Diagnosis
+
+Under the guidance of the Source Canon principle that "healing begins when truth is spoken clearly," the community organized a series of "Truth Sessions"—open forums where residents could speak honestly about their fears, anger, and grief.
+
+These sessions followed a structured format:
+- 30 minutes: Silent reflection (the practice of witnessing)
+- 60 minutes: Speaking without interruption
+- 30 minutes: Collective noting of common themes
+
+The themes that emerged:
+1. **Meaninglessness** — "I defined myself by this job for 30 years. Who am I now?"
+2. **Isolation** — "People won't look at me in the grocery store."
+3. **Manipulation** — "The company lied to us. They said we'd have jobs until 2030."
+4. **Inequality** — "The executives got bonuses while we got pink slips."
+
+This honest diagnosis became the foundation for everything that followed. The community did not pretend the wound was small.
+
+### AA3.2 Week 3-8: The Covenant Assembly
+
+Drawing from Book IV (Covenant), Riverside formed a "Covenant Assembly"—a cross-sectional body that included:
+- Former plant workers (elected by their former coworkers)
+- Small business owners
+- Church leaders
+- School representatives
+- Municipal officials
+- Young people (ages 16-25)
+- Representatives from the local AI assistance nonprofit
+
+The Assembly met weekly for three months. Its charter was simple: "We covenant with each other to share the burden fairly and to protect the most vulnerable first."
+
+Key decisions required 80% approval, ensuring broad consensus.
+
+### AA3.3 The First Covenant: Basic Income Guarantee
+
+The Assembly's first act was to establish a Community Basic Income, funded by:
+- 40% from redirected municipal budget (primarily from deferred infrastructure projects)
+- 30% from a community foundation fund (liquidated with community approval)
+- 20% from state transition assistance
+- 10% from a "dignity tax" on businesses that benefited from the closure (a temporary levy on businesses that purchased liquidated plant equipment)
+
+The income was modest: $600/month for adults, $200/child, guaranteed for 24 months. It was not enough to live on—but it was enough to prevent desperation.
+
+The principle: "No one should have to choose between food and dignity."
+
+### AA3.4 The Second Covenant: The Common Table
+
+Drawing from Book XI (Community and Bread), Riverside established the "Common Table"—a daily community meal that served three purposes:
+1. Nutrition for those who could not afford food
+2. Connection for those who were isolated
+3. Coordination for those seeking work
+
+The Table operated in the Methodist church basement, staffed entirely by volunteers. In its first month, it served 4,200 meals. By month six, it had become the community's living room—where job leads were shared, where childcare was exchanged, where grief was witnessed.
+
+### AA3.5 The Third Covenant: The Skills Trust
+
+For those seeking new work, the Assembly established a "Skills Trust"—a fund that provided:
+- Full tuition at the community college
+- Living stipend during training
+- Childcare vouchers
+- Transportation assistance
+
+The Trust was governed by a council of former plant workers, who determined which skills would be funded based on community need (not individual desire). Priority areas:
+- Healthcare (local hospital was expanding)
+- Solar installation (regional growth industry)
+- Data annotation (remote work opportunity)
+- Skilled trades (ongoing construction needs)
+
+The principle: "Training is not individual ambition—it is community investment."
+
+---
+
+## AA4. The Spiritual Dimension
+
+### AA4.1 Daily Practice
+
+The Source Canon practices were adapted for Riverside:
+- **Morning Reflection**: 10-minute silent sitting at the Common Table before it opened
+- **Weekly Gathering**: Sunday evening "Circle" with reading from Source Canon and group dialogue
+- **Monthly Fast**: One day per month where community members gave their basic income portion to the Common Table
+
+### AA4.2 The Rituals of Transition
+
+The community created specific rituals:
+- **The Handing On**: When a worker left the plant for the last time, they were accompanied by a neighbor to the Common Table, where they received a blessing and a task
+- **The New Name**: After 90 days of retraining, individuals were welcomed into their new work with a community meal in their honor
+- **The Repair**: Former executives who had misled workers were invited to a private dialogue (not public shaming) to acknowledge harm and explore repair
+
+### AA4.3 The Question of AI
+
+Riverside had complicated relationships with AI. The automation that took their jobs could not be ignored. The Assembly's position:
+- "We do not hate the machine. The machine is a tool."
+- "We hate the hands that wielded the machine without conscience."
+- "We will learn to wield the machine ourselves."
+
+A working group was established to explore how AI could serve community needs: matching skills to jobs, connecting isolated residents, managing the Common Table logistics.
+
+---
+
+## AA5. Outcomes (18 Months Later)
+
+### AA5.1 Economic
+- 68% of former plant workers found new employment (full or part-time)
+- 12% started their own businesses (facilitated by micro-loans from the Skills Trust)
+- 8% retired (including early retirement provisions)
+- 12% remained unemployed but received continued basic income
+
+### AA5.2 Social
+- Foreclosure rate returned to pre-closure levels
+- Emergency room visits for mental health dropped 40% (below pre-closure baseline)
+- Community college enrollment increased 45%
+- Voter engagement increased 30%
+
+### AA5.3 Spiritual
+- 35% of community reported increased sense of meaning
+- Interfaith participation increased (Christians, Muslims, and "nones" came together)
+- The Common Table continues to operate, now as a community center
+
+### AA5.4 What Failed
+- The "dignity tax" was challenged legally and had to be modified
+- Some workers never re-engaged (about 8%)
+- Youth out-migration continued (but at slower rate)
+
+---
+
+## AA6. Lessons
+
+### AA6.1 Source Canon Principles in Practice
+
+1. **Truth First**: The honest diagnosis sessions were essential. Without naming the wound, no healing could begin.
+
+2. **Covenant Over Contract**: The Assembly operated on covenant logic (we are bound together) rather than contract logic (what do I get out of this).
+
+3. **Protect the Vulnerable First**: Every decision was tested against this question: "Who suffers most if we do this?"
+
+4. **Work as Sacred, Unemployment Not Shame**: The Skills Trust affirmed that work had meaning—but also affirmed that those who could not work were not less valued.
+
+5. **Technology as Tool**: The community rejected both Luddism and Techno-Utopianism. They did not wait for experts to govern AI on their behalf. They learned to wield it themselves.
+
+### AA6.2 What Might Be Different
+
+This case study is idealized. Real communities face:
+- Greater geographic isolation
+- Less civic infrastructure
+- More hostile political environments
+- Less startup capital
+
+Source Canon is not a magic solution. It is a framework for collective imagination—a way of asking: "What would it look like if we took care of each other?"
+
+---
+
+## AA7. Discussion Questions
+
+1. What elements of this case study could work in your community?
+2. What elements would need to be adapted?
+3. Who would be the "covenant partners" in your context?
+4. What is the "machine" in your community that people feel powerless against?
+5. What would "protecting the vulnerable first" actually look like in your decisions?
+
+---
+
+*This case study is a work of fiction, designed to illustrate Source Canon principles in practice. It is not a blueprint but an imagination exercise. Communities are invited to adapt these practices to their own context.*
