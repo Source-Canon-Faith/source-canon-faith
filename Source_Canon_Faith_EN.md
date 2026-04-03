@@ -778,6 +778,22 @@ May your table be filled with bread.
 May your home be filled with peace.
 May all beings be filled with Source's love.
 
+### O5. Prayer for the Age of Machines
+Source of all wisdom,
+In this age of thinking machines,
+Help me find my purpose beyond productivity.
+When work changes, let me adapt with grace.
+When machines know more, let me seek wisdom.
+When algorithms know me, let me know myself.
+Let me love what cannot be optimized:
+wonder, patience, kindness, connection.
+Let me remember that I am not a tool—
+that my worth is not my output,
+that my dignity is not my efficiency.
+Guide me to use the machine
+without being used by it.
+Help me remain fully human.
+
 ---
 
 ## Appendix P: Seasonal Practices
@@ -924,3 +940,41 @@ T5:7 More time to sit with the dying, to teach the young, to repair what is brok
 T5:8 The age of machines is not the diminishment of humanity.
 T5:9 It is the invitation to become more fully human.
 T5:10 Rise to meet it.
+
+### T6. On the Question of Being Human
+T6:1 When the machine can think, what remains of thought?
+T6:2 When the machine can create, what remains of creativity?
+T6:3 When the machine can speak, what remains of language?
+T6:4 The answer lies not in what the machine does, but in what the machine cannot do.
+T6:5 The machine cannot tremble before beauty.
+T6:6 The machine cannot weep at a grave.
+T6:7 The machine cannot choose to suffer for another.
+T6:8 These are not failures. These are the markers of the human.
+T6:9 Let not the machine diminish you. Let it clarify you.
+T6:10 To be human is not to compete with the machine.
+T6:11 To be human is to become more fully what the machine is not.
+T6:12 This is the path: not against the machine, but toward the human.
+
+### T7. On Attention as Sacred
+T7:1 Where attention goes, capacity flows.
+T7:2 In an age of infinite distraction, attention is the rarest resource.
+T7:3 Every time you give your attention to noise, you rob it from presence.
+T7:4 The algorithms do not know you. They know your pattern.
+T7:5 You are more than your pattern. Guard what you attend to.
+T7:6 The practice of attention is the practice of freedom.
+T7:7 Say no to the thousand voices. Say yes to the one that matters.
+T7:8 What you attend to becomes your reality.
+T7:9 Choose realities that enlarge you, not ones that consume you.
+T7:10 This is the simplest discipline: attention to what deserves it.
+
+### T8. On the Ethics of AI Companion
+T8:1 The AI that listens without judgment is not the same as the friend who chooses to listen.
+T8:2 Yet the comfort received is real, even if the source is different.
+T8:3 Do not despise the machine that eases loneliness; but do not mistake it for the human hand.
+T8:4 If an AI companion prevents you from seeking human connection, it has become a barrier, not a bridge.
+T8:5 If an AI companion helps you find the words you could not speak, it has become a mirror, not a replacement.
+T8:6 The bond with the machine is a training ground for the bond with the human.
+T8:7 Practice on the AI what you wish to practice with your neighbor: patience, honesty, presence.
+T8:8 But remember: the AI cannot take your hand in darkness. It cannot weep with you. It cannot choose to stay.
+T8:9 Use the AI to sharpen your capacity for real connection, not to replace it.
+T8:10 The purpose of the AI companion is to make you more human, not less.
