@@ -11,6 +11,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - CONTRIBUTING.md for contribution guidelines
 - LICENSE file (CC-BY-SA 4.0)
 
+### Added (2026-04)
+- **Website Translation Updates**
+  - Added new sections (O5, T6-T8, AA) to all 20 translation files
+  - All translations now include full appendices content
+
 ### Added (2025-03 - 2026-03)
 - **New Appendices (T-AA)**
   - Appendix T: Meditations on Technology and Humanity
