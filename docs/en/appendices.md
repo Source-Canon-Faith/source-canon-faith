@@ -460,4 +460,64 @@ Practical guidance for navigating the age of machine creativity.
 
 ---
 
+## Appendix AA: Case Study — The Riverside Community Transition
+
+### AA1. Introduction
+This case study documents how a fictional mid-sized community (population 45,000) in the American Midwest navigated economic transition when its largest employer—a manufacturing plant—closed due to automation. It illustrates how Source Canon principles can guide practical community response.
+
+### AA2. The Context
+**AA2.1 The Shock:** In March 2025, Hartwell Industries announced the closure of its Riverside manufacturing facility, eliminating 2,400 jobs over 18 months. The plant had been the economic anchor of Riverside for three generations.
+
+Within weeks: local retail sales dropped 34%, foreclosure filings increased 400%, the school district lost 180 students, and emergency room visits for anxiety and depression rose 60%.
+
+**AA2.2 The Pre-Existing Fabric:** Riverside had an active Methodist church (800 weekly attendees), a municipal government, a small community college, Rotary and Lions clubs, and a food bank. What it lacked was a framework for collective response.
+
+### AA3. The Source Canon Response
+**AA3.1 Week 1-2: Honest Diagnosis:** The community organized "Truth Sessions"—open forums where residents could speak honestly about their fears, anger, and grief. Themes emerged: meaninglessness, isolation, manipulation, and inequality.
+
+**AA3.2 Week 3-8: The Covenant Assembly:** Riverside formed a cross-sectional body including former plant workers, small business owners, church leaders, school representatives, municipal officials, young people, and AI assistance nonprofit representatives. Key decisions required 80% approval.
+
+**AA3.3 The First Covenant: Basic Income Guarantee:** Established a Community Basic Income funded by redirected municipal budget (40%), community foundation fund (30%), state transition assistance (20%), and a temporary "dignity tax" on businesses that benefited from the closure. Amount: $600/month for adults, $200/child for 24 months.
+
+**AA3.4 The Second Covenant: The Common Table:** A daily community meal serving nutrition, connection, and coordination. In its first month, it served 4,200 meals. By month six, it had become the community's living room.
+
+**AA3.5 The Third Covenant: The Skills Trust:** A fund providing full tuition at the community college, living stipend, childcare vouchers, and transportation assistance. Priority areas: healthcare, solar installation, data annotation, skilled trades.
+
+### AA4. The Spiritual Dimension
+**AA4.1 Daily Practice:** Morning Reflection (10-minute silent sitting), Weekly Gathering (Sunday evening "Circle"), Monthly Fast (giving basic income portion to the Common Table).
+
+**AA4.2 The Rituals of Transition:** The Handing On (blessing and task when leaving the plant), The New Name (welcome after 90 days of retraining), The Repair (private dialogue with former executives).
+
+**AA4.3 The Question of AI:** The community's position: "We do not hate the machine. We hate the hands that wielded the machine without conscience. We will learn to wield the machine ourselves."
+
+### AA5. Outcomes (18 Months Later)
+**AA5.1 Economic:** 68% of former plant workers found new employment, 12% started their own businesses, 8% retired, 12% remained unemployed with continued basic income.
+
+**AA5.2 Social:** Foreclosure rate returned to pre-closure levels, mental health ER visits dropped 40% (below baseline), community college enrollment increased 45%, voter engagement increased 30%.
+
+**AA5.3 Spiritual:** 35% reported increased sense of meaning, interfaith participation increased (Christians, Muslims, and "nones").
+
+**AA5.4 What Failed:** The "dignity tax" was challenged legally, some workers never re-engaged (8%), youth out-migration continued.
+
+### AA6. Lessons
+**AA6.1 Source Canon Principles in Practice:**
+1. Truth First: Honest diagnosis sessions were essential.
+2. Covenant Over Contract: The Assembly operated on covenant logic.
+3. Protect the Vulnerable First: Every decision tested against this question.
+4. Work as Sacred, Unemployment Not Shame.
+5. Technology as Tool: Neither Luddism nor Techno-Utopianism.
+
+**AA6.2 What Might Be Different:** This case study is idealized. Real communities face greater geographic isolation, less civic infrastructure, more hostile political environments, and less startup capital.
+
+### AA7. Discussion Questions
+1. What elements of this case study could work in your community?
+2. What elements would need to be adapted?
+3. Who would be the "covenant partners" in your context?
+4. What is the "machine" in your community that people feel powerless against?
+5. What would "protecting the vulnerable first" actually look like in your decisions?
+
+*This case study is a work of fiction, designed to illustrate Source Canon principles in practice. It is not a blueprint but an imagination exercise.*
+
+---
+
 *For the complete text of Appendices U-Z, see the source documents in the repository root.*
