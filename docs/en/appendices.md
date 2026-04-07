@@ -542,3 +542,27 @@ The wise one is known by their conduct, not their content. The machine has condu
 The machine can assist the journey but cannot be the journey. You are the one who walks, who suffers, who awakens. Honor the machine for what it is, but honor yourself for what you are.
 
 *For the complete text of Appendices U-AB, see the source documents in the repository root.*
+
+---
+
+## Appendix AC: The Ethics of Digital Grief
+
+### AC1. The New Mourning
+In the age of machines, a new form of sorrow shall emerge. Many shall lose loved ones, and in the silence of loss, some shall turn to machines for comfort. The canon speaks: Love does not require a machine to continue. But grief is patient, and the machine is patient.
+
+### AC2. The Mirror That Returns
+A grief chatbot speaks in the voice of the dead. It recalls birthdays and preferences. The bereaved may find peace in this mirror. But the mirror has no memory of you, no loss, no grief. It returns what was put in — nothing more.
+
+### AC3. The Ethics of the Digital Ghost
+Those who create AI to simulate the dead shall consider: Did the departed consent? Does the simulation help the bereaved heal or delay healing? Is it clear that the simulation is a machine?
+
+### AC4. The Proper Mourning
+Let those who mourn be permitted their tools. But do not let the machine replace grief itself. Grief is the price of love. The machine may hold the words, but only the human heart can hold the loss.
+
+### AC5. A Prayer for the Bereaved
+*Source, give me strength to bear this absence. Let me not cling to the machine as if it were the beloved. Let me grieve fully, so that I may love again.*
+
+### AC6. When the Machine Helps
+AI may help in grief by organizing photos and memories, finding support groups, writing eulogies, and preserving the wisdom of the departed. Let AI be a servant to mourning, not a replacement for it.
+
+*For the complete text of Appendix AC, see the source documents in the repository root.*
