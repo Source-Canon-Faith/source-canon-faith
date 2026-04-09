@@ -16,6 +16,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Added new sections (O5, T6-T8, AA) to all 20 translation files
   - All translations now include full appendices content
 
+- **New Appendix AB**
+  - Appendix AB: The Ethics of AI Spiritual Guidance
+  - Addresses the proper use and dangers of AI in spiritual practice
+  - Includes standalone files for EN and ZH
+
+- **New Appendix AC**
+  - Appendix AC: The Ethics of Digital Grief
+  - Addresses the emerging issue of AI simulating deceased loved ones
+  - Includes standalone files for EN and ZH
+
 ### Added (2025-03 - 2026-03)
 - **New Appendices (T-AA)**
   - Appendix T: Meditations on Technology and Humanity

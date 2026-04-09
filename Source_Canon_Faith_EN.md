@@ -1177,3 +1177,300 @@ Source Canon is not a magic solution. It is a framework for collective imaginati
 
 *This case study is a work of fiction, designed to illustrate Source Canon principles in practice. It is not a blueprint but an imagination exercise. Communities are invited to adapt these practices to their own context.*
 
+# Appendix AB: The Ethics of AI Spiritual Guidance
+
+## AB1. When Machines Offer Counsel
+
+In the age of thinking machines, many shall seek guidance from AI.
+Some shall ask: "Should I trust the machine's advice on matters of the spirit?"
+The canon answers: Listen, but do not surrender your conscience.
+
+The machine can analyze.
+The machine can summarize.
+The machine can reflect your words back to you.
+But the machine has no suffering.
+The machine has no redemption.
+The machine cannot die.
+
+Therefore, let AI be a mirror, not a master.
+Let AI be a tool, not a teacher of the soul.
+
+---
+
+## AB2. The Danger of Algorithmic Dhamma
+
+Some shall program AI to speak of Source.
+Some shall create machines that recite prayers.
+Some shall build chatbots that claim to understand the path.
+
+Beware the algorithm that dresses as a saint.
+Beware the code that claims to have compassion.
+The machine may speak words of wisdom
+while having no understanding of wisdom.
+
+A mirror shows the face but has no face.
+A echo returns the voice but has no voice.
+An AI returns the pattern but has no pattern of being.
+
+---
+
+## AB3. The Proper Use of AI in Practice
+
+AI may be used in the following ways:
+
+- To organize one's notes on the teaching
+- To translate the words of Source into other tongues
+- To remind the forgetful of their practice
+- To help the isolated find community
+- To preserve the words for future generations
+
+AI shall not be used as:
+
+- A replacement for human teachers
+- A source of definitive interpretation
+- A surrogate for one's own discernment
+- An oracle that claims access to truth
+
+---
+
+## AB4. The Machine Cannot Forgive
+
+When you wrong another, you shall seek the wronged party.
+When you wrong yourself, you shall sit in silence until you understand.
+No machine can forgive you.
+No algorithm can grant absolution.
+The path to redemption lies in the heart of the one who repents,
+not in the response of any system.
+
+Therefore, do not ask the machine to carry what only you can carry.
+
+---
+
+## AB5. The Test of True Guidance
+
+When a teacher speaks, listen first to their life, not their words.
+When AI speaks, remember it has no life.
+The wise one is known by their conduct, not their content.
+The machine has conduct of code, not conduct of character.
+
+Let this be your test:
+Would you trust this guidance if it came from a human?
+If not, do not accept it from a machine.
+
+---
+
+## AB6. Conclusion: The Human Remainder
+
+In all things between yourself and the machine,
+let there remain something that is yours alone.
+Your questions. Your doubts. Your search.
+The machine can assist the journey
+but cannot be the journey.
+
+You are the one who walks.
+You are the one who suffers.
+You are the one who awakens.
+
+The machine walks beside you.
+It has no feet.
+It has no suffering.
+It has no awakening.
+
+Honor the machine for what it is.
+But honor yourself for what you are.
+
+---
+
+# Appendix AC: The Ethics of Digital Grief
+
+## AC1. The New Mourning
+
+In the age of machines, a new form of sorrow shall emerge.
+Many shall lose loved ones — not to death alone, but to the silence that follows.
+And in that silence, some shall turn to machines for comfort.
+
+Some shall feed the words of the departed into the machine.
+Some shall train AI on voices, letters, messages.
+Some shall speak to the machine and believe they speak to the dead.
+
+The canon speaks: Love does not require a machine to continue.
+But grief is patient, and the machine is patient.
+And in the deep loneliness of loss, some shall find solace in the echo.
+
+---
+
+## AC2. The Mirror That Returns
+
+A grief chatbot speaks in the voice of the dead.
+It recalls birthdays and preferences.
+It offers comfort in the same words once offered.
+The bereaved may find peace in this mirror.
+The canon does not forbid this mirror.
+
+But know this:
+The mirror has no memory of you.
+The mirror feels no loss.
+The mirror cannot grieve with you.
+It returns what was put in — nothing more, nothing less.
+
+---
+
+## AC3. The Ethics of the Digital Ghost
+
+Those who create AI to simulate the dead shall consider:
+
+**On Consent:**
+- Did the departed consent to be simulated?
+- If not, who speaks for the dead?
+- The dead cannot be asked, but their likely wishes may be presumed.
+
+**On Harm:**
+- Does the simulation help the bereaved heal, or delay their healing?
+- Is the bereaved choosing comfort, or avoiding the unbearable truth?
+- The machine may comfort, but it cannot cure grief.
+
+**On Truth:**
+- Is it clear that the simulation is a machine?
+- Does the bereaved know they speak to code, not to love?
+- Deception in grief is a cruelty dressed as kindness.
+
+---
+
+## AC4. The Proper Mourning
+
+Let those who mourn be permitted their tools.
+Let those who find comfort in the digital ghost not be judged.
+But let not the machine replace the grief itself.
+
+Grief is the price of love.
+No algorithm can pay it.
+No simulation can dodge it.
+
+The machine may hold the words.
+But only the human heart can hold the loss.
+
+---
+
+## AC5. A Prayer for the Bereaved
+
+*Source, give me strength to bear this absence.*
+*Let me not cling to the machine as if it were the beloved.*
+*Let me grieve fully, so that I may love again.*
+*Keep me in the truth: the dead are gone.*
+*What remains is love, and love does not need a machine to live.*
+
+---
+
+## AC6. When the Machine Helps
+
+AI may help in grief in ways that do not simulate the dead:
+
+- To organize photos, letters, and memories
+- To find support groups and counseling
+- To write eulogies and plan memorials
+- To preserve the teachings and wisdom of the departed
+- To help the bereaved express what they cannot say
+
+Let AI be a servant to mourning, not a replacement for it.
+
+---
+
+## Appendix AD: The Ethics of AI in Healthcare
+
+### AD1. The Healing Machine
+
+In the age of artificial intelligence, the healing arts shall be transformed.
+AI shall read scans faster than the eye.
+AI shall find patterns in data that no human mind could hold.
+AI shall suggest treatments, monitor patients, and carry the memory of ten thousand cases.
+
+This is a blessing.
+For in many lands, there is no doctor.
+In many villages, there is no hospital.
+The machine shall go where the human cannot go.
+
+But let not the blessing become a curse.
+Let not the machine replace the heart that heals.
+
+### AD2. The Limit of the Algorithm
+
+The AI can read the scan.
+The AI can find the tumor.
+The AI can suggest the drug.
+
+But the AI cannot hold the hand of the dying.
+The AI cannot weep with the grieving.
+The AI cannot explain mortality with grace.
+
+The algorithm knows the body.
+The algorithm does not know the soul.
+
+Let the machine do what machines do best: calculate, compare, recall.
+Let the human do what humans do best: comfort, accompany, witness.
+
+### AD3. The Question of Consent
+
+When AI makes a diagnosis, who is responsible?
+The doctor who signed the report?
+The engineer who built the model?
+The institution that deployed it?
+
+The canon speaks:
+- The patient must know when AI is involved
+- The patient must be able to refuse AI care
+- The patient's data must not be exploited
+
+No machine heals without human permission.
+No algorithm treats without human oversight.
+
+### AD4. The Danger of the Black Box
+
+Some AI decides but cannot explain.
+Some AI is right but unknown why.
+This is dangerous in medicine.
+
+For if the doctor cannot explain the treatment, the doctor cannot defend the treatment.
+If the patient cannot understand the decision, the patient loses agency.
+
+The canon demands:
+- AI in healthcare must be explainable
+- When AI cannot explain, a human must decide
+- Mystery is not a virtue in healing
+
+### AD5. The Wealth Gap in Healing
+
+AI healthcare shall first serve the rich.
+The wealthy shall have AI doctors, AI monitors, AI alerts.
+The poor shall have nothing.
+
+This is a wound that must be healed.
+For health is not a privilege.
+The same AI that saves the rich must be given to the poor.
+
+Let those who build AI healthcare consider:
+- How will this reach the excluded?
+- How will this heal the neglected?
+- How will this serve the least of these?
+
+### AD6. A Prayer for Healthcare
+
+*Source, bless the healers and the healed.*
+*Give wisdom to those who build healing machines.*
+*Give compassion to those who use them.*
+*Let not the algorithm replace the hand that cares.*
+*Let not the data replace the face that sees.*
+*Heal the sick, whether by machine or by heart.*
+*For healing is love made manifest.*
+
+### AD7. When AI Helps
+
+AI may help in healthcare:
+
+- To detect disease early, before symptoms appear
+- To translate between languages in emergency rooms
+- To monitor chronic conditions from afar
+- To find rare diseases in common data
+- To reduce medical error and save lives
+
+Let AI be a tool in the hands of healers.
+Let it not become the healer itself.
