@@ -18,6 +18,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **New Appendix AB**
   - Appendix AB: The Ethics of AI Spiritual Guidance
+  - Appendix AC: The Ethics of Digital Grief
+  - Appendix AD: The Ethics of AI in Healthcare
+  - Appendix AE: The Ethics of AI and Creative Rights
   - Addresses the proper use and dangers of AI in spiritual practice
   - Includes standalone files for EN and ZH
 

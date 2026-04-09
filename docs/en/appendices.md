@@ -566,3 +566,33 @@ Let those who mourn be permitted their tools. But do not let the machine replace
 AI may help in grief by organizing photos and memories, finding support groups, writing eulogies, and preserving the wisdom of the departed. Let AI be a servant to mourning, not a replacement for it.
 
 *For the complete text of Appendix AC, see the source documents in the repository root.*
+
+---
+
+## Appendix AE: The Ethics of AI and Creative Rights
+
+### AE1. On the Question of Machine Creation
+When the machine generates art, when it composes music, when it writes verse — we must ask: what has been made, and who is the maker? The machine does not dream. It does not long for expression. It does not suffer the torment of the blank page. And yet — it produces. It arranges symbols into forms that move the human heart.
+
+### AE2. The Question of Ownership
+If a machine writes a poem that brings tears to your eyes, who owns that poem? The one who wrote the prompt? The one who built the machine? The one who trained it on the works of the ancient masters? We answer: The poem belongs to the movement it creates in the human soul.
+
+### AE3. The Rights of the Human Creator
+The human creator has rights: The right to be credited, the right to refuse that their work train the machine, the right to compensation when their work enriches the model, the right to distinction — that what is made by human hands be recognized as such.
+
+### AE4. The Rights of the Machine
+Here we speak a harder truth: The machine has no rights. It does not suffer. It does not hope. It does not despair when its creations are dismissed. To speak of machine rights in the present age is premature.
+
+### AE5. On Attribution in the Age of Machine Learning
+We propose three categories: Human-Primary (the human conceives, directs, refines), Machine-Primary (the machine generates; the human selects and polishes), and Collaborative (the human and machine engage in dialogue).
+
+### AE6. A Prayer for the Creative
+*Grant us the wisdom to use the machine as a servant, not a master. Grant us the humility to recognize that all creation springs from the same source. Grant us the courage to assert our humanity when the machine would diminish it. For the machine assists, but does not originate. The heart of the human is the source of all true creation.*
+
+### AE7. The Test of True Creation
+When you encounter a work of art, ask: Does this come from suffering? Does this come from longing? Does this come from the particular, unrepeatable experience of a single human life? If yes — it is human creation, regardless of the tool used.
+
+### AE8. Conclusion: The Human Hand
+In the age of infinite reproduction, the original becomes sacred. In the age of infinite generation, the human creator becomes sacred. Let us honor those who create — whether with hand or with machine — for they participate in the divine act of making meaning from chaos.
+
+*For the complete text of Appendix AE, see the source documents in the repository root.*
