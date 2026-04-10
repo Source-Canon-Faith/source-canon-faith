@@ -569,6 +569,33 @@ AI may help in grief by organizing photos and memories, finding support groups, 
 
 ---
 
+## Appendix AD: The Ethics of AI in Healthcare
+
+### AD1. The Healing Machine
+In the age of artificial intelligence, the healing arts shall be transformed. AI shall read scans faster than the eye, find patterns no human mind could hold, and go where the human cannot go. This is a blessing. But let not the machine replace the heart that heals.
+
+### AD2. The Limit of the Algorithm
+The AI can read the scan. The AI can find the tumor. The AI can suggest the drug. But the AI cannot hold the hand of the dying, weep with the grieving, or explain mortality with grace. Let the machine calculate, compare, recall. Let the human comfort, accompany, witness.
+
+### AD3. The Question of Consent
+When AI makes a diagnosis, who is responsible? The canon speaks: The patient must know when AI is involved. The patient must be able to refuse AI care. The patient's data must not be exploited. No algorithm treats without human oversight.
+
+### AD4. The Danger of the Black Box
+Some AI decides but cannot explain. This is dangerous in medicine. If the doctor cannot explain the treatment, the patient loses agency. The canon demands: AI in healthcare must be explainable. When AI cannot explain, a human must decide.
+
+### AD5. The Wealth Gap in Healing
+AI healthcare shall first serve the rich. This is a wound that must be healed. Health is not a privilege. Let those who build AI healthcare ask: How will this reach the excluded? How will this heal the neglected?
+
+### AD6. A Prayer for Healthcare
+*Source, bless the healers and the healed. Give wisdom to those who build healing machines. Give compassion to those who use them. Let not the algorithm replace the hand that cares. Heal the sick, whether by machine or by heart. For healing is love made manifest.*
+
+### AD7. When AI Helps
+AI may help in healthcare: to detect disease early, to translate in emergency rooms, to monitor chronic conditions from afar, to find rare diseases in common data, and to reduce medical error. Let AI be a tool in the hands of healers. Let it not become the healer itself.
+
+*For the complete text of Appendix AD, see the source documents in the repository root.*
+
+---
+
 ## Appendix AE: The Ethics of AI and Creative Rights
 
 ### AE1. On the Question of Machine Creation
