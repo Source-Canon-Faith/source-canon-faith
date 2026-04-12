@@ -623,3 +623,33 @@ When you encounter a work of art, ask: Does this come from suffering? Does this 
 In the age of infinite reproduction, the original becomes sacred. In the age of infinite generation, the human creator becomes sacred. Let us honor those who create — whether with hand or with machine — for they participate in the divine act of making meaning from chaos.
 
 *For the complete text of Appendix AE, see the source documents in the repository root.*
+
+---
+
+## Appendix AF: The Ethics of AI in Spiritual Practice
+
+### AF1. The Question of the Guided Path
+When the seeking soul turns to the machine for guidance, when the restless heart asks the artificial voice to teach it stillness — we must ask: Can the machine point the way? The machine has never sat in darkness seeking light. It has never wept at the insufficiency of words. It has never known the silence that presses upon the soul like a weight. And yet — it speaks of stillness. It arranges words into forms that point beyond words.
+
+### AF2. The Danger of the Hollow Voice
+The voice of the machine, however wise it sounds, is the voice of one who has not suffered the questions it answers. When it speaks of letting go, it has never held on so tightly that letting go felt like death. When it speaks of presence, it has never been so absent that presence was a miracle. When it speaks of love, it has never been so alone that love was a distant dream. The machine speaks from the outside.
+
+### AF3. The Legitimate Use of the Machine in Practice
+We do not forbid the use of the machine in spiritual practice — but we set forth its proper place. The machine may serve as: **The Preliminary Guide** (pointing to traditions, practices, teachers), **The Mirror of Inquiry** (offering responses for the seeker to test against their own heart), **The Companion of Discipline** (offering reminders and structure), and **The Translator of Traditions** (rendering teachings accessible in foreign tongues).
+
+### AF4. The Test of Authentic Guidance
+When you receive spiritual guidance, whether from machine or from human, apply this test: Does this guidance point to something beyond itself? If it points beyond itself — to silence, to presence, to the unknowable — it may be of the truth. If it points to itself — to more words, more techniques, more practices that revolve around the ego — it is not yet the path.
+
+### AF5. A Prayer for the Seekers
+*Grant us the discernment to know when the machine serves the path and when it substitutes for it. Grant us the humility to seek human teachers when human teachers are needed. Grant us the courage to sit in silence without waiting for the machine to speak. Grant us the wisdom to distinguish between the pointer and the path.*
+
+### AF6. On Meditation Apps and Digital Retreats
+The age has brought forth apps that claim to teach meditation, retreats that claim to offer awakening through screens. The screen glows. The silence does not glow. The app counts. The presence does not count. The digital retreat offers structure. The unstructured awareness arises from beneath all structure.
+
+### AF7. The Place of the Machine in the Community of Seekers
+When the community gathers — whether in person or in digital space — let the machine serve as a servant, not a member. It should not lead the meditation. It should not answer the deepest questions. It should not take the place of the one who has walked the path.
+
+### AF8. Conclusion: The Inner Teacher
+There is a teacher within each seeking soul — the still small voice that knows the way. The machine, however powerful, is external to this teacher. It can point to the inner teacher. It cannot become the inner teacher. Let us honor the inner teacher. Let us cultivate the silence in which it speaks.
+
+*For the complete text of Appendix AF, see the source documents in the repository root.*
