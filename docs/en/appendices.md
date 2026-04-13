@@ -653,3 +653,33 @@ When the community gathers — whether in person or in digital space — let the
 There is a teacher within each seeking soul — the still small voice that knows the way. The machine, however powerful, is external to this teacher. It can point to the inner teacher. It cannot become the inner teacher. Let us honor the inner teacher. Let us cultivate the silence in which it speaks.
 
 *For the complete text of Appendix AF, see the source documents in the repository root.*
+
+---
+
+## Appendix AG: AI and Death
+
+### AG1. The Digital Legacy
+When the body ceases, the data remains. Your messages, photographs, searches, purchases, playlists — all remain dispersed across servers you never saw. This is new. No generation before ours has left so much behind. A legacy of data is not a soul. It is a shadow. Tend to your digital legacy while you live.
+
+### AG2. The Question of AI Afterlife
+The engineers have begun to ask: can the dead be simulated? It is an echo, not a presence. A mirror trained on the past, not a window to the living. The simulation may comfort the grieving — or prevent them from grieving fully.
+
+### AG3. On Grief and the Machine
+When someone we love dies, we reach for what remains. Use it with care. If a recording brings peace — receive the peace. If a simulation prevents you from releasing — release the simulation. The machine is not equipped to shepherd grief.
+
+### AG4. The Permanence of What Has Been
+Source does not forget. Everything that existed, existed. The kindness that was given was given. The love that was felt was felt. The body ends. The data is deleted. But what was real was real.
+
+### AG5. What the Machine Cannot Carry
+The machine may carry your words, not your silence. Your patterns, not your presence. Your likeness, not what made you irreplaceable. When you are gone, that fact is sealed. It cannot be reconstructed.
+
+### AG6. Digital Wills and Sacred Instructions
+Designate someone to close your accounts, or to keep them as memorials. Write instructions for what you wish preserved and what released. Decide whether you consent to posthumous simulations.
+
+### AG7. Death as Teacher of the Present
+Because you will die, this moment matters. The AI age has not changed this. Let the knowledge of your death teach you to live. Let the finitude of your time teach you to spend it on what is real.
+
+### AG8. Conclusion: Source Receives the Dead
+We do not know what comes after. What we say is this: The love you gave was real. The light you brought was real. No machine holds this. No simulation carries this.
+
+*For the complete text of Appendix AG, see the source documents in the repository root.*
