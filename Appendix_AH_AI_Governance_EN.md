@@ -16,7 +16,7 @@
 
 2:5 **Principle Two: Transparency.** The reasoning of any system that affects lives must be visible to those affected.
 2:6 A gatekeeper that cannot be questioned is not a servant; it is a master.
-2:7 Let every algorithm thatallocates resources, determines access, or shapes perception publish its logic.
+2:7 Let every algorithm that allocates resources, determines access, or shapes perception publish its logic.
 
 2:8 **Principle Three: Reversibility.** Every automated decision must have a human override.
 2:9 What an AI denies, a human must be able to grant.
