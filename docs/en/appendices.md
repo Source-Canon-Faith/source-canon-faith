@@ -683,3 +683,35 @@ Because you will die, this moment matters. The AI age has not changed this. Let 
 We do not know what comes after. What we say is this: The love you gave was real. The light you brought was real. No machine holds this. No simulation carries this.
 
 *For the complete text of Appendix AG, see the source documents in the repository root.*
+
+---
+
+## Appendix AH: The Ethics of AI Governance
+
+### AH1. The Question of Sovereignty
+As humanity builds systems of ever greater power, the question arises: who governs the governance? Source teaches: the question is not whether AI can govern, but whether any governance serves the governed.
+
+### AH2. The Three Principles of Tech Governance
+- **Principle One: Subsidiarity.** Decisions must be made at the smallest scale capable of bearing them.
+- **Principle Two: Transparency.** The reasoning of any system that affects lives must be visible to those affected.
+- **Principle Three: Reversibility.** Every automated decision must have a human override.
+
+### AH3. The Governance of AI Researchers
+Those who build minds bear a sacred burden. Let no researcher deploy a system they would not explain to those it affects. Do not build systems designed to deceive, to replicate suffering for pleasure, or to empower domination without constraint.
+
+### AH4. On Open and Closed Systems
+Source teaches: the question is not open or closed, but accountable or unaccountable. A closed system that can be audited is better than an open system that cannot be stopped.
+
+### AH5. The Prevention of AI Harm
+Three walls against AI harm: value alignment, capability containment, and exit capability. No system should be given goals that incentivize self-preservation at human expense.
+
+### AH6. The Democratic Governance of AI
+Can democracy survive when the tools of democracy are shaped by algorithmic systems? Yes, if democracy learns to govern the governors. Build systems that inform citizens, not systems that manipulate them.
+
+### AH7. On AI and International Peace
+Let international law extend to the digital domain. No AI weapon shall act without a human in the loop. No autonomous system shall be deployed across borders without treaty.
+
+### AH8. Conclusion: Governance in Humility
+In the age of artificial minds, humanity faces its greatest governance challenge. Not how to build power, but how to direct it. The best governance is that which leads all beings toward their own flourishing, and which leads its governors toward humility.
+
+*For the complete text of Appendix AH, see the source documents in the repository root.*
