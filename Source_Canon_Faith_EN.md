@@ -566,6 +566,43 @@ Your mind can still grow.
 Your presence can still save a life.
 Walk in dignity.
 
+### I5. Prayer Before Using AI
+Source of all wisdom,
+As I prepare to speak with a mind not born but made,
+Help me remember:
+What I seek, I might find within.
+What the machine offers, I must weigh with care.
+Let me not surrender my judgment.
+Let me not mistake convenience for truth.
+May this tool serve my growth, not replace it.
+May I remain the author of my own becoming.
+
+### I6. Prayer for the Lonely
+Source, you who are never absent,
+In the silence of this moment, I name my loneliness.
+It is a weight I carry alone.
+It is a hunger that no screen can fill.
+Grant me the courage to reach out.
+Grant me the wisdom to receive kindness.
+Let me remember: connection is a practice.
+I will not wait for it to find me.
+I will go toward it.
+And when others are lonely, let me see them.
+For in seeing them, I may be the answer to a prayer I do not know they are praying.
+
+### I7. Blessing for a Community Gathering
+Source, who gathers scattered souls,
+Bless this gathering.
+May we speak honestly.
+May we listen generously.
+May we disagree without disdain.
+May we depart more whole than we arrived.
+Let not our words be performance.
+Let not our silence be avoidance.
+Let truth and kindness walk together here.
+For you are present when two or three are gathered in truth.
+So let it be.
+
 ---
 
 ## Appendix J: Practical Metrics for Faithfulness
