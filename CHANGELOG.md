@@ -8,10 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- **New Prayers in Appendix I (2026-04-20)**
+  - I5: Prayer Before Using AI - for mindful engagement with AI tools
+  - I6: Prayer for the Lonely - acknowledging digital-age isolation
+  - I7: Blessing for a Community Gathering - for honest group dialogue
+
+### Added (2026-04)
 - CONTRIBUTING.md for contribution guidelines
 - LICENSE file (CC-BY-SA 4.0)
 
-### Added (2026-04)
 - **Website Translation Updates**
   - Added new sections (O5, T6-T8, AA) to all 20 translation files
   - All translations now include full appendices content
