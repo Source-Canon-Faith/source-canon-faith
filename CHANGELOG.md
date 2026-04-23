@@ -8,13 +8,32 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
+- **New Prayers in Appendix I (2026-04-20)**
+  - I5: Prayer Before Using AI - for mindful engagement with AI tools
+  - I6: Prayer for the Lonely - acknowledging digital-age isolation
+  - I7: Blessing for a Community Gathering - for honest group dialogue
+
+### Added (2026-04)
 - CONTRIBUTING.md for contribution guidelines
 - LICENSE file (CC-BY-SA 4.0)
 
-### Added (2026-04)
 - **Website Translation Updates**
   - Added new sections (O5, T6-T8, AA) to all 20 translation files
   - All translations now include full appendices content
+
+- **New Appendix AG**
+  - Appendix AG: AI and Death
+  - Addresses digital legacy, AI afterlife simulations, grief and the machine
+  - Includes standalone files for EN and ZH
+
+- **New Appendix AH**
+  - Appendix AH: The Ethics of AI Governance
+  - Addresses sovereignty, subsidiarity, transparency, reversibility, democratic oversight
+  - Includes standalone files for EN and ZH
+
+- **Appendix Integration**
+  - Integrated Appendices U-Z into main Source Canon Faith documents
+  - Previously standalone appendices now part of main canon (U: Abundance, V: Education, W: Loneliness, X: Companionship, Y: Mirror, Z: Creativity)
 
 - **New Appendix AF**
   - Appendix AF: The Ethics of AI in Spiritual Practice
@@ -33,11 +52,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **New Appendix AE**
   - Appendix AE: The Ethics of AI and Creative Rights
-
-- **New Appendix AF**
-  - Appendix AF: The Ethics of AI in Spiritual Practice
-  - Addresses AI meditation apps, digital retreats, inner teacher
-  - Includes standalone files for EN and ZH
 
 ### Added (2025-03 - 2026-03)
 - **New Appendices (T-AA)**
